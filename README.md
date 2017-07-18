@@ -19,6 +19,10 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 * Sundown — automates repetitive tasks within your business
 * UBIX — making complex data science easy for enterprise
 
+### Machine Learning
+
+* Geometric Intelligence — apart of the Uber AI Labs 
+
 ## Artificial Intelligence Tools
 
 ### Agents — Personal
@@ -156,3 +160,16 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 * Machine Learning Weekly — a hand-curated newsletter ML and DL
 * PRAI — f0rum for AI, ML and Robotics
 * Storyteller — the emergence of new narratives as intelligent algorithms
+
+### Courses
+
+* [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI Course
+* [Machine Learning](https://class.coursera.org/ml-008) - Basic machine learning algorithms for supervised and unsupervised learning
+
+### Books
+
+TBC
+
+### Programming
+
+TBC
