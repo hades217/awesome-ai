@@ -96,6 +96,39 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Yhat](https://www.trifacta.com/) — allows data scientists to deploy and update predictive models rapidly
 * [Yseop](https://yseop.com/) — automate the writing of reports, websites, emails, articles and more
 
+### Development
+* [AnOdot](http://www.anodot.com/) — detects business incidents
+* [Bonsai](https://bons.ai/) — develop more adaptive, trusted and programmable AI models
+* [Deckard.ai](http://deckard.ai/) — helps predict project timelines
+* [Fuzzy.ai](http://fuzzy.ai/) — adds intelligent decision making to web and mobile apps
+* [IBM Watson](http://www.ibm.com/watson/) — AI platform for business
+* [Gigster](https://gigster.com/) — connecting projects with the right team
+* [Kite](https://kite.com/) — augments your coding environment with web available knowledge
+* [Layer 6 AI](http://layer6.ai/) — deep learning platform for prediction and personalisation
+* [Morp](https://morph.ai/)h — makes developing chatbots for your business easy
+* [Ozz](http://ozz.ai/) — make your bot smarter, by helping it self learn
+* [RainforestQA](https://www.rainforestqa.com/) — rapidly web and mobile app testing
+* [SignifAI](https://www.signifai.io/) — increase server uptime and predict downtime
+* [Turtle](https://turtle.ai/) — project management and chat software that’s easy for teams
+
+### Vehicle
+* [Vinli](https://www.vin.li/) — turns any car into a smart car
+
+### Insurance / Legal
+* [Docubot](http://aux.ai/) — can advise you on legal issues
+* [Driveway](http://www.driveway.ai/) — tracks and rewards safe drivers
+
+IoT / IIoT
+* [Aerial](http://www.aerial.ai/) — home activity, movement and identity sensor
+* [Bridge.ai](http://bridge.ai/) — smart-home platform focused on speech and sound
+* [Cubic](http://cubic.ai/) — one place to connect your smart home devices
+* [Grojo](http://grow.ai/) — grow room controller and monitoring system
+* [Home](http://home.ai/) — autonomous home operations with connected devices
+* [Hello](http://hello.ai/) — helps you monitor and improve your sleep
+* [Josh](https://www.josh.ai/) — whole house voice control
+* [Mycroft](https://mycroft.ai/) — is the world’s first open source voice assistant
+* [Nanit](https://www.nanit.com/) — baby monitor that measures sleep and caregiver interactions
+* [Nest](https://nest.com/) — a range of in-home devices such as Thermostat, security and alarms
 ## Artificial Intelligence Tools
 
 ### Agents — Personal Tools
@@ -104,10 +137,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Apple Siri](http://www.apple.com/ios/siri/) — everyday personal assistant on iPhone and Mac
 * [Brin](https://brin.ai/) — helps you make smarter business decisions
 * [Chatfuel](https://chatfuel.com/) — create a Facebook chatbot in 7 minutes
-* Clara — meeting scheduling assistant
-* Facebook M — competitors to Siri, Now and Cortana
 * [Findo](https://findo.com/) — smart search assistant across email, files and personal cloud.
-* Fembot— your AI girlfriend
+* [Fembot](http://fembot.ai/) — your AI girlfriend
 * [Fin](https://www.fin.com/) — a powerful personal assistant
 * [Focus](http://www.focus.ai/) — helps you focus, get tasks done and prioritise your day
 * [Gatebox](http://gatebox.ai/) — a holographic anime assistant in an espresso machine
@@ -141,6 +172,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Thirdleap](http://thirdleap.ai/) — helps children to learn maths
 * [Woogie](https://woogie.ai/) — the conversational AI robot that makes learning and discovery fun for children
+* [XiaoJing Bot](http://jiangren.com.au) - XiaoJing Bot to support management of wechat groups and remove members of wechat group
 
 ### Health / Medical Tools
 
@@ -199,6 +231,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/) -*Stanford University* Natural language processing (NLP) is one of the most important technologies of the information age. Understanding complex language utterances is also a crucial part of artificial intelligence. Applications of NLP are everywhere because people communicate most everything in language: web search, advertisement, emails, customer service, language translation, radiology reports, etc. 
 - [Machine Learning](http://www.cs.cornell.edu/courses/CS4780/2014fa/) - *Cornell University* This course will introduce you to technologies for building data-centric information systems on the World Wide Web, show the practical applications of such systems, and discuss their design and their social and policy context by examining cross-cutting issues such as citizen science, data journalism and open government. Course work involves lectures and readings as well as weekly homework assignments, and a semester-long project in which the students demonstrate their expertise in building data-centric Web information systems.
 
+### Artificial Intelligence
+
+- [Introduction to Artificial Intelligence](http://ai.berkeley.edu/home.html) -*UC Berkeley* This course will introduce the basic ideas and techniques underlying the design of intelligent computer systems. A specific emphasis will be on the statistical and decision-theoretic modeling paradigm.
+- [Advanced Artificial Intelligence](http://www.cs.cornell.edu/courses/CS6700/2013sp/) -*Cornell University* The design of systems that are among top 10 performers in the world (human, computer, or hybrid human-computer).
 ### Robotics
 
 * [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) - *Georgia Tech*  Artificial Intelligence for Robotics by Sebastian Thrun 
@@ -241,6 +277,9 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Knwl.js](https://github.com/loadfive/Knwl.js) - A Natural Language Processor in JS
 * [NLP Compromise](https://github.com/nlp-compromise/compromise) - Natural Language processing in the browser
 * [science.js](https://github.com/jasondavies/science.js/) - Scientific and statistical computing in JavaScript.
+* [Machine Learning](http://joonku.com/project/machine_learning) - Machine learning library for Node.js
+* [machineJS](https://github.com/ClimbsRocks/machineJS) - Automated machine learning, data formatting, ensembling, and hyperparameter optimization for competitions and exploration.
+* [Node-fann](https://github.com/rlidwka/node-fann) - FANN (Fast Artificial Neural Network Library) bindings for Node.js
 
 ### Python
 
@@ -260,8 +299,6 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Fast.ai](http://www.fast.ai/) — dedicated to making the power of deep learning accessible to all
 * [Machinelearning.ai](http://machinelearning.ai/) — dedicated news and updates for ML and AI
 * [Machine Learning Weekly](http://mlweekly.com/) — a hand-curated newsletter ML and DL
-* PRAI — f0rum for AI, ML and Robotics
-* Storyteller — the emergence of new narratives as intelligent algorithms
 
 ## Events and Conferences
 
@@ -277,16 +314,16 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Amsterdam](http://amsterdam.ai/) —  AI community and events
 * Berlin —  AI community and events
 * Beijing - AI community and events
-* Brisbane - AI community and events
+* [Brisbane](jiangren.com.au) - AI community and events
 * Hamburg —  AI community and events
-* Hongkong —  AI community and events
-* London —  AI community and events
+* [Hongkong](http://hkg.ai/) —  AI community and events
+* [London](http://www.london.ai/) —  AI community and events
 * Madrid —  AI community and events
 * Melbourne - AI community and events
 * Milan —  AI community and events
-* New York.ai —  AI community and events
+* [New York](http://newyork.ai/) —  AI community and events
 * Oslo —  AI community and events
-* Seattle —  AI community and events
+* [Seattle](http://seattle.city.ai/) —  AI community and events
 * Shanghai —  AI community and events
 * Shenzhen —  AI community and events
 * Singapore —  AI community and events
@@ -297,3 +334,9 @@ If you want to contribute to this list (please do), send me a pull request or co
 * Viv — like Siri but 10x better
 * x.ai— meeting scheduling assistant
 * Zoom.ai — personal assistant to help you at work
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Lightman](http://jiangren.com.au) has waived all copyright and related or neighboring rights to this work.
