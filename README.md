@@ -9,6 +9,7 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 3. [Courses](#courses)
 4. [Books](#books)
 5. [Programming](#programming)
+6. [News](#news)
 
 ## Artificial Intelligence Company & Reseach Institute
 
@@ -96,11 +97,11 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 
 ### Travel AI Tools
 
-* Ada — chatbot that helps you navigate and make decisions
+* [Ada](http://fido.ai/) — chatbot that helps you navigate and make decisions
 * Emma— automatically calculates and adds meeting travel time
 * ETA — helps you manage travel itineraries and meetings
 * HelloGbye — book complex trips with simple speech
-* Mezi —helps with booking flights, hotels, restaurant reservations and more
+* [Mezi](http://mezi.com/) —helps with booking flights, hotels, restaurant reservations and more
 * Nexar — dash cam app that helps you drive safer
 * Ready — traffic forecaster and travel time prediction
 * Spatial — reveal the social layer of cities
@@ -108,7 +109,7 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 ### Finance AI Tools
 
 * Abe — fast answers about your finances
-* Andy — a personal Tax Accountant
+* [Andy](http://andy.ai/) — a personal Tax Accountant
 * Ara — helps you budget
 * Bond — helps you achieve your financial goals
 * Mylo — rounds up your everyday purchases and invest the spare change
@@ -121,7 +122,7 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 ### Language / Translation AI Tools
 
 * Liv — transcribe conversations in English and Hindi
-* Microsoft Translator — language translator powered by neural networks
+* [Microsoft Translator](https://translator.microsoft.com/neural/) — language translator powered by neural networks
 * Watson.ai — legal, academic and financial translations
 
 ### Research
@@ -135,54 +136,32 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 * [The AI Conference](http://aiconference.com/) — an annual event where leading AI researchers and top industry practitioners meet and collaborate
 * [The AI Forum](https://www.c2montreal.com/post/new-the-ai-forum-at-c2-montreal-2017/) — Montreal based AI conference
 * Applied Artificial Intelligence Conference — Bootstrap Labs Venture firm
+* Events.ai — the one stop shop for AI/ML/DL events and conferences
+* Nucl.ai — game AI conference and courses
 
 ##### Location
 
 * [Amsterdam](http://amsterdam.ai/) — applied AI community and events
-* Bangalore — applied AI community and events
 * Berlin — applied AI community and events
+* Beijing - AI community
 * Brisbane - AI community
-* Bucharest — applied AI community and events
-* Budapest — applied AI community and events
-* City.ai — applied AI communities and events
-* Events.ai — the one stop shop for AI/ML/DL events and conferences
 * Hamburg — applied AI community and events
 * Hongkong — applied AI community and events
-* Krakow — applied AI community and events
 * London — applied AI community and events
 * Madrid — applied AI community and events
 * Melbourne - AI community
 * Milan — applied AI community and events
 * New York.ai — applied AI community and events
-* Nucl.ai — game AI conference and courses
-* oh.hai.ai — strong name game!
 * Oslo — applied AI community and events
 * Seattle — applied AI community and events
 * Singapore — applied AI community and events
-* Sofia — applied AI community and events
 * Stockholm — applied AI community and events
 * Sydney - AI community
-* Tallinn — applied AI community and events
-* Tirana — applied AI community and events
-* Valletta — applied AI community and events
 
-
-* Vesper — virtual assistant aimed at C-Suite
 * Viv — like Siri but 10x better
 * x.ai— meeting scheduling assistant
 * Zoom.ai — personal assistant to help you at work
 
-### News and blogs
-
-* [AI Weekly](http://aiweekly.co/) — a weekly collection news and resources on AI and ML
-* Approximately Correct — AI and Machine Learning blog
-* [Axiomzen](http://ai.axiomzen.co/) — AI newsletter delivered every 2 weeks
-* [Concerning.ai](https://concerning.ai/) — AI commentators
-* [Fast.ai](http://www.fast.ai/) — dedicated to making the power of deep learning accessible to all
-* [Machinelearning.ai](http://machinelearning.ai/) — dedicated news and updates for ML and AI
-* [Machine Learning Weekly](http://mlweekly.com/) — a hand-curated newsletter ML and DL
-* PRAI — f0rum for AI, ML and Robotics
-* Storyteller — the emergence of new narratives as intelligent algorithms
 
 ## Courses
 
@@ -195,4 +174,30 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 
 ## Programming
 
-TBC
+### C++
+
+### Java
+
+### Julia
+
+### Javascript
+
+* [Twitter-text](https://github.com/twitter/twitter-text) - Twitter's text processing library
+* [natural](https://github.com/NaturalNode/natural) - General natural language facilities for node
+* [Clustering.js](https://github.com/emilbayes/clustering.js) - Clustering algorithms implemented for Node.js and the browser
+* [Kmeans.js](https://github.com/emilbayes/kMeans.js) - Implementation of the k-means algorithm, for node.js and the browser
+* [sylvester](https://github.com/jcoglan/sylvester) - Vector and Matrix math for JavaScript.
+
+### PHP
+
+## News
+
+* [AI Weekly](http://aiweekly.co/) — a weekly collection news and resources on AI and ML
+* Approximately Correct — AI and Machine Learning blog
+* [Axiomzen](http://ai.axiomzen.co/) — AI newsletter delivered every 2 weeks
+* [Concerning.ai](https://concerning.ai/) — AI commentators
+* [Fast.ai](http://www.fast.ai/) — dedicated to making the power of deep learning accessible to all
+* [Machinelearning.ai](http://machinelearning.ai/) — dedicated news and updates for ML and AI
+* [Machine Learning Weekly](http://mlweekly.com/) — a hand-curated newsletter ML and DL
+* PRAI — f0rum for AI, ML and Robotics
+* Storyteller — the emergence of new narratives as intelligent algorithms
