@@ -1,7 +1,7 @@
 # awesome-ai
 A collection of artificial intelligence resources (Courses, Tools, App, Open Source Project)
 
-## Artificial Intelligence Company
+## Artificial Intelligence Company & Reseach Institute
 
 ### Business Intelligence & Analytics
 
@@ -24,14 +24,17 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 * [Geometric Intelligence ](https://geometricintelligence.com/) - Geometric Intelligence apart of the Uber AI Labs 
 * [kaggle](https://www.kaggle.com/) - a platform for predictive modelling and analytics competitions in which companies and researchers post data and statisticians and data miners compete to produce the best models for predicting and describing the data
 
+### Robotics
+TBC
+
 ## Artificial Intelligence Tools
 
 ### Agents — Personal Tools
 
 * [Amazon Echo / Alexa](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E) — everyday personal assistant for in-home
 * [Apple Siri](http://www.apple.com/ios/siri/) — everyday personal assistant on iPhone and Mac
-* Brin — helps you make smarter business decisions
-* Chatfuel — create a Facebook chatbot in 7 minutes
+* [Brin](https://brin.ai/) — helps you make smarter business decisions
+* [Chatfuel](https://chatfuel.com/) — create a Facebook chatbot in 7 minutes
 * Clara — meeting scheduling assistant
 * [Cortana](https://www.microsoft.com/en-us/mobile/experiences/cortana/) — everyday personal assistant on PC and Windows devices
 * Facebook M — competitors to Siri, Now and Cortana
@@ -46,8 +49,8 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 * Kono — meeting scheduling assistant
 * Lifos — dynamic independent entities that interact with the web and social
 * [Ling](http://ling.ai/en/) — similar to Amazon Echo
-* Luka — chatbot messenger for people and other chatbots
-* Lyra — monitor analyse your carbon emissions
+* [Luka](https://luka.ai/) — chatbot messenger for people and other chatbots
+* [Lyra](https://lyr.ai) — monitor analyse your carbon emissions
 * [MyWave](https://mywave.me/) - Melbourne-based which makes a personal call
 * [Meeco](http://meeco.me) - Sydney-based, a robot lawyer
 * Mimetic — meeting scheduling assistant
@@ -65,22 +68,21 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 
 ### Education
 
-* Thirdleap — helps children to learn maths
-* Woogie — the conversational AI robot that makes learning and discovery fun for children
+* [Thirdleap](http://thirdleap.ai/) — helps children to learn maths
+* [Woogie](https://woogie.ai/) — the conversational AI robot that makes learning and discovery fun for children
 
 ### Health / Medical
 
-* Abi — your virtual health assistant
+* [Abi](https://abi.ai/) — your virtual health assistant
 * Ada — can help if you’re feeling unwell
-* Airi — personal health coach
-* Alz.ai — helps you care for loved ones with Alzheimer’s
-* Amélie — chatbot for mental health
-* Bitesnap — food recognition from meal photos to help count calories
-* doc.ai — makes lab results easy to understand
-* Gyan — helps you go from symptoms to likely conditions
-* Joy — helps you track and improve your mental health
+* [Airi](http://airi.ai/) — personal health coach
+* [Alz.ai](https://alz.ai/) — helps you care for loved ones with Alzheimer’s
+* [Bitesnap](https://getbitesnap.com/) — food recognition from meal photos to help count calories
+* [doc.ai](http://doc.ai/) — makes lab results easy to understand
+* [Gyan](http://gyant.com/english/) — helps you go from symptoms to likely conditions
+* [Joy](http://www.hellojoy.ai/) — helps you track and improve your mental health
 * Kiwi — helps you to reduce and quit smoking
-* Tess by X2AI— therapist in your pocket
+* [Tess by X2AI](https://x2.ai/) — therapist in your pocket
 * Sleep.ai — diagnose snoring and tooth grinding
 
 ### Travel AI Tools
