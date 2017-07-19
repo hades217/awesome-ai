@@ -1,6 +1,7 @@
-# awesome-ai
-A collection of artificial intelligence resources (Courses, Tools, App, Open Source Project)
+# Awesome Artificial Intelligence
+A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)
 
+If you want to contribute to this list (please do), send me a pull request or contact me ozitquan@gmail.com
 
 ## Contents
 
@@ -8,7 +9,7 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 2. [Artificial Intelligence Tools](#user-content-artificial-intelligence-tools)
 3. [Courses](#courses)
 4. [Books](#books)
-5. [Programming](#programming)
+5. [Development](#development)
 6. [News](#news)
 
 ## Artificial Intelligence Company & Reseach Institute
@@ -37,6 +38,56 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 ### Robotics
 * [Boston Dynamics](https://www.bostondynamics.com) -  an engineering and robotics design company that is best known for the development of BigDog
 
+### Conversational Interfaces & Chatbots
+* [API.ai](https://api.ai/) — advanced tools needed to build conversational user interfaces
+* [Chatfuel](https://chatfuel.com/) — build a Facebook chatbot without coding
+* [Comm.ai](http://comm.ai/) — add voice and chat API to websites and apps
+* [Conversica](https://www.conversica.com/) — conversational interfaces to help get more sales
+* [EDDI](http://eddi.labs.ai/) — create, test and deploy chatbots
+* [FPT AI Platform](https://fpt.ai/) — automated interaction with end-users
+* [Golem.ai](https://golem.ai) — natural language interpretation tool for developers
+* [Gong](https://www.gong.io/) — analyses and improves sales conversations and discovery calls
+* [Kasisto](http://kasisto.com/) — conversational AI platform for the finance industry
+* [KITT.AI](http://kitt.ai/) — create conversational agents using a visual interface
+* [Maluuba](http://www.maluuba.com/) — teaching machines to think, reason and communicate
+* [Massively](http://massively.ai/) — build chatbots for business
+* [Meya](https://meya.ai/) — build, train and host bots in one platform
+* [MindMeld](https://www.mindmeld.com/) — improved version of Siri
+* [Motion AI](https://www.motion.ai/) — chat bots made easy
+* [msg.ai](http://txt.ai/index.html#home) — chatbot with management dashboard
+* [Octane AI](https://octaneai.com/) — marketing automation for messaging
+* [OpenAI Gym](https://gym.openai.com/) — open source interface to reinforcement learning tasks
+* [Orbit](https://orbit.ai) — tools to help to help automate conversational AI
+* [Pool](https://pool.ai/) — personal assistant that helps you get more work done
+* [Recast](https://recast.ai/) — collaborative platform to build, train, deploy intelligent bots
+* [Reply.ai](https://www.reply.ai/) — platform to build and manage your conversational strategy
+* [Semantic Machines](http://www.semanticmachines.com/) — conversational AI for work, travel, shop and play
+* [Snips](https://snips.ai/) — add a voice Assistant to your connected product
+* [Servo](http://servo.ai/) — full spectrum bot and voice which integrates with existing systems
+* [UNU.ai](http://unu.ai/) — using the Swarm Intelligence (group brainpower) for chatbots
+* [Unify](http://www.unify.ai/) — e-commerce chatbot
+* [uTu](https://utu.ai/) — multi-channel bot analytics and data management
+* [Wechaty](https://github.com/Chatie/wechaty) - Wechaty is a Bot Framework for Wechat Personal Account which can help you create a bot
+* [Wit.ai](https://wit.ai/) — easily create text or voice based bots for preferred platform
+* [Wysh](https://wysh.ai/) — enterprise scale chatbot with payment methods
+* [Zero AI](http://zero.ai/) — voice interface that understands meaning, intent and context
+
+### Data Science
+* [BigML](https://bigml.com/) — single platform for all predictive use cases
+* [CrowdFlower](https://www.crowdflower.com/) — helps with sentiment analysis, search relevance, and more
+* [Dataiku](http://www.dataiku.com/) — data science platform for prototype, deploy, and run at scale
+* [DataScience](https://www.datascience.com) — enterprise data science platform for R&D and production
+* [Domino Data Lab](https://www.dominodatalab.com/) — platform for collaborating, building and deploying
+* [Kaggle](https://www.kaggle.com/) — helps you learn, work, and play with machine learning models
+* [RapidMiner](https://rapidminer.com/) — makes data science teams more productive
+* [Seldon](http://www.seldon.io/) — helps DS teams put machine learning models into production
+* [SherlockML](https://sherlockml.com/) — a platform to build, test, and deploy AI algorithms
+* [Spark](http://www.sparkbeyond.com/) — research engine, capable of discovering complex patterns in data
+* [Tamr](http://www.tamr.com/) — makes data unification of data silos possible
+* [Trifacta](https://www.trifacta.com/) — helps put data into useful structures for analysis
+* [Yhat](https://www.trifacta.com/) — allows data scientists to deploy and update predictive models rapidly
+* [Yseop](https://yseop.com/) — automate the writing of reports, websites, emails, articles and more
+
 ## Artificial Intelligence Tools
 
 ### Agents — Personal Tools
@@ -46,7 +97,6 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 * [Brin](https://brin.ai/) — helps you make smarter business decisions
 * [Chatfuel](https://chatfuel.com/) — create a Facebook chatbot in 7 minutes
 * Clara — meeting scheduling assistant
-* [Cortana](https://www.microsoft.com/en-us/mobile/experiences/cortana/) — everyday personal assistant on PC and Windows devices
 * Facebook M — competitors to Siri, Now and Cortana
 * [Findo](https://findo.com/) — smart search assistant across email, files and personal cloud.
 * Fembot— your AI girlfriend
@@ -54,6 +104,7 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 * [Focus](http://www.focus.ai/) — helps you focus, get tasks done and prioritise your day
 * [Gatebox](http://gatebox.ai/) — a holographic anime assistant in an espresso machine
 * [Google Assistant](https://assistant.google.com/) — everyday personal assistant
+* [Howdy](https://howdy.ai/) - a friendly, trainable bot that helps Slack teams with work
 * [Hound](http://hound.ai/) — everyday personal assistant
 * Julie Desk — meeting scheduling assistant (aimed at C-Suite)
 * Kono — meeting scheduling assistant
@@ -61,6 +112,8 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 * [Ling](http://ling.ai/en/) — similar to Amazon Echo
 * [Luka](https://luka.ai/) — chatbot messenger for people and other chatbots
 * [Lyra](https://lyr.ai) — monitor analyse your carbon emissions
+* [Magic](https://getmagic.com/) - Magic is a special phone number you text to get anything you want, hassle free
+* [Microsoft Cortana](https://www.microsoft.com/en/mobile/experiences/cortana/) - Cortana is a voice-controlled virtual assistant for Microsoft Windows Phone 8.1. Comparable to Siri, the intelligent assistant enabled on Apple devices, Microsoft's Cortana will use the Bing search engine and data stored on the user's smartphone by to make personalized recommendations
 * [MyWave](https://mywave.me/) - Melbourne-based which makes a personal call
 * [Meeco](http://meeco.me) - Sydney-based, a robot lawyer
 * Mimetic — meeting scheduling assistant
@@ -73,7 +126,7 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 * [Spoken](http://spoken.ai/) — virtual assistant with an interface
 * Vesper — virtual assistant aimed at C-Suite
 * [Viv](http://viv.ai/) — like Siri but 10x better
-* x.ai— meeting scheduling assistant
+* [x.ai](https://x.ai/) — x.ai is a personal assistant who schedules meetings for you
 * Zoom.ai — personal assistant to help you at work
 
 ### Education Tools
@@ -123,7 +176,7 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 
 * Liv — transcribe conversations in English and Hindi
 * [Microsoft Translator](https://translator.microsoft.com/neural/) — language translator powered by neural networks
-* Watson.ai — legal, academic and financial translations
+* [Watson.ai](http://watson.ai/) — legal, academic and financial translations
 
 ### Research
 
@@ -138,6 +191,7 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 * Applied Artificial Intelligence Conference — Bootstrap Labs Venture firm
 * Events.ai — the one stop shop for AI/ML/DL events and conferences
 * Nucl.ai — game AI conference and courses
+* [Chatbot Summit](https://www.chatbotsummit.com/) - Chatbot Summit Berlin is the second international Chatbot Summit destined to bring together the leading players of the newly formed Chatbot economy
 
 ##### Location
 
@@ -157,6 +211,7 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 * Singapore — applied AI community and events
 * Stockholm — applied AI community and events
 * Sydney - AI community
+* [Chatbots NYC](https://www.meetup.com/New-York-chatbots-Meetup/) - Meetup in New York City
 
 * Viv — like Siri but 10x better
 * x.ai— meeting scheduling assistant
@@ -172,7 +227,21 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 
 * [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html) - This introductory textbook on reinforcement learning is targeted toward engineers and scientists in artificial intelligence, operations research, neural networks, and control systems, and we hope it will also be of interest to psychologists and neuroscientists.
 
-## Programming
+## Development
+
+### Bot Development
+
+* [Alexa Skill Kit](https://github.com/stojanovic/alexa-skill-kit) - Library for effortless Alexa Skill development with AWS Lambda
+* [Facebook Messenger chatbot boilerplate](https://github.com/christophrumpel/chatbot-php-boilerplate) - PHP Facebook Messenger chatbot boilerplate
+* [Facebook Messenger wit.ai node.js boilerplate](https://github.com/SimplyTechnologies/messenger-bot-wit-boilerplate) -Facebook Messenger wit.ai node.js boilerplate
+* [Telegram Bot API PHP SDK](https://github.com/irazasyed/telegram-bot-sdk) - Telegram Bot API PHP SDK. Supports Laravel out of the box
+* [Wechaty](https://github.com/wechaty/wechaty) - Wechaty is a Bot Framework for Wechat Personal Account which can help you create a bot
+* [Node.js Messenger Bot](https://github.com/remixz/messenger-bot) - A Node client for the Facebook Messenger Platform
+* [BootBot](https://github.com/Charca/bootbot) - Facebook Messenger Bot Framework for Node.js
+* [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
+* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - This library provides a pure Python interface for the Telegram Bot API
+
+### Haskell
 
 ### C++
 
@@ -188,7 +257,14 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 * [Kmeans.js](https://github.com/emilbayes/kMeans.js) - Implementation of the k-means algorithm, for node.js and the browser
 * [sylvester](https://github.com/jcoglan/sylvester) - Vector and Matrix math for JavaScript.
 
+### Python
+
 ### PHP
+
+### R
+
+### TensorFlow
+
 
 ## News
 
