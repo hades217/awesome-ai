@@ -37,6 +37,13 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ### Robotics
 * [Boston Dynamics](https://www.bostondynamics.com) -  an engineering and robotics design company that is best known for the development of BigDog
+* [iRobot](http://www.irobot.com/) - manufacturer of the famous robotic vacuum cleaner
+* [DJI](http://www.dji.com/) - industry leader in drones for both commerical and industrial needs.
+* [Fetch Robotics](http://www.fetchrobotics.com/) - The future of e-commerce fulfillment and R&D robots.
+* [ABB Robotics](http://new.abb.com/products/robotics) - the largest manufacturer of industrial robots
+* [Aldebaran Robotics](https://www.aldebaran.com/en) - creator of the [NAO robot
+* [FANUC](http://www.fanucamerica.com/) - industrial robots manufacturer with the biggest install base
+* [Rethink Robotics](http://www.rethinkrobotics.com/) - creator of the collaborative robot [Baxter]
 
 ### Conversational Interfaces & Chatbots
 * [API.ai](https://api.ai/) — advanced tools needed to build conversational user interfaces
@@ -151,30 +158,28 @@ If you want to contribute to this list (please do), send me a pull request or co
 ### Travel AI Tools
 
 * [Ada](http://fido.ai/) — chatbot that helps you navigate and make decisions
-* Emma— automatically calculates and adds meeting travel time
-* ETA — helps you manage travel itineraries and meetings
-* HelloGbye — book complex trips with simple speech
+* [Emma](http://ema.ai/) — automatically calculates and adds meeting travel time
+* [ETA](https://www.eta.ai/) — helps you manage travel itineraries and meetings
+* [HelloGbye](https://www.hellogbye.com/) — book complex trips with simple speech
 * [Mezi](http://mezi.com/) —helps with booking flights, hotels, restaurant reservations and more
-* Nexar — dash cam app that helps you drive safer
-* Ready — traffic forecaster and travel time prediction
-* Spatial — reveal the social layer of cities
+* [Nexar](https://www.getnexar.com/) — dash cam app that helps you drive safer
+* [Ready](http://ready.ai/) — traffic forecaster and travel time prediction
+* [Spatial](http://spatial.ai/) — reveal the social layer of cities
 
 ### Finance AI Tools
 
-* Abe — fast answers about your finances
+* [Abe](https://www.abe.ai/) — fast answers about your finances
 * [Andy](http://andy.ai/) — a personal Tax Accountant
-* Ara — helps you budget
-* Bond — helps you achieve your financial goals
-* Mylo — rounds up your everyday purchases and invest the spare change
-* Olivia — helps you manage your finances
-* Responsive— institutional-grade active portfolio management
-* Roger — helps you pay bills easily
-* Wallet — AI for your daily finance decisions
-* Xoe.ai — AI lending chatbot
+* [Ara](https://ara.ai/) — helps you budget
+* [Bond](http://bond.ai/) — helps you achieve your financial goals
+* [Mylo](https://mylo.ai/) — rounds up your everyday purchases and invest the spare change
+* [Olivia]() — helps you manage your finances
+* [Responsive](https://www.responsive.ai/) — institutional-grade active portfolio management
+* [Roger](https://www.roger.ai/) — helps you pay bills easily
+* [Xoe.ai](http://xoe.ai/) — AI lending chatbot
 
 ### Language / Translation AI Tools
 
-* Liv — transcribe conversations in English and Hindi
 * [Microsoft Translator](https://translator.microsoft.com/neural/) — language translator powered by neural networks
 * [Watson.ai](http://watson.ai/) — legal, academic and financial translations
 
@@ -188,29 +193,31 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [The AI Conference](http://aiconference.com/) — an annual event where leading AI researchers and top industry practitioners meet and collaborate
 * [The AI Forum](https://www.c2montreal.com/post/new-the-ai-forum-at-c2-montreal-2017/) — Montreal based AI conference
-* Applied Artificial Intelligence Conference — Bootstrap Labs Venture firm
+*  Artificial Intelligence Conference — Bootstrap Labs Venture firm
 * Events.ai — the one stop shop for AI/ML/DL events and conferences
 * Nucl.ai — game AI conference and courses
 * [Chatbot Summit](https://www.chatbotsummit.com/) - Chatbot Summit Berlin is the second international Chatbot Summit destined to bring together the leading players of the newly formed Chatbot economy
 
 ##### Location
 
-* [Amsterdam](http://amsterdam.ai/) — applied AI community and events
-* Berlin — applied AI community and events
-* Beijing - AI community
-* Brisbane - AI community
-* Hamburg — applied AI community and events
-* Hongkong — applied AI community and events
-* London — applied AI community and events
-* Madrid — applied AI community and events
-* Melbourne - AI community
-* Milan — applied AI community and events
-* New York.ai — applied AI community and events
-* Oslo — applied AI community and events
-* Seattle — applied AI community and events
-* Singapore — applied AI community and events
-* Stockholm — applied AI community and events
-* Sydney - AI community
+* [Amsterdam](http://amsterdam.ai/) —  AI community and events
+* Berlin —  AI community and events
+* Beijing - AI community and events
+* Brisbane - AI community and events
+* Hamburg —  AI community and events
+* Hongkong —  AI community and events
+* London —  AI community and events
+* Madrid —  AI community and events
+* Melbourne - AI community and events
+* Milan —  AI community and events
+* New York.ai —  AI community and events
+* Oslo —  AI community and events
+* Seattle —  AI community and events
+* Shanghai —  AI community and events
+* Shenzhen —  AI community and events
+* Singapore —  AI community and events
+* Stockholm —  AI community and events
+* Sydney - AI community and events
 * [Chatbots NYC](https://www.meetup.com/New-York-chatbots-Meetup/) - Meetup in New York City
 
 * Viv — like Siri but 10x better
@@ -222,6 +229,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI Course
 * [Machine Learning](https://class.coursera.org/ml-008) - Basic machine learning algorithms for supervised and unsupervised learning
+
+### Robotics
+
+* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) - Artificial Intelligence for Robotics by Sebastian Thrun of Georgia Tech 
 
 ## Books
 
@@ -256,6 +267,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Clustering.js](https://github.com/emilbayes/clustering.js) - Clustering algorithms implemented for Node.js and the browser
 * [Kmeans.js](https://github.com/emilbayes/kMeans.js) - Implementation of the k-means algorithm, for node.js and the browser
 * [sylvester](https://github.com/jcoglan/sylvester) - Vector and Matrix math for JavaScript.
+* [DN2A](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture
+* [Knwl.js](https://github.com/loadfive/Knwl.js) - A Natural Language Processor in JS
+* [NLP Compromise](https://github.com/nlp-compromise/compromise) - Natural Language processing in the browser
+* [science.js](https://github.com/jasondavies/science.js/) - Scientific and statistical computing in JavaScript.
 
 ### Python
 
