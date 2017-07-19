@@ -8,8 +8,7 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 2. [Artificial Intelligence Tools](#user-content-artificial-intelligence-tools)
 3. [Courses](#courses)
 4. [Books](#books)
-5. [Books](#books)
-6. [Books](#books)
+5. [Programming](#programming)
 
 ## Artificial Intelligence Company & Reseach Institute
 
@@ -35,7 +34,7 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 * [kaggle](https://www.kaggle.com/) - a platform for predictive modelling and analytics competitions in which companies and researchers post data and statisticians and data miners compete to produce the best models for predicting and describing the data
 
 ### Robotics
-TBC
+* [Boston Dynamics](https://www.bostondynamics.com) -  an engineering and robotics design company that is best known for the development of BigDog
 
 ## Artificial Intelligence Tools
 
@@ -76,12 +75,12 @@ TBC
 * x.ai— meeting scheduling assistant
 * Zoom.ai — personal assistant to help you at work
 
-### Education
+### Education Tools
 
 * [Thirdleap](http://thirdleap.ai/) — helps children to learn maths
 * [Woogie](https://woogie.ai/) — the conversational AI robot that makes learning and discovery fun for children
 
-### Health / Medical
+### Health / Medical Tools
 
 * [Abi](https://abi.ai/) — your virtual health assistant
 * Ada — can help if you’re feeling unwell
@@ -127,9 +126,9 @@ TBC
 
 ### Research
 
-* Apollo — breaks down articles and PDF’s into quick, readable dot points
-* Ferret.ai — helps you research by summarising articles and search ability
-* Iris — helps you research and visualise concepts in research papers
+* [Apollo](https://apollo.ai) — breaks down articles and PDF’s into quick, readable dot points
+* [Ferret.ai](http://ferret.ai/) — helps you research by summarising articles and search ability
+* [Iris](http://research.ai/) — helps you research and visualise concepts in research papers
 
 ### Events, Conferences and Communities
 
