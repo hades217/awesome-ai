@@ -5,57 +5,61 @@ A collection of artificial intelligence resources (Courses, Tools, App, Open Sou
 
 ### Business Intelligence & Analytics
 
-* Arago/HIRO — optimise and autonomously IT and business operations
-* Arimo — solution to help predict customer activity and fraud
-* Ayasdi — a suite of intelligent applications for enterprise
-* DataRobot — a range of products to improve enterprise products
-* Dataminr — discovers events and breaking information before the news
-* Einstein — a smarter Salesforce
-* Fuzzy AI — adds intelligent decision making to web and mobile apps
-* Logz.io — helps you index, search, visualise and analyse your data
-* NXT AI — is a framework for temporal pattern recognition and prediction
-* Paxata — to transform raw data into useful information automatically
-* Poweredby.ai — helps you monitor server bugs
-* Sundown — automates repetitive tasks within your business
-* UBIX — making complex data science easy for enterprise
+* [Arago/HIRO](https://www.arago.co/hiro/) — optimise and autonomously IT and business operations
+* [Arimo](https://arimo.com/) — solution to help predict customer activity and fraud
+* [Ayasdi](https://www.ayasdi.com/) — a suite of intelligent applications for enterprise
+* [DataRobot](https://www.datarobot.com/) — a range of products to improve enterprise products
+* [Dataminr](https://www.dataminr.com/) — discovers events and breaking information before the news
+* [Einstein](https://www.salesforce.com/au/products/einstein/overview/) — a smarter Salesforce
+* [Fuzzy AI](https://fuzzy.ai/) — adds intelligent decision making to web and mobile apps
+* [Logz.io](http://logz.io/) — helps you index, search, visualise and analyse your data
+* [NXT AI](https://nxt.ai) — is a framework for temporal pattern recognition and prediction
+* [Paxata](http://www.paxata.com/)] — to transform raw data into useful information automatically
+* [Poweredby.ai](https://poweredby.ai/) — helps you monitor server bugs
+* [Sundown](https://www.sundown.ai/home/) — automates repetitive tasks within your business
+* [UBIX](http://ubix.ai/#dynamic) — making complex data science easy for enterprise
 
 ### Machine Learning
 
-* Geometric Intelligence — apart of the Uber AI Labs 
+* [Geometric Intelligence ](https://geometricintelligence.com/) - Geometric Intelligence apart of the Uber AI Labs 
+* [kaggle](https://www.kaggle.com/) - a platform for predictive modelling and analytics competitions in which companies and researchers post data and statisticians and data miners compete to produce the best models for predicting and describing the data
 
 ## Artificial Intelligence Tools
 
-### Agents — Personal
+### Agents — Personal Tools
 
-* Amazon Echo / Alexa — everyday personal assistant for in-home
-* Apple Siri — everyday personal assistant on iPhone and Mac
+* [Amazon Echo / Alexa](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E) — everyday personal assistant for in-home
+* [Apple Siri](http://www.apple.com/ios/siri/) — everyday personal assistant on iPhone and Mac
 * Brin — helps you make smarter business decisions
 * Chatfuel — create a Facebook chatbot in 7 minutes
 * Clara — meeting scheduling assistant
-* Cortana— everyday personal assistant on PC and Windows devices
+* [Cortana](https://www.microsoft.com/en-us/mobile/experiences/cortana/) — everyday personal assistant on PC and Windows devices
 * Facebook M — competitors to Siri, Now and Cortana
+* [Findo](https://findo.com/) — smart search assistant across email, files and personal cloud.
 * Fembot— your AI girlfriend
-* Fin — a powerful personal assistant
-* Focus — helps you focus, get tasks done and prioritise your day
-* Gatebox — a holographic anime assistant in an espresso machine
-* Google Assistant — everyday personal assistant
-* Hound — everyday personal assistant
+* [Fin](https://www.fin.com/) — a powerful personal assistant
+* [Focus](http://www.focus.ai/) — helps you focus, get tasks done and prioritise your day
+* [Gatebox](http://gatebox.ai/) — a holographic anime assistant in an espresso machine
+* [Google Assistant](https://assistant.google.com/) — everyday personal assistant
+* [Hound](http://hound.ai/) — everyday personal assistant
 * Julie Desk — meeting scheduling assistant (aimed at C-Suite)
 * Kono — meeting scheduling assistant
 * Lifos — dynamic independent entities that interact with the web and social
-* Ling — similar to Amazon Echo
+* [Ling](http://ling.ai/en/) — similar to Amazon Echo
 * Luka — chatbot messenger for people and other chatbots
 * Lyra — monitor analyse your carbon emissions
+* [MyWave](https://mywave.me/) - Melbourne-based which makes a personal call
+* [Meeco](http://meeco.me) - Sydney-based, a robot lawyer
 * Mimetic — meeting scheduling assistant
 * My Ally — handles meeting scheduling and manages calendar
-* Mycroft — is the world’s first open source voice assistant
+* [Mycroft](https://mycroft.ai/) — is the world’s first open source voice assistant
 * myWave — chatbot to help you throughout your daily life
-* Remi— like Siri with an interface
+* [Remi](http://remi.ai/)— like Siri with an interface
 * Replika— your AI friend that you raise through text conversations
 * SkipFlag — automatically discover and organise your work
-* Spoken — virtual assistant with an interface
+* [Spoken](http://spoken.ai/) — virtual assistant with an interface
 * Vesper — virtual assistant aimed at C-Suite
-* Viv — like Siri but 10x better
+* [Viv](http://viv.ai/) — like Siri but 10x better
 * x.ai— meeting scheduling assistant
 * Zoom.ai — personal assistant to help you at work
 
