@@ -1,6 +1,16 @@
 # awesome-ai
 A collection of artificial intelligence resources (Courses, Tools, App, Open Source Project)
 
+
+## Contents
+
+1. [Artificial Intelligence Company & Reseach Institute](#user-content-artificial-intelligence-company--reseach-institute)
+2. [Artificial Intelligence Tools](#user-content-artificial-intelligence-tools)
+3. [Courses](#courses)
+4. [Books](#books)
+5. [Books](#books)
+6. [Books](#books)
+
 ## Artificial Intelligence Company & Reseach Institute
 
 ### Business Intelligence & Analytics
@@ -123,10 +133,16 @@ TBC
 
 ### Events, Conferences and Communities
 
-* Amsterdam — applied AI community and events
+* [The AI Conference](http://aiconference.com/) — an annual event where leading AI researchers and top industry practitioners meet and collaborate
+* [The AI Forum](https://www.c2montreal.com/post/new-the-ai-forum-at-c2-montreal-2017/) — Montreal based AI conference
 * Applied Artificial Intelligence Conference — Bootstrap Labs Venture firm
+
+##### Location
+
+* [Amsterdam](http://amsterdam.ai/) — applied AI community and events
 * Bangalore — applied AI community and events
 * Berlin — applied AI community and events
+* Brisbane - AI community
 * Bucharest — applied AI community and events
 * Budapest — applied AI community and events
 * City.ai — applied AI communities and events
@@ -136,6 +152,7 @@ TBC
 * Krakow — applied AI community and events
 * London — applied AI community and events
 * Madrid — applied AI community and events
+* Melbourne - AI community
 * Milan — applied AI community and events
 * New York.ai — applied AI community and events
 * Nucl.ai — game AI conference and courses
@@ -145,11 +162,12 @@ TBC
 * Singapore — applied AI community and events
 * Sofia — applied AI community and events
 * Stockholm — applied AI community and events
+* Sydney - AI community
 * Tallinn — applied AI community and events
-* The AI Conference — an annual event where leading AI researchers and top industry practitioners meet and collaborate
-* The AI Forum — Montreal based AI conference
 * Tirana — applied AI community and events
 * Valletta — applied AI community and events
+
+
 * Vesper — virtual assistant aimed at C-Suite
 * Viv — like Siri but 10x better
 * x.ai— meeting scheduling assistant
@@ -157,25 +175,25 @@ TBC
 
 ### News and blogs
 
-* AI Weekly — a weekly collection news and resources on AI and ML
+* [AI Weekly](http://aiweekly.co/) — a weekly collection news and resources on AI and ML
 * Approximately Correct — AI and Machine Learning blog
-* Axiomzen — AI newsletter delivered every 2 weeks
-* Concerning.ai — AI commentators
-* Fast.ai — dedicated to making the power of deep learning accessible to all
-* Machinelearning.ai — dedicated news and updates for ML and AI
-* Machine Learning Weekly — a hand-curated newsletter ML and DL
+* [Axiomzen](http://ai.axiomzen.co/) — AI newsletter delivered every 2 weeks
+* [Concerning.ai](https://concerning.ai/) — AI commentators
+* [Fast.ai](http://www.fast.ai/) — dedicated to making the power of deep learning accessible to all
+* [Machinelearning.ai](http://machinelearning.ai/) — dedicated news and updates for ML and AI
+* [Machine Learning Weekly](http://mlweekly.com/) — a hand-curated newsletter ML and DL
 * PRAI — f0rum for AI, ML and Robotics
 * Storyteller — the emergence of new narratives as intelligent algorithms
 
-### Courses
+## Courses
 
 * [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI Course
 * [Machine Learning](https://class.coursera.org/ml-008) - Basic machine learning algorithms for supervised and unsupervised learning
 
-### Books
+## Books
 
-TBC
+* [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html) - This introductory textbook on reinforcement learning is targeted toward engineers and scientists in artificial intelligence, operations research, neural networks, and control systems, and we hope it will also be of interest to psychologists and neuroscientists.
 
-### Programming
+## Programming
 
 TBC
