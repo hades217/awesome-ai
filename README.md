@@ -11,6 +11,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 4. [Books](#books)
 5. [Development](#development)
 6. [News](#news)
+7. [Events and Conferences](#events-and-conferences)
 
 ## Artificial Intelligence Company & Reseach Institute
 
@@ -189,50 +190,19 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Ferret.ai](http://ferret.ai/) — helps you research by summarising articles and search ability
 * [Iris](http://research.ai/) — helps you research and visualise concepts in research papers
 
-### Events, Conferences and Communities
-
-* [The AI Conference](http://aiconference.com/) — an annual event where leading AI researchers and top industry practitioners meet and collaborate
-* [The AI Forum](https://www.c2montreal.com/post/new-the-ai-forum-at-c2-montreal-2017/) — Montreal based AI conference
-*  Artificial Intelligence Conference — Bootstrap Labs Venture firm
-* Events.ai — the one stop shop for AI/ML/DL events and conferences
-* Nucl.ai — game AI conference and courses
-* [Chatbot Summit](https://www.chatbotsummit.com/) - Chatbot Summit Berlin is the second international Chatbot Summit destined to bring together the leading players of the newly formed Chatbot economy
-
-##### Location
-
-* [Amsterdam](http://amsterdam.ai/) —  AI community and events
-* Berlin —  AI community and events
-* Beijing - AI community and events
-* Brisbane - AI community and events
-* Hamburg —  AI community and events
-* Hongkong —  AI community and events
-* London —  AI community and events
-* Madrid —  AI community and events
-* Melbourne - AI community and events
-* Milan —  AI community and events
-* New York.ai —  AI community and events
-* Oslo —  AI community and events
-* Seattle —  AI community and events
-* Shanghai —  AI community and events
-* Shenzhen —  AI community and events
-* Singapore —  AI community and events
-* Stockholm —  AI community and events
-* Sydney - AI community and events
-* [Chatbots NYC](https://www.meetup.com/New-York-chatbots-Meetup/) - Meetup in New York City
-
-* Viv — like Siri but 10x better
-* x.ai— meeting scheduling assistant
-* Zoom.ai — personal assistant to help you at work
-
-
 ## Courses
 
 * [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI Course
 * [Machine Learning](https://class.coursera.org/ml-008) - Basic machine learning algorithms for supervised and unsupervised learning
+* [Deep Learning for Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/) - *University of Oxford* This is an applied course focussing on recent advances in analysing and generating speech and text using recurrent neural networks. 
+* [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html) -*Stanford University* This course will cover the fundamentals and contemporary usage of the Tensorflow library for deep learning research. We aim to help students understand the graphical computational model of Tensorflow.
+* [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/) -*Stanford University* Natural language processing (NLP) is one of the most important technologies of the information age. Understanding complex language utterances is also a crucial part of artificial intelligence. Applications of NLP are everywhere because people communicate most everything in language: web search, advertisement, emails, customer service, language translation, radiology reports, etc. 
+- [Machine Learning](http://www.cs.cornell.edu/courses/CS4780/2014fa/) - *Cornell University* This course will introduce you to technologies for building data-centric information systems on the World Wide Web, show the practical applications of such systems, and discuss their design and their social and policy context by examining cross-cutting issues such as citizen science, data journalism and open government. Course work involves lectures and readings as well as weekly homework assignments, and a semester-long project in which the students demonstrate their expertise in building data-centric Web information systems.
 
 ### Robotics
 
-* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) - Artificial Intelligence for Robotics by Sebastian Thrun of Georgia Tech 
+* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) - *Georgia Tech*  Artificial Intelligence for Robotics by Sebastian Thrun 
+- [Advanced Robotics](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) -*UC Berkeley* The course introduces the math and algorithms underneath state-of-the-art robotic systems. The majority of these techniques are heavily based on probabilistic reasoning and optimization---two areas with wide applicability in modern Artificial Intelligence.
 
 ## Books
 
@@ -292,3 +262,38 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Machine Learning Weekly](http://mlweekly.com/) — a hand-curated newsletter ML and DL
 * PRAI — f0rum for AI, ML and Robotics
 * Storyteller — the emergence of new narratives as intelligent algorithms
+
+## Events and Conferences
+
+* [The AI Conference](http://aiconference.com/) — an annual event where leading AI researchers and top industry practitioners meet and collaborate
+* [The AI Forum](https://www.c2montreal.com/post/new-the-ai-forum-at-c2-montreal-2017/) — Montreal based AI conference
+*  Artificial Intelligence Conference — Bootstrap Labs Venture firm
+* Events.ai — the one stop shop for AI/ML/DL events and conferences
+* Nucl.ai — game AI conference and courses
+* [Chatbot Summit](https://www.chatbotsummit.com/) - Chatbot Summit Berlin is the second international Chatbot Summit destined to bring together the leading players of the newly formed Chatbot economy
+
+### Location
+
+* [Amsterdam](http://amsterdam.ai/) —  AI community and events
+* Berlin —  AI community and events
+* Beijing - AI community and events
+* Brisbane - AI community and events
+* Hamburg —  AI community and events
+* Hongkong —  AI community and events
+* London —  AI community and events
+* Madrid —  AI community and events
+* Melbourne - AI community and events
+* Milan —  AI community and events
+* New York.ai —  AI community and events
+* Oslo —  AI community and events
+* Seattle —  AI community and events
+* Shanghai —  AI community and events
+* Shenzhen —  AI community and events
+* Singapore —  AI community and events
+* Stockholm —  AI community and events
+* Sydney - AI community and events
+* [Chatbots NYC](https://www.meetup.com/New-York-chatbots-Meetup/) - Meetup in New York City
+
+* Viv — like Siri but 10x better
+* x.ai— meeting scheduling assistant
+* Zoom.ai — personal assistant to help you at work
