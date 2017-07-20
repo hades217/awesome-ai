@@ -5,13 +5,33 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Contents
 
-1. [Artificial Intelligence Company & Reseach Institute](#user-content-artificial-intelligence-company--reseach-institute)
-2. [Artificial Intelligence Tools](#user-content-artificial-intelligence-tools)
-3. [Courses](#courses)
+1. [Courses](#courses)
+2. [Artificial Intelligence Company & Reseach Institute](#user-content-artificial-intelligence-company--reseach-institute)
+3. [Artificial Intelligence Tools](#user-content-artificial-intelligence-tools)
 4. [Books](#books)
 5. [Development](#development)
 6. [News](#news)
 7. [Events and Conferences](#events-and-conferences)
+
+## Courses
+
+
+* [Machine Learning](https://www.coursera.org/learn/machine-learning) - *Stanford University* This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. *Taught by:  Andrew Ng*
+* [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - *MIT* This course includes interactive demonstrations which are intended to stimulate interest and to help students gain intuition about how artificial intelligence methods work under a variety of circumstances.
+* [Machine Learning](https://class.coursera.org/ml-008) - Basic machine learning algorithms for supervised and unsupervised learning
+* [Deep Learning for Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/) - *University of Oxford* This is an applied course focussing on recent advances in analysing and generating speech and text using recurrent neural networks. 
+* [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html) -*Stanford University* This course will cover the fundamentals and contemporary usage of the Tensorflow library for deep learning research. We aim to help students understand the graphical computational model of Tensorflow.
+* [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/) -*Stanford University* Natural language processing (NLP) is one of the most important technologies of the information age. Understanding complex language utterances is also a crucial part of artificial intelligence. Applications of NLP are everywhere because people communicate most everything in language: web search, advertisement, emails, customer service, language translation, radiology reports, etc. 
+- [Machine Learning](http://www.cs.cornell.edu/courses/CS4780/2014fa/) - *Cornell University* This course will introduce you to technologies for building data-centric information systems on the World Wide Web, show the practical applications of such systems, and discuss their design and their social and policy context by examining cross-cutting issues such as citizen science, data journalism and open government. Course work involves lectures and readings as well as weekly homework assignments, and a semester-long project in which the students demonstrate their expertise in building data-centric Web information systems.
+
+### Artificial Intelligence
+
+- [Introduction to Artificial Intelligence](http://ai.berkeley.edu/home.html) -*UC Berkeley* This course will introduce the basic ideas and techniques underlying the design of intelligent computer systems. A specific emphasis will be on the statistical and decision-theoretic modeling paradigm.
+- [Advanced Artificial Intelligence](http://www.cs.cornell.edu/courses/CS6700/2013sp/) -*Cornell University* The design of systems that are among top 10 performers in the world (human, computer, or hybrid human-computer).
+### Robotics
+
+* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) - *Georgia Tech*  Artificial Intelligence for Robotics by Sebastian Thrun 
+- [Advanced Robotics](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) -*UC Berkeley* The course introduces the math and algorithms underneath state-of-the-art robotic systems. The majority of these techniques are heavily based on probabilistic reasoning and optimization---two areas with wide applicability in modern Artificial Intelligence.
 
 ## Artificial Intelligence Company & Reseach Institute
 
@@ -221,24 +241,6 @@ IoT / IIoT
 * [Apollo](https://apollo.ai) — breaks down articles and PDF’s into quick, readable dot points
 * [Ferret.ai](http://ferret.ai/) — helps you research by summarising articles and search ability
 * [Iris](http://research.ai/) — helps you research and visualise concepts in research papers
-
-## Courses
-
-* [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI Course
-* [Machine Learning](https://class.coursera.org/ml-008) - Basic machine learning algorithms for supervised and unsupervised learning
-* [Deep Learning for Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/) - *University of Oxford* This is an applied course focussing on recent advances in analysing and generating speech and text using recurrent neural networks. 
-* [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html) -*Stanford University* This course will cover the fundamentals and contemporary usage of the Tensorflow library for deep learning research. We aim to help students understand the graphical computational model of Tensorflow.
-* [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/) -*Stanford University* Natural language processing (NLP) is one of the most important technologies of the information age. Understanding complex language utterances is also a crucial part of artificial intelligence. Applications of NLP are everywhere because people communicate most everything in language: web search, advertisement, emails, customer service, language translation, radiology reports, etc. 
-- [Machine Learning](http://www.cs.cornell.edu/courses/CS4780/2014fa/) - *Cornell University* This course will introduce you to technologies for building data-centric information systems on the World Wide Web, show the practical applications of such systems, and discuss their design and their social and policy context by examining cross-cutting issues such as citizen science, data journalism and open government. Course work involves lectures and readings as well as weekly homework assignments, and a semester-long project in which the students demonstrate their expertise in building data-centric Web information systems.
-
-### Artificial Intelligence
-
-- [Introduction to Artificial Intelligence](http://ai.berkeley.edu/home.html) -*UC Berkeley* This course will introduce the basic ideas and techniques underlying the design of intelligent computer systems. A specific emphasis will be on the statistical and decision-theoretic modeling paradigm.
-- [Advanced Artificial Intelligence](http://www.cs.cornell.edu/courses/CS6700/2013sp/) -*Cornell University* The design of systems that are among top 10 performers in the world (human, computer, or hybrid human-computer).
-### Robotics
-
-* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) - *Georgia Tech*  Artificial Intelligence for Robotics by Sebastian Thrun 
-- [Advanced Robotics](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) -*UC Berkeley* The course introduces the math and algorithms underneath state-of-the-art robotic systems. The majority of these techniques are heavily based on probabilistic reasoning and optimization---two areas with wide applicability in modern Artificial Intelligence.
 
 ## Books
 
