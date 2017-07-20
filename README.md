@@ -131,7 +131,7 @@ IoT / IIoT
 * [Nest](https://nest.com/) — a range of in-home devices such as Thermostat, security and alarms
 ## Artificial Intelligence Tools
 
-### Agents — Personal Tools
+### Personal Tools
 
 * [Amazon Echo / Alexa](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E) — everyday personal assistant for in-home
 * [Apple Siri](http://www.apple.com/ios/siri/) — everyday personal assistant on iPhone and Mac
@@ -145,9 +145,9 @@ IoT / IIoT
 * [Google Assistant](https://assistant.google.com/) — everyday personal assistant
 * [Howdy](https://howdy.ai/) - a friendly, trainable bot that helps Slack teams with work
 * [Hound](http://hound.ai/) — everyday personal assistant
-* Julie Desk — meeting scheduling assistant (aimed at C-Suite)
-* Kono — meeting scheduling assistant
-* Lifos — dynamic independent entities that interact with the web and social
+* [Julie Desk](https://www.juliedesk.com/) — meeting scheduling assistant (aimed at C-Suite)
+* [Kono](http://kono.ai/) — meeting scheduling assistant
+* [Lifos](http://simples.ai/) — dynamic independent entities that interact with the web and social
 * [Ling](http://ling.ai/en/) — similar to Amazon Echo
 * [Luka](https://luka.ai/) — chatbot messenger for people and other chatbots
 * [Lyra](https://lyr.ai) — monitor analyse your carbon emissions
@@ -177,7 +177,7 @@ IoT / IIoT
 ### Health / Medical Tools
 
 * [Abi](https://abi.ai/) — your virtual health assistant
-* Ada — can help if you’re feeling unwell
+* [Ada](https://ada.com/) — can help if you’re feeling unwell
 * [Airi](http://airi.ai/) — personal health coach
 * [Alz.ai](https://alz.ai/) — helps you care for loved ones with Alzheimer’s
 * [Bitesnap](https://getbitesnap.com/) — food recognition from meal photos to help count calories
