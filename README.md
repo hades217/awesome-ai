@@ -33,7 +33,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) - *Georgia Tech*  Artificial Intelligence for Robotics by Sebastian Thrun 
 - [Advanced Robotics](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) -*UC Berkeley* The course introduces the math and algorithms underneath state-of-the-art robotic systems. The majority of these techniques are heavily based on probabilistic reasoning and optimization---two areas with wide applicability in modern Artificial Intelligence.
 
-## Artificial Intelligence Company & Reseach Institute
+## Artificial Intelligence Company & Research Institute
 
 ### Business Intelligence & Analytics
 
@@ -138,17 +138,6 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Docubot](http://aux.ai/) — can advise you on legal issues
 * [Driveway](http://www.driveway.ai/) — tracks and rewards safe drivers
 
-IoT / IIoT
-* [Aerial](http://www.aerial.ai/) — home activity, movement and identity sensor
-* [Bridge.ai](http://bridge.ai/) — smart-home platform focused on speech and sound
-* [Cubic](http://cubic.ai/) — one place to connect your smart home devices
-* [Grojo](http://grow.ai/) — grow room controller and monitoring system
-* [Home](http://home.ai/) — autonomous home operations with connected devices
-* [Hello](http://hello.ai/) — helps you monitor and improve your sleep
-* [Josh](https://www.josh.ai/) — whole house voice control
-* [Mycroft](https://mycroft.ai/) — is the world’s first open source voice assistant
-* [Nanit](https://www.nanit.com/) — baby monitor that measures sleep and caregiver interactions
-* [Nest](https://nest.com/) — a range of in-home devices such as Thermostat, security and alarms
 ## Artificial Intelligence Tools
 
 ### Personal Tools
@@ -236,11 +225,30 @@ IoT / IIoT
 * [Microsoft Translator](https://translator.microsoft.com/neural/) — language translator powered by neural networks
 * [Watson.ai](http://watson.ai/) — legal, academic and financial translations
 
+### IoT / IIoT
+* [Aerial](http://www.aerial.ai/) — home activity, movement and identity sensor
+* [Bridge.ai](http://bridge.ai/) — smart-home platform focused on speech and sound
+* [Cubic](http://cubic.ai/) — one place to connect your smart home devices
+* [Grojo](http://grow.ai/) — grow room controller and monitoring system
+* [Home](http://home.ai/) — autonomous home operations with connected devices
+* [Hello](http://hello.ai/) — helps you monitor and improve your sleep
+* [Josh](https://www.josh.ai/) — whole house voice control
+* [Mycroft](https://mycroft.ai/) — is the world’s first open source voice assistant
+* [Nanit](https://www.nanit.com/) — baby monitor that measures sleep and caregiver interactions
+* [Nest](https://nest.com/) — a range of in-home devices such as Thermostat, security and alarms
+
 ### Research
 
 * [Apollo](https://apollo.ai) — breaks down articles and PDF’s into quick, readable dot points
 * [Ferret.ai](http://ferret.ai/) — helps you research by summarising articles and search ability
 * [Iris](http://research.ai/) — helps you research and visualise concepts in research papers
+
+### Tools
+
+[CaptionBot](https://www.captionbot.ai/) — Microsoft describes any photo
+[Crowdfunding.ai](https://crowdfunding.ai/) — crowdfunding platform for AI projects
+[Fieldguide](https://fieldguide.net/) — universal field guide that suggests possible matches
+
 
 ## Books
 
