@@ -298,6 +298,13 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Machine Learning](http://joonku.com/project/machine_learning) - Machine learning library for Node.js
 * [machineJS](https://github.com/ClimbsRocks/machineJS) - Automated machine learning, data formatting, ensembling, and hyperparameter optimization for competitions and exploration.
 * [Node-fann](https://github.com/rlidwka/node-fann) - FANN (Fast Artificial Neural Network Library) bindings for Node.js
+* [brain.js](https://github.com/harthur-org/brain.js) - Neural Networks
+* [Synaptic](https://github.com/cazala/synaptic) - Neural Networks
+* [Natural](https://github.com/NaturalNode/natural) - Natural Language Processing
+* [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) - Convolutional Neural Networks
+* [mljs](https://github.com/mljs) - A set of sub-libraries with a variety of functions
+* [Neataptic](http://dnn%20execution%20framework%20o/) - Neural Networks
+* [Webdnn](https://github.com/mil-tokyo/webdnn) - Deep Learning
 
 ### Python
 
