@@ -15,7 +15,6 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Courses
 
-
 * [Machine Learning](https://www.coursera.org/learn/machine-learning) - *Stanford University* This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. *Taught by:  Andrew Ng*
 * [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - *MIT* This course includes interactive demonstrations which are intended to stimulate interest and to help students gain intuition about how artificial intelligence methods work under a variety of circumstances.
 * [Machine Learning](https://class.coursera.org/ml-008) - Basic machine learning algorithms for supervised and unsupervised learning
@@ -138,9 +137,11 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [RainforestQA](https://www.rainforestqa.com/) — rapidly web and mobile app testing
 * [SignifAI](https://www.signifai.io/) — increase server uptime and predict downtime
 * [Turtle](https://turtle.ai/) — project management and chat software that’s easy for teams
-
+* [Neural Network](https://nnabla.org/) - Libraries by Sony. Sony demonstrates its interest in deep learning by releasing their own open source deep learning framework.
+* [TensorFlow neural network playground](http://playground.tensorflow.org/) - Play with neural networks visually in your browser to get a feel for what they are and what they do.
 ### Vehicle
 * [Vinli](https://www.vin.li/) — turns any car into a smart car
+* [Apollo](http://apollo.auto/) - by Baidu. Newly launched source platform for building autonomous vehicles.
 
 ### Insurance / Legal
 * [Docubot](http://aux.ai/) — can advise you on legal issues
@@ -262,7 +263,15 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html) - This introductory textbook on reinforcement learning is targeted toward engineers and scientists in artificial intelligence, operations research, neural networks, and control systems, and we hope it will also be of interest to psychologists and neuroscientists.
 
+### Blogs, Papers, and Articles
+* [Deep learning reading list](http://deeplearning.net/reading-list/) - A thorough list of academic survey papers on the subjects of reinforcement learning, computer vision, NLP & speech, disentangling factors, transfer learning, practical tricks, sparse coding, foundation theory, feedforward networks, large scale deep learning, recurrent networks, hyper parameters, optimization, and unsupervised feature learning.
+* [Deep Learning in a Nutshell] - (https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/) - by Tim Dettmers, via NVidia (2015). These articles are digestible and do not rely heavily on math. There are 3 parts: Part 1(A gentle introduction to deep learning that covers core concepts and vocabulary). Part2 ( History of deep learning and methods of training deep learning architectures quickly and efficiently) Part 3 (Sequence learning with a focus on natural language processing)
+* [TensorFlow](http://download.tensorflow.org/paper/whitepaper2015.pdf) - Large-Scale Machine Learning on Heterogeneous Distributed Systems by Google Research (2015). How TensorFlow works.
+
+
 ## Development
+
+* [Caffe](http://caffe.berkeleyvision.org/) - Deep learning framework.
 
 ### Bot Development
 
@@ -308,6 +317,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ### Python
 
+* [Lasagne](https://github.com/Lasagne/Lasagne) - Lightweight Python library for deep learning (built on Theano).
+
 ### PHP
 
 ### R
@@ -325,6 +336,11 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Machinelearning.ai](http://machinelearning.ai/) — dedicated news and updates for ML and AI
 * [Machine Learning Weekly](http://mlweekly.com/) — a hand-curated newsletter ML and DL
 
+### Podcast
+* [Podcast with Yoshua Bengio](http://techemergence.com/the-rise-of-neural-networks-and-deep-learning-in-our-everyday-lives-a-conversation-with-yoshua-bengio/) - The Rise of Neural Networks and Deep Learning in Our Everyday Lives. An exciting overview of the power of neural networks as well as their current influence and future potential.
+
+
+
 ## Events and Conferences
 
 * [The AI Conference](http://aiconference.com/) — an annual event where leading AI researchers and top industry practitioners meet and collaborate
@@ -333,6 +349,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 * Events.ai — the one stop shop for AI/ML/DL events and conferences
 * Nucl.ai — game AI conference and courses
 * [Chatbot Summit](https://www.chatbotsummit.com/) - Chatbot Summit Berlin is the second international Chatbot Summit destined to bring together the leading players of the newly formed Chatbot economy
+* [Deep learning Google Group](https://plus.google.com/communities/112866381580457264725) - Where deep learning enthusiasts and researchers hangout and share latest news.
+* [Deep learning research groups](http://deeplearning.net/deep-learning-research-groups-and-labs/) - A list of many of the academic and industry labs focused on deep learning.
 
 ### Location
 
@@ -348,6 +366,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * Milan —  AI community and events
 * [New York](http://newyork.ai/) —  AI community and events
 * Oslo —  AI community and events
+* [San Francisco AI meetup](http://www.meetup.com/superintelligencemeetup/) -  A local meetup for AI enthusiasts and researchers that we’re involved in.
 * [Seattle](http://seattle.city.ai/) —  AI community and events
 * Shanghai —  AI community and events
 * Shenzhen —  AI community and events
@@ -355,6 +374,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 * Stockholm —  AI community and events
 * Sydney - AI community and events
 * [Chatbots NYC](https://www.meetup.com/New-York-chatbots-Meetup/) - Meetup in New York City
+
+
 
 * Viv — like Siri but 10x better
 * x.ai— meeting scheduling assistant
