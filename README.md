@@ -335,6 +335,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Fast.ai](http://www.fast.ai/) — dedicated to making the power of deep learning accessible to all
 * [Machinelearning.ai](http://machinelearning.ai/) — dedicated news and updates for ML and AI
 * [Machine Learning Weekly](http://mlweekly.com/) — a hand-curated newsletter ML and DL
+* [Artificial Intelligence News -- ScienceDaily](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/) -Artificial Intelligence News. Everything on AI including futuristic robots with artificial intelligence, computer models of human intelligence and more.
 
 ### Podcast
 * [Podcast with Yoshua Bengio](http://techemergence.com/the-rise-of-neural-networks-and-deep-learning-in-our-everyday-lives-a-conversation-with-yoshua-bengio/) - The Rise of Neural Networks and Deep Learning in Our Everyday Lives. An exciting overview of the power of neural networks as well as their current influence and future potential.
@@ -374,8 +375,6 @@ If you want to contribute to this list (please do), send me a pull request or co
 * Stockholm —  AI community and events
 * Sydney - AI community and events
 * [Chatbots NYC](https://www.meetup.com/New-York-chatbots-Meetup/) - Meetup in New York City
-
-
 
 * Viv — like Siri but 10x better
 * x.ai— meeting scheduling assistant
