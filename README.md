@@ -5,7 +5,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Contents
 
-1. [Courses](#courses)
+1. [Courses & Articles](#courses)
 2. [Artificial Intelligence Company & Reseach Institute](#user-content-artificial-intelligence-company--reseach-institute)
 3. [Artificial Intelligence Tools](#user-content-artificial-intelligence-tools)
 4. [Books](#books)
@@ -13,7 +13,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 6. [News](#news)
 7. [Events and Conferences](#events-and-conferences)
 
-## Courses
+## Courses & Articles
 
 * [Machine Learning](https://www.coursera.org/learn/machine-learning) - *Stanford University* This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. *Taught by:  Andrew Ng*
 * [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - *MIT* This course includes interactive demonstrations which are intended to stimulate interest and to help students gain intuition about how artificial intelligence methods work under a variety of circumstances.
@@ -33,6 +33,12 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Introduction to Artificial Intelligence](http://ai.berkeley.edu/home.html) -*UC Berkeley* This course will introduce the basic ideas and techniques underlying the design of intelligent computer systems. A specific emphasis will be on the statistical and decision-theoretic modeling paradigm.
 - [Advanced Artificial Intelligence](http://www.cs.cornell.edu/courses/CS6700/2013sp/) -*Cornell University* The design of systems that are among top 10 performers in the world (human, computer, or hybrid human-computer).
 - [Artificial Intelligence (AI)](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-1?source=aw&awc=6798_1500601821_fb8bf9bc2174fde1ff3f4738d2e41363&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link) - *Columbia University  with Professor Ansaf Salleb-Aouissi* This course will provide a broad understanding of the basic techniques for building intelligent computer systems and an understanding of how AI is applied to problems.
+
+### Generative Adversarial Networks (GANs)
+
+- [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://skymind.ai/wiki/generative-adversarial-network-gan) - Generative adversarial networks (GANs) are deep neural net architectures comprised of two nets, pitting one against the other.
+
+- [GAN — What is Generative Adversary Networks GAN?](https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09) - GAN is about creating, like drawing a portrait or composing a symphony. This is hard compared to other deep learning fields..
 
 ### Robotics
 
