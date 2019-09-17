@@ -390,4 +390,4 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Lightman](http://jiangren.com.au) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [JR Acacademy](http://jiangren.com.au) and [JR Talent](https://jrtalent.com.au) has waived all copyright and related or neighboring rights to this work.
