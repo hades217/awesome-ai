@@ -332,6 +332,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ### TensorFlow
 
+* [Neptune.ai](https://docs.neptune.ai/integrations-and-supported-tools/model-training/tensorflow-keras) – helps with keeping track of model training metadata.
 
 ## News
 
