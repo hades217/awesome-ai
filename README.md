@@ -64,6 +64,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Poweredby.ai](https://poweredby.ai/) — helps you monitor server bugs
 * [Sundown](https://www.sundown.ai/home/) — automates repetitive tasks within your business
 * [UBIX](http://ubix.ai/#dynamic) — making complex data science easy for enterprise
+* [Student Voice](https://www.studentvoice.ai)-automatic free-text labelling for education
 
 ### Machine Learning
 
