@@ -129,6 +129,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Trifacta](https://www.trifacta.com/) — helps put data into useful structures for analysis
 * [Yhat](https://www.trifacta.com/) — allows data scientists to deploy and update predictive models rapidly
 * [Yseop](https://yseop.com/) — automate the writing of reports, websites, emails, articles and more
+* [Katonic.ai](https://katonic.ai/) - Automate your cycle of Intelligence with Katonic MLOps Platform.
 
 ### Development
 * [AnOdot](http://www.anodot.com/) — detects business incidents
