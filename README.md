@@ -121,6 +121,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [DataScience](https://www.datascience.com) — enterprise data science platform for R&D and production
 * [Domino Data Lab](https://www.dominodatalab.com/) — platform for collaborating, building and deploying
 * [Kaggle](https://www.kaggle.com/) — helps you learn, work, and play with machine learning models
+* [Katonic.ai](https://katonic.ai/) - Automate your cycle of Intelligence with Katonic MLOps Platform.
 * [RapidMiner](https://rapidminer.com/) — makes data science teams more productive
 * [Seldon](http://www.seldon.io/) — helps DS teams put machine learning models into production
 * [SherlockML](https://sherlockml.com/) — a platform to build, test, and deploy AI algorithms
