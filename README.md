@@ -264,6 +264,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 [CaptionBot](https://www.captionbot.ai/) — Microsoft describes any photo
 [Crowdfunding.ai](https://crowdfunding.ai/) — crowdfunding platform for AI projects
 [Fieldguide](https://fieldguide.net/) — universal field guide that suggests possible matches
+[Explore AI](https://kandi.openweaver.com/explore/artificial-intelligence) - Explore AI OSS, libraries, packages, source code, cloud functions and APIs
 
 
 ## Books
