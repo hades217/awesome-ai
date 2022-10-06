@@ -265,6 +265,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 [Crowdfunding.ai](https://crowdfunding.ai/) — crowdfunding platform for AI projects
 [Fieldguide](https://fieldguide.net/) — universal field guide that suggests possible matches
 
+[Explore AI](https://kandi.openweaver.com/explore/artificial-intelligence) — A tool to discover & find a curated list of AI popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi
+
 
 ## Books
 
