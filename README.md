@@ -192,6 +192,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Viv](http://viv.ai/) — like Siri but 10x better
 * [x.ai](https://x.ai/) — x.ai is a personal assistant who schedules meetings for you
 * Zoom.ai — personal assistant to help you at work
+* [AIHelperBot](https://aihelperbot.com/) - Build SQL queries using AI
+
 
 ### Education Tools
 
@@ -270,7 +272,6 @@ If you want to contribute to this list (please do), send me a pull request or co
 [CaptionBot](https://www.captionbot.ai/) — Microsoft describes any photo
 [Crowdfunding.ai](https://crowdfunding.ai/) — crowdfunding platform for AI projects
 [Fieldguide](https://fieldguide.net/) — universal field guide that suggests possible matches
-
 
 ## Books
 
