@@ -83,6 +83,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 ### Conversational Interfaces & Chatbots
 * [API.ai](https://api.ai/) — advanced tools needed to build conversational user interfaces
 * [Chatfuel](https://chatfuel.com/) — build a Facebook chatbot without coding
+* [ChatGenius](https://chatgenius.one/) —unlock the power of Multilingual Communication
 * [Comm.ai](http://comm.ai/) — add voice and chat API to websites and apps
 * [Conversica](https://www.conversica.com/) — conversational interfaces to help get more sales
 * [EDDI](http://eddi.labs.ai/) — create, test and deploy chatbots
