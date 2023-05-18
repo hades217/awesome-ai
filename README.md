@@ -188,6 +188,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * myWave — chatbot to help you throughout your daily life
 * [Remi](http://remi.ai/)— like Siri with an interface
 * Replika— your AI friend that you raise through text conversations
+* [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
 * SkipFlag — automatically discover and organise your work
 * [Spoken](http://spoken.ai/) — virtual assistant with an interface
 * Vesper — virtual assistant aimed at C-Suite
