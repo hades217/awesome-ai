@@ -117,6 +117,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Zero AI](http://zero.ai/) — voice interface that understands meaning, intent and context
 
 ### Data Science
+* [Arize](https://arize.com/) — machine learning observability
 * [BigML](https://bigml.com/) — single platform for all predictive use cases
 * [CrowdFlower](https://www.crowdflower.com/) — helps with sentiment analysis, search relevance, and more
 * [Dataiku](http://www.dataiku.com/) — data science platform for prototype, deploy, and run at scale
@@ -124,6 +125,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Domino Data Lab](https://www.dominodatalab.com/) — platform for collaborating, building and deploying
 * [Kaggle](https://www.kaggle.com/) — helps you learn, work, and play with machine learning models
 * [Katonic.ai](https://katonic.ai/) - Automate your cycle of Intelligence with Katonic MLOps Platform.
+* [Phoenix](https://phoenix.arize.com/) - open source library; LLM observability in a notebook
 * [RapidMiner](https://rapidminer.com/) — makes data science teams more productive
 * [Seldon](http://www.seldon.io/) — helps DS teams put machine learning models into production
 * [SherlockML](https://sherlockml.com/) — a platform to build, test, and deploy AI algorithms
