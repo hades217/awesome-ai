@@ -111,6 +111,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [UNU.ai](http://unu.ai/) — using the Swarm Intelligence (group brainpower) for chatbots
 * [Unify](http://www.unify.ai/) — e-commerce chatbot
 * [uTu](https://utu.ai/) — multi-channel bot analytics and data management
+* [Voilà](https://www.getvoila.ai/) — AI-powered browser assistant to help you with everyday tasks
 * [Wechaty](https://github.com/Chatie/wechaty) - Wechaty is a Bot Framework for Wechat Personal Account which can help you create a bot
 * [Wit.ai](https://wit.ai/) — easily create text or voice based bots for preferred platform
 * [Wysh](https://wysh.ai/) — enterprise scale chatbot with payment methods
