@@ -20,13 +20,12 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - *MIT* This course includes interactive demonstrations which are intended to stimulate interest and to help students gain intuition about how artificial intelligence methods work under a variety of circumstances.
 * [Machine Learning](https://class.coursera.org/ml-008) - Basic machine learning algorithms for supervised and unsupervised learning
 * [Deep Learning for Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/) - *University of Oxford* This is an applied course focussing on recent advances in analysing and generating speech and text using recurrent neural networks. 
-* [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html) -*Stanford University* This course will cover the fundamentals and contemporary usage of the Tensorflow library for deep learning research. We aim to help students understand the graphical computational model of Tensorflow.
 * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/) -*Stanford University* Natural language processing (NLP) is one of the most important technologies of the information age. Understanding complex language utterances is also a crucial part of artificial intelligence. Applications of NLP are everywhere because people communicate most everything in language: web search, advertisement, emails, customer service, language translation, radiology reports, etc. 
 - [Machine Learning](http://www.cs.cornell.edu/courses/CS4780/2014fa/) - *Cornell University* This course will introduce you to technologies for building data-centric information systems on the World Wide Web, show the practical applications of such systems, and discuss their design and their social and policy context by examining cross-cutting issues such as citizen science, data journalism and open government. Course work involves lectures and readings as well as weekly homework assignments, and a semester-long project in which the students demonstrate their expertise in building data-centric Web information systems.
 - [Deep Learning Explained](https://www.edx.org/course/deep-learning-explained-microsoft-dat236x?source=aw&awc=6798_1500594071_04df88310f6261258691c4c3ccbb0481&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link) - *Microsoft* This course provides the level of detail needed to enable engineers / data scientists / technology managers to develop an intuitive understanding of the key concepts behind this game changing technology.
 - [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression?siteID=SAyYsTvLiGQ-V25BzL1BXFeL3qQswDR1PA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) - *University of Washington* In our first case study, predicting house prices, you will create models that predict a continuous value (price) from input features (square footage, number of bedrooms and bathrooms,...). This is just one of the many places where regression can be applied.
 - [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval?siteID=SAyYsTvLiGQ-aGMQm0rxwGdJOGehXlBV7g&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) - *University of Washington* A reader is interested in a specific news article and you want to find similar articles to recommend.  What is the right notion of similarity?  Moreover, what if there are millions of other documents?  Each time you want to a retrieve a new document, do you need to search through all other documents?  How do you group similar documents together?  How do you discover new, emerging topics that the documents cover?   
-- [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks?siteID=SAyYsTvLiGQ-VAGdv8UmPeTOHK4791QoKQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) -*University of Toronto  with Geoffrey Hinton*  Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well.
+- [Neural Networks for Machine Learning](https://www.coursera.org/lecture/neural-networks-deep-learning/geoffrey-hinton-interview-dcm5r) -*University of Toronto  with Geoffrey Hinton*  Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well.
 - [Machine Learning With Big Data](https://www.coursera.org/learn/big-data-machine-learning?siteID=SAyYsTvLiGQ-Y0tPwdcrYUE2YMb20wl5ww&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) -*University of California, San Diego* Need to incorporate data-driven decisions into your process? This course provides an overview of machine learning techniques to explore, analyze, and leverage data. You will be introduced to tools and algorithms you can use to create machine learning models that learn from data, and to scale those models up to big data problems.
 
 ### Artificial Intelligence
@@ -58,6 +57,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Dataminr](https://www.dataminr.com/) — discovers events and breaking information before the news
 * [Einstein](https://www.salesforce.com/au/products/einstein/overview/) — a smarter Salesforce
 * [Fuzzy AI](https://fuzzy.ai/) — adds intelligent decision making to web and mobile apps
+* [Logit.io](http://logit.io/) — visualise and manage logs and metrics with hosted ELK, Grafana & Open Distro
 * [Logz.io](http://logz.io/) — helps you index, search, visualise and analyse your data
 * [NXT AI](https://nxt.ai) — is a framework for temporal pattern recognition and prediction
 * [Paxata](http://www.paxata.com/)] — to transform raw data into useful information automatically
@@ -130,7 +130,6 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Phoenix](https://phoenix.arize.com/) - open source library; LLM observability in a notebook
 * [RapidMiner](https://rapidminer.com/) — makes data science teams more productive
 * [Seldon](http://www.seldon.io/) — helps DS teams put machine learning models into production
-* [SherlockML](https://sherlockml.com/) — a platform to build, test, and deploy AI algorithms
 * [Spark](http://www.sparkbeyond.com/) — research engine, capable of discovering complex patterns in data
 * [Tamr](http://www.tamr.com/) — makes data unification of data silos possible
 * [Trifacta](https://www.trifacta.com/) — helps put data into useful structures for analysis
@@ -172,7 +171,6 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Findo](https://findo.com/) — smart search assistant across email, files and personal cloud.
 * [Fembot](http://fembot.ai/) — your AI girlfriend
 * [Fin](https://www.fin.com/) — a powerful personal assistant
-* [Focus](http://www.focus.ai/) — helps you focus, get tasks done and prioritise your day
 * [Gatebox](http://gatebox.ai/) — a holographic anime assistant in an espresso machine
 * [Google Assistant](https://assistant.google.com/) — everyday personal assistant
 * [Howdy](https://howdy.ai/) - a friendly, trainable bot that helps Slack teams with work
@@ -235,7 +233,6 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Ada](http://fido.ai/) — chatbot that helps you navigate and make decisions
 * [Emma](http://ema.ai/) — automatically calculates and adds meeting travel time
 * [ETA](https://www.eta.ai/) — helps you manage travel itineraries and meetings
-* [HelloGbye](https://www.hellogbye.com/) — book complex trips with simple speech
 * [Mezi](http://mezi.com/) —helps with booking flights, hotels, restaurant reservations and more
 * [Nexar](https://www.getnexar.com/) — dash cam app that helps you drive safer
 * [Ready](http://ready.ai/) — traffic forecaster and travel time prediction
