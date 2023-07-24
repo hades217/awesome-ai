@@ -240,7 +240,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ### Finance AI Tools
 
-* [Morpher](https://www.morpher.com/) — Morpher AI is a comprehensive tool for financial market analysis that acts as your personal investment analyst.
+* [Morpher](https://www.morpher.com/ai) — Morpher AI is a comprehensive tool for financial market analysis that acts as your personal investment analyst.
 * [Abe](https://www.abe.ai/) — fast answers about your finances
 * [Andy](http://andy.ai/) — a personal Tax Accountant
 * [Ara](https://ara.ai/) — helps you budget
