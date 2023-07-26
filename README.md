@@ -199,7 +199,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [x.ai](https://x.ai/) — x.ai is a personal assistant who schedules meetings for you
 * Zoom.ai — personal assistant to help you at work
 * [AIHelperBot](https://aihelperbot.com/) - Build SQL queries using AI
-
+* [ZZZ Code AI](https://zzzcode.ai/) - Get any programming question answered / code generated online
 
 ### Education Tools
 
