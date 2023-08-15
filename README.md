@@ -339,6 +339,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 ### Python
 
 * [Lasagne](https://github.com/Lasagne/Lasagne) - Lightweight Python library for deep learning (built on Theano).
+* [LLM App](https://github.com/pathwaycom/llm-app) | Open-source Python library to build your real-time LLM-enabled data pipeline.
 
 ### PHP
 
