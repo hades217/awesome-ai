@@ -207,13 +207,15 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Thirdleap](http://thirdleap.ai/) — helps children to learn maths
 * [Woogie](https://woogie.ai/) — the conversational AI robot that makes learning and discovery fun for children
 * [XiaoJing Bot](http://jiangren.com.au) - XiaoJing Bot to support management of wechat groups and remove members of wechat group
+* [CodeKidz](https://codekidz.ai) — the first AI-powered programming learning platform for kids, featuring AI teachers to teach Python basics, problem-solving, and creativity with human-like responses
 
 ### Writing Tools
 
 * [RightBlogger](https://rightblogger.com/) — AI-Powered Content Creation Tools for Bloggers
 * [Jasperi AI](https://www.jasper.ai/) — AI writer for marketing and content teams
 * [Writesonic](https://writesonic.com/) — AI writer that creates SEO-friendly content
-* [Taskade AI](https://www.taskade.com)— AI outlining and mind mapping tool with collaborative editing
+* [Taskade AI](https://www.taskade.com) — AI outlining and mind mapping tool with collaborative editing
+* [Clap](https://chatlikea.pro) — AI Writing Partner for a Distraction-Free, Seamless Typing Experience
 
 ### Health / Medical Tools
 
