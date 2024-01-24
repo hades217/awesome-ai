@@ -216,6 +216,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Writesonic](https://writesonic.com/) — AI writer that creates SEO-friendly content
 * [Taskade AI](https://www.taskade.com) — AI outlining and mind mapping tool with collaborative editing
 * [Clap](https://chatlikea.pro) — AI Writing Partner for a Distraction-Free, Seamless Typing Experience
+* [Myriad](https://www.namepepper.com/free-tools/ai-content-prompt-tool) — AI prompts for writing any kind of content, like ads, scripts, webpages, email, and social
 
 ### Health / Medical Tools
 
