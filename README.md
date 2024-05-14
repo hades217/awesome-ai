@@ -292,6 +292,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Deep learning reading list](http://deeplearning.net/reading-list/) - A thorough list of academic survey papers on the subjects of reinforcement learning, computer vision, NLP & speech, disentangling factors, transfer learning, practical tricks, sparse coding, foundation theory, feedforward networks, large scale deep learning, recurrent networks, hyper parameters, optimization, and unsupervised feature learning.
 * [Deep Learning in a Nutshell] - (https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/) - by Tim Dettmers, via NVidia (2015). These articles are digestible and do not rely heavily on math. There are 3 parts: Part 1(A gentle introduction to deep learning that covers core concepts and vocabulary). Part2 ( History of deep learning and methods of training deep learning architectures quickly and efficiently) Part 3 (Sequence learning with a focus on natural language processing)
 * [TensorFlow](http://download.tensorflow.org/paper/whitepaper2015.pdf) - Large-Scale Machine Learning on Heterogeneous Distributed Systems by Google Research (2015). How TensorFlow works.
+* [BuzzRobot AI Newsletter](https://buzzrobot.substack.com/). Exclusive talks by top researchers on cutting-edge artificial intelligence papers.
 
 
 ## Development
