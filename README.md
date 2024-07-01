@@ -154,6 +154,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Neural Network](https://nnabla.org/) - Libraries by Sony. Sony demonstrates its interest in deep learning by releasing their own open source deep learning framework.
 * [TensorFlow neural network playground](http://playground.tensorflow.org/) - Play with neural networks visually in your browser to get a feel for what they are and what they do.
 ### Vehicle
+* [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
 * [Vinli](https://www.vin.li/) — turns any car into a smart car
 * [Apollo](http://apollo.auto/) - by Baidu. Newly launched source platform for building autonomous vehicles.
 
