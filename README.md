@@ -386,13 +386,17 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Jobs
 * [Jobs in AI](https://www.moaijobs.com/) - find latest jobs from top AI companies
+* [Jobs in Australia](https://www.jobpin.com.au/) - find and recommend jobs through AI
+* [澳洲找工作](https://jiangren.com.au/job/) - 华人找工作 工作内推
+
 
 ### Location
 
 * [Amsterdam](http://amsterdam.ai/) —  AI community and events
 * Berlin —  AI community and events
 * Beijing - AI community and events
-* [Brisbane](jiangren.com.au) - AI community and events
+* [Brisbane](https://jracademy.com.au) - AI community and events
+* [Sydney](https://www.buildclub.ai/) - Community of builders for AI 
 * Hamburg —  AI community and events
 * [Hongkong](http://hkg.ai/) —  AI community and events
 * [London](http://www.london.ai/) —  AI community and events
@@ -413,6 +417,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 * Viv — like Siri but 10x better
 * x.ai— meeting scheduling assistant
 * Zoom.ai — personal assistant to help you at work
+* [澳洲](https:jiangren.com.au/) — 澳洲华人程序员社区
+
 
 ## License
 
