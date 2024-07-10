@@ -396,7 +396,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 * Berlin —  AI community and events
 * Beijing - AI community and events
 * [Brisbane](https://jracademy.com.au) - AI community and events
-* [Sydney](https://www.buildclub.ai/) - Community of builders for AI 
+* [Sydney](https://www.buildclub.ai/) - Community of builders for AI
+* [Sydney](https://chineseai.org.au/) - Chinese AI Association
 * Hamburg —  AI community and events
 * [Hongkong](http://hkg.ai/) —  AI community and events
 * [London](http://www.london.ai/) —  AI community and events
@@ -418,7 +419,6 @@ If you want to contribute to this list (please do), send me a pull request or co
 * x.ai— meeting scheduling assistant
 * Zoom.ai — personal assistant to help you at work
 * [澳洲](https:jiangren.com.au/) — 澳洲华人程序员社区
-
 
 ## License
 
