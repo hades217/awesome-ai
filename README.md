@@ -12,6 +12,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 5. [Development](#development)
 6. [News](#news)
 7. [Events and Conferences](#events-and-conferences)
+8. [Jobs](#jobs)
 
 ## Courses & Articles
 
@@ -382,6 +383,9 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Chatbot Summit](https://www.chatbotsummit.com/) - Chatbot Summit Berlin is the second international Chatbot Summit destined to bring together the leading players of the newly formed Chatbot economy
 * [Deep learning Google Group](https://plus.google.com/communities/112866381580457264725) - Where deep learning enthusiasts and researchers hangout and share latest news.
 * [Deep learning research groups](http://deeplearning.net/deep-learning-research-groups-and-labs/) - A list of many of the academic and industry labs focused on deep learning.
+
+## Jobs
+* [Jobs in AI](https://www.moaijobs.com/) - find latest jobs from top AI companies
 
 ### Location
 
