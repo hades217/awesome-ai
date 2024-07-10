@@ -418,7 +418,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * Viv — like Siri but 10x better
 * x.ai— meeting scheduling assistant
 * Zoom.ai — personal assistant to help you at work
-* [澳洲](https:jiangren.com.au/) — 澳洲华人程序员社区
+* [澳洲华人程序员社区](https:jiangren.com.au/) — 澳洲华人程序员社区
 
 ## License
 
