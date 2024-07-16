@@ -289,6 +289,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Books
 
+* [Awesome AI Books](https://github.com/zachpinto/awesome-ai-books) - Collection of non-fiction books about AI by category
+
 * [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html) - This introductory textbook on reinforcement learning is targeted toward engineers and scientists in artificial intelligence, operations research, neural networks, and control systems, and we hope it will also be of interest to psychologists and neuroscientists.
 
 ### Blogs, Papers, and Articles
