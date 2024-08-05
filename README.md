@@ -304,6 +304,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Caffe](http://caffe.berkeleyvision.org/) - Deep learning framework.
 
+### LLM Ops
+
+* [Helicone AI](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications.
+
 ### Bot Development
 
 * [Alexa Skill Kit](https://github.com/stojanovic/alexa-skill-kit) - Library for effortless Alexa Skill development with AWS Lambda
