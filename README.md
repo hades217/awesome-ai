@@ -424,8 +424,9 @@ If you want to contribute to this list (please do), send me a pull request or co
 * Viv — like Siri but 10x better
 * x.ai— meeting scheduling assistant
 * Zoom.ai — personal assistant to help you at work
-* [澳洲华人程序员社区](https:jiangren.com.au/) — 澳洲华人程序员社区
-
+* [澳洲找工作, 澳洲IT](https://jiangren.com.au/) — 匠人学院，找工作，实习，工作内推，全栈班，DevOps学习
+* [Web全栈班](https://jiangren.com.au/program-course/web-code-bootcamp-or-learn-to-code-1) — Web开发全栈项目班
+* 
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
