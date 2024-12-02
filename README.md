@@ -394,6 +394,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Jobs in AI](https://www.moaijobs.com/) - find latest jobs from top AI companies
 * [Jobs in Australia](https://www.jobpin.com.au/) - find and recommend jobs through AI
 * [澳洲找工作](https://jiangren.com.au/job/) - 华人找工作 工作内推
+* [AI Jobs](https://aijobster.work/) - Remote Jobs and latest AI jobs at the companies
 
 
 ### Location
