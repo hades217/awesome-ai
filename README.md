@@ -211,6 +211,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Woogie](https://woogie.ai/) — the conversational AI robot that makes learning and discovery fun for children
 * [XiaoJing Bot](http://jiangren.com.au) - XiaoJing Bot to support management of wechat groups and remove members of wechat group
 * [CodeKidz](https://codekidz.ai) — the first AI-powered programming learning platform for kids, featuring AI teachers to teach Python basics, problem-solving, and creativity with human-like responses
+* [bugfree.ai](https://bugfree.ai/) - An advanced AI-powered platform designed to practice and prepare for system design and behavioral interviews, by combining a vast question library, detailed feedback, and interactive AI-powered mock interviews.
 
 ### Writing Tools
 
