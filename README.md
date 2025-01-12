@@ -29,6 +29,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Neural Networks for Machine Learning](https://www.coursera.org/lecture/neural-networks-deep-learning/geoffrey-hinton-interview-dcm5r) -*University of Toronto  with Geoffrey Hinton*  Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well.
 - [Machine Learning With Big Data](https://www.coursera.org/learn/big-data-machine-learning?siteID=SAyYsTvLiGQ-Y0tPwdcrYUE2YMb20wl5ww&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) -*University of California, San Diego* Need to incorporate data-driven decisions into your process? This course provides an overview of machine learning techniques to explore, analyze, and leverage data. You will be introduced to tools and algorithms you can use to create machine learning models that learn from data, and to scale those models up to big data problems.
 - [Data Science & Machine Learning](https://www.scaler.com/data-science-course/) - Unlock Data Insights: Comprehensive Data Science & Machine Learning Course.
+- [Machine Learning Articles](https://www.appliedaicourse.com/blog/category/machine-learning/) - The Applied AI Course blog offers concise, practical articles  on machine learning.
 
 ### Artificial Intelligence
 
@@ -40,7 +41,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 - [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://skymind.ai/wiki/generative-adversarial-network-gan) - Generative adversarial networks (GANs) are deep neural net architectures comprised of two nets, pitting one against the other.
 
-- [GAN — What is Generative Adversary Networks GAN?](https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09) - GAN is about creating, like drawing a portrait or composing a symphony. This is hard compared to other deep learning fields..
+- [GAN — What is Generative Adversary Networks GAN?](https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09) - GAN is about creating, like drawing a portrait or composing a symphony. This is hard compared to other deep learning fields.
 
 ### Robotics
 
