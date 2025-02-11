@@ -194,6 +194,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * My Ally — handles meeting scheduling and manages calendar
 * [Mycroft](https://mycroft.ai/) — is the world’s first open source voice assistant
 * myWave — chatbot to help you throughout your daily life
+* [OneCompiler](https://onecompiler.com/) - OneCompiler is an AI-powered coding assistant that helps you write code faster and smarter support for 70+ languages & databases.
 * [Remi](http://remi.ai/)— like Siri with an interface
 * Replika— your AI friend that you raise through text conversations
 * [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
