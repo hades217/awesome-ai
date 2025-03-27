@@ -129,6 +129,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Dataiku](http://www.dataiku.com/) — data science platform for prototype, deploy, and run at scale
 * [DataScience](https://www.datascience.com) — enterprise data science platform for R&D and production
 * [Domino Data Lab](https://www.dominodatalab.com/) — platform for collaborating, building and deploying
+* [Fiddler AI](https://www.fiddler.ai) — the all-in-one AI Observability and Security platform for responsible AI
 * [Kaggle](https://www.kaggle.com/) — helps you learn, work, and play with machine learning models
 * [Katonic.ai](https://katonic.ai/) - Automate your cycle of Intelligence with Katonic MLOps Platform.
 * [Phoenix](https://phoenix.arize.com/) - open source library; LLM observability in a notebook
@@ -307,6 +308,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ### LLM Ops
 
+* [Fiddler AI](https://www.fiddler.ai) — The all-in-one AI Observability and Security platform for responsible AI. It provides monitoring, analytics, and centralized controls to operationalize ML, GenAI, and LLM applications with trust. Fiddler helps enterprises scale LLM and ML deployments to deliver high performance AI, reduce costs, and be responsible in governance.
 * [Helicone AI](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications.
 
 ### Bot Development
