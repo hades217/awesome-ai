@@ -36,6 +36,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Introduction to Artificial Intelligence](http://ai.berkeley.edu/home.html) -*UC Berkeley* This course will introduce the basic ideas and techniques underlying the design of intelligent computer systems. A specific emphasis will be on the statistical and decision-theoretic modeling paradigm.
 - [Advanced Artificial Intelligence](http://www.cs.cornell.edu/courses/CS6700/2013sp/) -*Cornell University* The design of systems that are among top 10 performers in the world (human, computer, or hybrid human-computer).
 - [Artificial Intelligence (AI)](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-1?source=aw&awc=6798_1500601821_fb8bf9bc2174fde1ff3f4738d2e41363&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link) - *Columbia University  with Professor Ansaf Salleb-Aouissi* This course will provide a broad understanding of the basic techniques for building intelligent computer systems and an understanding of how AI is applied to problems.
+[How to Learn AI?](https://www.appliedaicourse.com/blog/how-learn-ai/)— A Beginner's Guide provides a clear, step-by-step approach to helping beginners understand the essentials of Artificial Intelligence (AI), its different types, and how to start their journey toward mastering this high-demand skill.
 
 ### Generative Adversarial Networks (GANs)
 
@@ -303,6 +304,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Deep Learning in a Nutshell] - (https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/) - by Tim Dettmers, via NVidia (2015). These articles are digestible and do not rely heavily on math. There are 3 parts: Part 1(A gentle introduction to deep learning that covers core concepts and vocabulary). Part2 ( History of deep learning and methods of training deep learning architectures quickly and efficiently) Part 3 (Sequence learning with a focus on natural language processing)
 * [TensorFlow](http://download.tensorflow.org/paper/whitepaper2015.pdf) - Large-Scale Machine Learning on Heterogeneous Distributed Systems by Google Research (2015). How TensorFlow works.
 * [BuzzRobot AI Newsletter](https://buzzrobot.substack.com/). Exclusive talks by top researchers on cutting-edge artificial intelligence papers.
+* [AI and Machine Learning - Scaler Blogs](https://www.scaler.com/blog/category/artificial-intelligence-machine-learning/) - These blogs provide insights, tutorials, and comparisons on key AI concepts and technologies.
 
 
 ## Development
