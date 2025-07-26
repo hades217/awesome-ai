@@ -129,6 +129,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Dataiku](http://www.dataiku.com/) — data science platform for prototype, deploy, and run at scale
 * [DataScience](https://www.datascience.com) — enterprise data science platform for R&D and production
 * [Domino Data Lab](https://www.dominodatalab.com/) — platform for collaborating, building and deploying
+* [Fiddler AI](https://www.fiddler.ai/) - All-in-one ML & LLM observability. Fastest LLM Guardrails. 
 * [Kaggle](https://www.kaggle.com/) — helps you learn, work, and play with machine learning models
 * [Katonic.ai](https://katonic.ai/) - Automate your cycle of Intelligence with Katonic MLOps Platform.
 * [Phoenix](https://phoenix.arize.com/) - open source library; LLM observability in a notebook
@@ -139,6 +140,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Trifacta](https://www.trifacta.com/) — helps put data into useful structures for analysis
 * [Yhat](https://www.trifacta.com/) — allows data scientists to deploy and update predictive models rapidly
 * [Yseop](https://yseop.com/) — automate the writing of reports, websites, emails, articles and more
+* 
 
 ### Development
 * [AnOdot](http://www.anodot.com/) — detects business incidents
@@ -287,6 +289,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 [CaptionBot](https://www.captionbot.ai/) — Microsoft describes any photo
 [Crowdfunding.ai](https://crowdfunding.ai/) — crowdfunding platform for AI projects
+[Fiddler Guardrails](https://fiddler.ai/guardrails-trial) - free LLM guardrails
 [Fieldguide](https://fieldguide.net/) — universal field guide that suggests possible matches
 
 ## Books
