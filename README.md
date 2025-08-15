@@ -285,6 +285,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Apollo](https://apollo.ai) — breaks down articles and PDF’s into quick, readable dot points
 * [Ferret.ai](http://ferret.ai/) — helps you research by summarising articles and search ability
 * [Iris](http://research.ai/) — helps you research and visualise concepts in research papers
+* [SummaryTube](https://summarytube.com) — helps you summarize youtube videos and any educational videos
 
 ### Tools
 
