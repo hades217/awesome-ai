@@ -361,7 +361,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Lasagne](https://github.com/Lasagne/Lasagne) - Lightweight Python library for deep learning (built on Theano).
 * [LLM App](https://github.com/pathwaycom/llm-app) | Open-source Python library to build your real-time LLM-enabled data pipeline.
-* [Deepnote](https://deepnote.com/) - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps.
+* [Deepnote](https://deepnote.com/) - Deepnote is a drop-in replacement for Jupyter and an AI-native data workspace for modern data teams.
 
 ### PHP
 
