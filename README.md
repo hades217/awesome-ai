@@ -310,6 +310,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Development
 
 * [Caffe](http://caffe.berkeleyvision.org/) - Deep learning framework.
+* [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A).
 
 ### LLM Ops
 
