@@ -314,6 +314,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 ### LLM Ops
 
 * [Helicone AI](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications.
+* [WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) - framework for diagnosing RAG and LLM pipeline failures
 
 ### Bot Development
 
