@@ -30,6 +30,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Machine Learning With Big Data](https://www.coursera.org/learn/big-data-machine-learning?siteID=SAyYsTvLiGQ-Y0tPwdcrYUE2YMb20wl5ww&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) -*University of California, San Diego* Need to incorporate data-driven decisions into your process? This course provides an overview of machine learning techniques to explore, analyze, and leverage data. You will be introduced to tools and algorithms you can use to create machine learning models that learn from data, and to scale those models up to big data problems.
 - [Data Science & Machine Learning](https://www.scaler.com/data-science-course/) - Unlock Data Insights: Comprehensive Data Science & Machine Learning Course.
 - [Machine Learning Articles](https://www.appliedaicourse.com/blog/category/machine-learning/) - The Applied AI Course blog offers concise, practical articles  on machine learning.
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration with task registry, quality gates, and automated delegation. MIT licensed.
 
 ### Artificial Intelligence
 
