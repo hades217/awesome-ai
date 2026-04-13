@@ -209,6 +209,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [AIHelperBot](https://aihelperbot.com/) - Build SQL queries using AI
 * [ZZZ Code AI](https://zzzcode.ai/) - Get any programming question answered / code generated online
 * [AI Flow Chat](https://aiflowchat.com/) - No-code workflow tool for automating and chaining AI prompts
+* [Convo](https://www.itsconvo.com/) — AI meeting assistant that helps you in real time with smart suggestions during live calls
 
 ### Education Tools
 
