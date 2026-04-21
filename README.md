@@ -225,6 +225,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Taskade AI](https://www.taskade.com) — AI outlining and mind mapping tool with collaborative editing
 * [Clap](https://chatlikea.pro) — AI Writing Partner for a Distraction-Free, Seamless Typing Experience
 * [Myriad](https://www.namepepper.com/free-tools/ai-content-prompt-tool) — AI prompts for writing any kind of content, like ads, scripts, webpages, email, and social
+* [MindMap AI](https://mindmapai.app/text-summarizer) — AI-powered tool for structuring ideas, organizing research, and creating visual mind maps for writing, content planning, and knowledge management
 
 ### Health / Medical Tools
 
