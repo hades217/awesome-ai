@@ -1,452 +1,663 @@
 # Awesome Artificial Intelligence
-A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)
 
-If you want to contribute to this list (please do), send me a pull request or contact me ozitquan@gmail.com
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Stars](https://img.shields.io/github/stars/hades217/awesome-ai?style=social)](https://github.com/hades217/awesome-ai/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/hades217/awesome-ai)](https://github.com/hades217/awesome-ai/commits/master)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+> A community-curated list of artificial intelligence resources for engineers, learners, and career-switchers — covering foundation models, agent frameworks, AI coding tools, courses, companies, jobs, and the Australian AI scene.
+
+> **Maintained by [Lightman Wang](https://github.com/hades217)**, founder of [**JR Academy**](https://jiangren.com.au) — a project-based AI engineering bootcamp in Australia (P3 model: **P**roject + **P**roduction + **P**lacement). Curating this list since 2017.
+
+📩 Contributions welcome — open a PR or email **hello@jiangren.com.au**.
+🇦🇺 Looking to break into AI in Australia? See the [Australia AI Scene](#-australia-ai-scene) section below or check out [JR Academy AI Engineer Bootcamp](https://jiangren.com.au/curriculum/ai-engineer-bootcamp).
+
+---
 
 ## Contents
 
-1. [Courses & Articles](#courses)
-2. [Artificial Intelligence Company & Reseach Institute](#user-content-artificial-intelligence-company--reseach-institute)
-3. [Artificial Intelligence Tools](#user-content-artificial-intelligence-tools)
-4. [Books](#books)
-5. [Development](#development)
-6. [News](#news)
-7. [Events and Conferences](#events-and-conferences)
-8. [Jobs](#jobs)
+1. [🇦🇺 Australia AI Scene](#-australia-ai-scene) — bootcamps, hiring, visas, meetups
+2. [Foundation Models & APIs](#foundation-models--apis) — Claude, GPT, Gemini, Llama, Qwen
+3. [AI Coding Tools](#ai-coding-tools) — Cursor, Claude Code, Copilot, Aider
+4. [Agent Frameworks & MCP](#agent-frameworks--mcp) — LangGraph, CrewAI, Model Context Protocol
+5. [RAG & Vector Databases](#rag--vector-databases) — LangChain, LlamaIndex, Pinecone
+6. [LLM Inference & Hosting](#llm-inference--hosting) — vLLM, Ollama, llama.cpp
+7. [LLM Ops & Observability](#llm-ops--observability) — Helicone, LangSmith, Phoenix
+8. [Fine-Tuning & Training](#fine-tuning--training) — Axolotl, Unsloth, LoRA
+9. [Courses & Learning Paths](#courses--learning-paths)
+10. [Books, Papers & Blogs](#books-papers--blogs)
+11. [Companies & Research Labs](#companies--research-labs)
+12. [Personal AI Tools](#personal-ai-tools)
+13. [Specialized AI Tools](#specialized-ai-tools) — Writing, Health, Finance, Travel
+14. [Development Frameworks](#development-frameworks) — PyTorch, JAX, TensorFlow
+15. [News, Newsletters & Podcasts](#news-newsletters--podcasts)
+16. [Events & Conferences](#events--conferences)
+17. [AI Jobs](#ai-jobs)
+18. [AI Communities by City](#ai-communities-by-city)
+19. [Contributing](#contributing)
 
-## Courses & Articles
+---
 
-* [AI & ML Events](https://aiml.events) - Discover the best upcoming hand-picked events in the field of artificial intelligence and machine learning
-* [Machine Learning](https://www.coursera.org/learn/machine-learning) - *Stanford University* This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. *Taught by:  Andrew Ng*
-* [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - *MIT* This course includes interactive demonstrations which are intended to stimulate interest and to help students gain intuition about how artificial intelligence methods work under a variety of circumstances.
-* [Machine Learning](https://class.coursera.org/ml-008) - Basic machine learning algorithms for supervised and unsupervised learning
-* [Deep Learning for Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/) - *University of Oxford* This is an applied course focussing on recent advances in analysing and generating speech and text using recurrent neural networks. 
-* [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/) -*Stanford University* Natural language processing (NLP) is one of the most important technologies of the information age. Understanding complex language utterances is also a crucial part of artificial intelligence. Applications of NLP are everywhere because people communicate most everything in language: web search, advertisement, emails, customer service, language translation, radiology reports, etc. 
-- [Machine Learning](http://www.cs.cornell.edu/courses/CS4780/2014fa/) - *Cornell University* This course will introduce you to technologies for building data-centric information systems on the World Wide Web, show the practical applications of such systems, and discuss their design and their social and policy context by examining cross-cutting issues such as citizen science, data journalism and open government. Course work involves lectures and readings as well as weekly homework assignments, and a semester-long project in which the students demonstrate their expertise in building data-centric Web information systems.
-- [Deep Learning Explained](https://www.edx.org/course/deep-learning-explained-microsoft-dat236x?source=aw&awc=6798_1500594071_04df88310f6261258691c4c3ccbb0481&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link) - *Microsoft* This course provides the level of detail needed to enable engineers / data scientists / technology managers to develop an intuitive understanding of the key concepts behind this game changing technology.
-- [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression?siteID=SAyYsTvLiGQ-V25BzL1BXFeL3qQswDR1PA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) - *University of Washington* In our first case study, predicting house prices, you will create models that predict a continuous value (price) from input features (square footage, number of bedrooms and bathrooms,...). This is just one of the many places where regression can be applied.
-- [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval?siteID=SAyYsTvLiGQ-aGMQm0rxwGdJOGehXlBV7g&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) - *University of Washington* A reader is interested in a specific news article and you want to find similar articles to recommend.  What is the right notion of similarity?  Moreover, what if there are millions of other documents?  Each time you want to a retrieve a new document, do you need to search through all other documents?  How do you group similar documents together?  How do you discover new, emerging topics that the documents cover?   
-- [Neural Networks for Machine Learning](https://www.coursera.org/lecture/neural-networks-deep-learning/geoffrey-hinton-interview-dcm5r) -*University of Toronto  with Geoffrey Hinton*  Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well.
-- [Machine Learning With Big Data](https://www.coursera.org/learn/big-data-machine-learning?siteID=SAyYsTvLiGQ-Y0tPwdcrYUE2YMb20wl5ww&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) -*University of California, San Diego* Need to incorporate data-driven decisions into your process? This course provides an overview of machine learning techniques to explore, analyze, and leverage data. You will be introduced to tools and algorithms you can use to create machine learning models that learn from data, and to scale those models up to big data problems.
-- [Data Science & Machine Learning](https://www.scaler.com/data-science-course/) - Unlock Data Insights: Comprehensive Data Science & Machine Learning Course.
-- [Machine Learning Articles](https://www.appliedaicourse.com/blog/category/machine-learning/) - The Applied AI Course blog offers concise, practical articles  on machine learning.
+## 🇦🇺 Australia AI Scene
 
-### Artificial Intelligence
+> Australia-specific AI resources — bootcamps, hiring pathways, visa info, communities. **This section is curated by JR Academy** to help engineers and career-switchers navigate the Australian AI market.
 
-- [Introduction to Artificial Intelligence](http://ai.berkeley.edu/home.html) -*UC Berkeley* This course will introduce the basic ideas and techniques underlying the design of intelligent computer systems. A specific emphasis will be on the statistical and decision-theoretic modeling paradigm.
-- [Advanced Artificial Intelligence](http://www.cs.cornell.edu/courses/CS6700/2013sp/) -*Cornell University* The design of systems that are among top 10 performers in the world (human, computer, or hybrid human-computer).
-- [Artificial Intelligence (AI)](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-1?source=aw&awc=6798_1500601821_fb8bf9bc2174fde1ff3f4738d2e41363&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link) - *Columbia University  with Professor Ansaf Salleb-Aouissi* This course will provide a broad understanding of the basic techniques for building intelligent computer systems and an understanding of how AI is applied to problems.
-[How to Learn AI?](https://www.appliedaicourse.com/blog/how-learn-ai/)— A Beginner's Guide provides a clear, step-by-step approach to helping beginners understand the essentials of Artificial Intelligence (AI), its different types, and how to start their journey toward mastering this high-demand skill.
+### Bootcamps & Education (AU)
 
-### Generative Adversarial Networks (GANs)
+* [**JR Academy AI Engineer Bootcamp**](https://jiangren.com.au/curriculum/ai-engineer-bootcamp) — Project-based 6-month bootcamp covering MCP, RAG, AI Agents, LangChain, and production deployment. P3 model: **P**roject + **P**roduction + **P**lacement, with focus on Australian AI Engineer job market.
+* [JR Academy Web Full-Stack Bootcamp](https://jiangren.com.au/program-course/web-code-bootcamp-or-learn-to-code-1) — Web full-stack project-based bootcamp (Next.js, NestJS, AWS).
+* [University of Sydney — AI & Machine Learning](https://www.sydney.edu.au/engineering/study/areas-of-study/computer-science.html) — academic programs.
+* [UNSW AI Institute](https://www.ai.unsw.edu.au/) — research-led AI education.
+* [University of Melbourne — Artificial Intelligence](https://study.unimelb.edu.au/find/courses/major/artificial-intelligence/) — academic programs.
 
-- [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://skymind.ai/wiki/generative-adversarial-network-gan) - Generative adversarial networks (GANs) are deep neural net architectures comprised of two nets, pitting one against the other.
+### AI Hiring (Australia)
 
-- [GAN — What is Generative Adversary Networks GAN?](https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09) - GAN is about creating, like drawing a portrait or composing a symphony. This is hard compared to other deep learning fields.
+* [**JR Academy Career Coaching**](https://jiangren.com.au/career-coaching) — AU-focused AI Engineer job referral and 1-on-1 coaching.
+* [**JR Academy Job Board (中文)**](https://jiangren.com.au/job/) — 澳洲华人找工作 / 工作内推 / AI Engineer 岗位.
+* [JobPin AI](https://www.jobpin.com.au/) — AI-powered job recommendations for Australia.
+* [Atlassian Careers](https://www.atlassian.com/company/careers) — Sydney-based, hiring AI engineers.
+* [Canva Engineering](https://www.canva.com/careers/) — Sydney-based, AI/ML roles.
+* [Australian Government Digital Transformation Agency](https://www.dta.gov.au/) — public sector AI roles.
+* [Built Club AI](https://www.buildclub.ai/) — Sydney AI builders community + jobs.
+
+### Visa Pathways for AI Engineers in Australia
+
+* **482 TSS (Temporary Skill Shortage)** — Software Engineer / ICT roles often qualify; sponsored by employer.
+* **186 ENS (Employer Nomination Scheme)** — permanent residency via employer sponsorship.
+* **189 Skilled Independent** — points-tested PR; tech occupations on MLTSSL.
+* **Global Talent Visa (GTI / Subclass 858)** — for high-achieving AI specialists.
+* See [JR Academy AU IT Visa Guide](https://jiangren.com.au/blog) for current pathways.
+
+### Australian AI Companies & Labs
+
+* [Canva](https://www.canva.com/) — Sydney; Magic Design, AI image gen.
+* [Atlassian](https://www.atlassian.com/) — Sydney; Atlassian Intelligence.
+* [Culture Amp](https://www.cultureamp.com/) — Melbourne; HR AI.
+* [Cochlear](https://www.cochlear.com/) — Sydney; medical AI.
+* [SafetyCulture](https://safetyculture.com/) — Sydney/Townsville; AI for inspections.
+* [Harrison.ai](https://harrison.ai) — Sydney; medical AI.
+* [Leonardo.AI](https://leonardo.ai) — Sydney; image generation platform.
+* [Relevance AI](https://relevanceai.com/) — Sydney; agent platform.
+
+### AI Meetups & Communities (AU)
+
+* [Build Club Sydney](https://www.buildclub.ai/) — community of AI builders.
+* [Chinese AI Association (Sydney)](https://chineseai.org.au/) — AU 华人 AI 社区.
+* [AI Sydney Meetup](https://www.meetup.com/topics/artificial-intelligence/au/sydney/) — regular events.
+* [AI Melbourne Meetup](https://www.meetup.com/topics/artificial-intelligence/au/melbourne/) — regular events.
+* [Brisbane AI](https://jiangren.com.au) — JR Academy Brisbane events and AI community.
+
+---
+
+## Foundation Models & APIs
+
+### Closed-source / Commercial APIs
+
+* [**Anthropic Claude**](https://www.anthropic.com/claude) — Claude 4.5 / 4.7 family. Strong reasoning, long context, code generation.
+* [**OpenAI GPT**](https://openai.com/api/) — GPT-4, GPT-4o, o1 reasoning models.
+* [**Google Gemini**](https://ai.google.dev/) — Gemini 2.0 Flash / Pro, multimodal.
+* [**xAI Grok**](https://x.ai/) — Grok 3 with real-time web access.
+* [**Cohere**](https://cohere.com/) — enterprise LLM platform.
+* [**Mistral AI**](https://mistral.ai/) — Mistral Large, Codestral.
+* [**Perplexity API**](https://www.perplexity.ai/) — search-grounded LLM.
+
+### Open-source Models
+
+* [**Meta Llama**](https://llama.meta.com/) — Llama 3.x family, open weights.
+* [**Qwen (Alibaba)**](https://qwenlm.github.io/) — Qwen 2.5 / 3, multilingual including Chinese.
+* [**DeepSeek**](https://www.deepseek.com/) — DeepSeek-V3, R1 reasoning model.
+* [**Mistral Open Models**](https://mistral.ai/technology/#models) — Mixtral, Mistral 7B.
+* [**Microsoft Phi**](https://azure.microsoft.com/en-us/products/phi) — small language models.
+* [**Hugging Face Hub**](https://huggingface.co/) — central hub for open-source models.
+
+### Multimodal & Specialized
+
+* [**Stable Diffusion**](https://stability.ai/) — open image generation.
+* [**Flux**](https://blackforestlabs.ai/) — high-quality image generation.
+* [**Sora (OpenAI)**](https://openai.com/sora/) — video generation.
+* [**Veo (Google)**](https://deepmind.google/technologies/veo/) — video generation.
+* [**ElevenLabs**](https://elevenlabs.io/) — voice synthesis and cloning.
+* [**Whisper (OpenAI)**](https://openai.com/research/whisper) — open-source speech-to-text.
+* [**Suno**](https://www.suno.ai/) — music generation.
+
+---
+
+## AI Coding Tools
+
+> Tools that help engineers write, review, and refactor code with AI. **JR Academy** uses these in our [Vibe Coding](https://jiangren.com.au/learn/vibe-coding) curriculum.
+
+* [**Claude Code**](https://www.anthropic.com/claude-code) — Anthropic's CLI for software engineering with Claude.
+* [**Cursor**](https://www.cursor.com/) — AI-first code editor, fork of VS Code.
+* [**GitHub Copilot**](https://github.com/features/copilot) — original AI pair programmer, now with Workspace and CLI features.
+* [**Windsurf**](https://codeium.com/windsurf) — Codeium's AI editor.
+* [**Aider**](https://aider.chat/) — open-source AI pair programmer in your terminal.
+* [**Continue**](https://continue.dev/) — open-source AI coding assistant for VS Code / JetBrains.
+* [**Cline**](https://github.com/cline/cline) — autonomous coding agent for VS Code.
+* [**Sourcegraph Cody**](https://sourcegraph.com/cody) — code AI with codebase context.
+* [**Codeium**](https://codeium.com/) — free AI autocomplete for many languages.
+* [**Tabnine**](https://www.tabnine.com/) — privacy-focused AI code completion.
+* [**Bolt.new**](https://bolt.new/) — full-stack web app generation in browser.
+* [**v0 (Vercel)**](https://v0.dev/) — AI UI generator with React/Next.js output.
+* [**Lovable**](https://lovable.dev/) — AI app builder.
+* [**Replit Agent**](https://replit.com/) — AI app generation in Replit.
+
+---
+
+## Agent Frameworks & MCP
+
+> Build AI agents that can use tools, plan, and execute multi-step tasks.
+
+### Agent Frameworks
+
+* [**LangGraph**](https://langchain-ai.github.io/langgraph/) — graph-based agent orchestration from LangChain team.
+* [**CrewAI**](https://www.crewai.com/) — role-based multi-agent framework.
+* [**AutoGen (Microsoft)**](https://github.com/microsoft/autogen) — multi-agent conversation framework.
+* [**OpenAI Swarm**](https://github.com/openai/swarm) — lightweight multi-agent orchestration.
+* [**LlamaIndex Agents**](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/) — agent runtime.
+* [**Vercel AI SDK**](https://sdk.vercel.ai/) — AI app SDK for TypeScript/React.
+* [**Pydantic AI**](https://ai.pydantic.dev/) — agent framework with type safety.
+* [**smolagents (Hugging Face)**](https://github.com/huggingface/smolagents) — minimal agent library.
+* [**Letta (formerly MemGPT)**](https://github.com/letta-ai/letta) — agents with persistent memory.
+
+### Model Context Protocol (MCP)
+
+* [**Model Context Protocol Spec**](https://modelcontextprotocol.io/) — Anthropic's open protocol for AI tool use.
+* [**Anthropic MCP Servers**](https://github.com/modelcontextprotocol/servers) — official MCP server implementations.
+* [**MCP Python SDK**](https://github.com/modelcontextprotocol/python-sdk) — build MCP servers in Python.
+* [**MCP TypeScript SDK**](https://github.com/modelcontextprotocol/typescript-sdk) — build MCP servers in TypeScript.
+* [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) — community MCP server list.
+* [**MCP for AI Engineers (JR Academy)**](https://jiangren.com.au/blog) — JR's MCP tutorials and case studies.
+
+### Browser & Computer Use
+
+* [**Anthropic Computer Use**](https://www.anthropic.com/news/3-5-models-and-computer-use) — Claude can control your computer.
+* [**Playwright MCP**](https://github.com/microsoft/playwright-mcp) — browser automation via MCP.
+* [**Browser Use**](https://github.com/browser-use/browser-use) — browser automation for agents.
+
+---
+
+## RAG & Vector Databases
+
+> Retrieval-Augmented Generation: ground LLM answers in your data.
+
+### RAG Frameworks
+
+* [**LangChain**](https://www.langchain.com/) — most popular framework for LLM apps and RAG.
+* [**LlamaIndex**](https://www.llamaindex.ai/) — data framework for LLM applications, RAG-focused.
+* [**Haystack (deepset)**](https://haystack.deepset.ai/) — open-source LLM framework.
+* [**RAGFlow**](https://github.com/infiniflow/ragflow) — open-source RAG engine.
+* [**Verba (Weaviate)**](https://github.com/weaviate/Verba) — RAG chatbot powered by Weaviate.
+* [**Pathway**](https://github.com/pathwaycom/pathway) — real-time RAG and AI pipelines.
+
+### Vector Databases
+
+* [**Pinecone**](https://www.pinecone.io/) — managed vector database.
+* [**Weaviate**](https://weaviate.io/) — open-source vector database.
+* [**Qdrant**](https://qdrant.tech/) — open-source vector search engine in Rust.
+* [**Chroma**](https://www.trychroma.com/) — embeddings database for AI apps.
+* [**Milvus**](https://milvus.io/) — open-source vector database for production.
+* [**pgvector**](https://github.com/pgvector/pgvector) — PostgreSQL extension for vector similarity.
+* [**LanceDB**](https://lancedb.com/) — serverless vector database.
+* [**Vespa**](https://vespa.ai/) — search and recommendation platform with vector support.
+
+### Embedding Models
+
+* [**OpenAI Embeddings**](https://platform.openai.com/docs/guides/embeddings) — text-embedding-3-small/large.
+* [**Cohere Embed**](https://cohere.com/embed) — multilingual embedding models.
+* [**Voyage AI**](https://www.voyageai.com/) — high-quality embedding models.
+* [**Sentence Transformers**](https://www.sbert.net/) — open-source embeddings.
+* [**Nomic Embed**](https://www.nomic.ai/embed) — open-source embeddings.
+
+---
+
+## LLM Inference & Hosting
+
+* [**Ollama**](https://ollama.com/) — run LLMs locally with one command.
+* [**LM Studio**](https://lmstudio.ai/) — desktop app for running local LLMs.
+* [**llama.cpp**](https://github.com/ggerganov/llama.cpp) — efficient LLM inference in C++.
+* [**vLLM**](https://github.com/vllm-project/vllm) — high-throughput LLM serving.
+* [**Text Generation Inference (TGI)**](https://github.com/huggingface/text-generation-inference) — Hugging Face's production server.
+* [**Together AI**](https://www.together.ai/) — fast inference API for open models.
+* [**Groq**](https://groq.com/) — extremely fast LPU-based inference.
+* [**Fireworks AI**](https://fireworks.ai/) — production inference platform.
+* [**Replicate**](https://replicate.com/) — run open-source models in the cloud.
+* [**Modal**](https://modal.com/) — serverless GPU for AI workloads.
+* [**RunPod**](https://www.runpod.io/) — GPU cloud for AI.
+
+---
+
+## LLM Ops & Observability
+
+* [**LangSmith**](https://www.langchain.com/langsmith) — debugging, testing, monitoring for LLM apps.
+* [**Helicone**](https://www.helicone.ai/) — open-source LLM observability.
+* [**Phoenix (Arize)**](https://phoenix.arize.com/) — open-source LLM observability in a notebook.
+* [**Braintrust**](https://www.braintrust.dev/) — eval and observability for AI products.
+* [**Langfuse**](https://langfuse.com/) — open-source LLM engineering platform.
+* [**Weights & Biases (W&B)**](https://wandb.ai/) — experiment tracking, also for LLMs.
+* [**Fiddler AI**](https://www.fiddler.ai/) — ML & LLM observability with guardrails.
+* [**Neptune.ai**](https://neptune.ai/) — experiment tracking and model registry.
+* [**Promptfoo**](https://www.promptfoo.dev/) — open-source LLM eval framework.
+* [**OpenLIT**](https://openlit.io/) — OpenTelemetry-native LLM observability.
+
+---
+
+## Fine-Tuning & Training
+
+* [**Axolotl**](https://github.com/axolotl-ai-cloud/axolotl) — easy fine-tuning of LLMs (LoRA, QLoRA, full).
+* [**Unsloth**](https://unsloth.ai/) — 2x faster LLM fine-tuning, less memory.
+* [**Hugging Face TRL**](https://huggingface.co/docs/trl/index) — RLHF, DPO, PPO trainers.
+* [**LLaMA Factory**](https://github.com/hiyouga/LLaMA-Factory) — unified LLM fine-tuning.
+* [**Lit-GPT (Lightning AI)**](https://github.com/Lightning-AI/litgpt) — pretrain, fine-tune, serve LLMs.
+* [**ColossalAI**](https://github.com/hpcaitech/ColossalAI) — large-scale training.
+
+---
+
+## Courses & Learning Paths
+
+### Foundational ML / AI (Classics)
+
+* [Machine Learning](https://www.coursera.org/learn/machine-learning) — *Stanford / Andrew Ng* — the classic introduction.
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) — *deeplearning.ai / Andrew Ng* — neural networks, CNNs, RNNs, transformers.
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) — *Stanford* — gold standard for CV.
+* [CS224N: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) — *Stanford* — NLP foundations.
+* [Practical Deep Learning for Coders](https://course.fast.ai/) — *fast.ai / Jeremy Howard* — top-down practical approach.
+* [Introduction to Artificial Intelligence](http://ai.berkeley.edu/home.html) — *UC Berkeley*.
+* [MIT Artificial Intelligence (6.034)](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) — classic MIT lectures.
+
+### Modern LLM / Generative AI
+
+* [**Generative AI for Everyone**](https://www.deeplearning.ai/courses/generative-ai-for-everyone/) — *deeplearning.ai / Andrew Ng* — non-technical intro.
+* [**LLM Bootcamp (The Full Stack)**](https://fullstackdeeplearning.com/llm-bootcamp/) — practical LLM app dev.
+* [**Hugging Face NLP Course**](https://huggingface.co/learn/nlp-course) — free, practical, transformer-focused.
+* [**Hugging Face Agents Course**](https://huggingface.co/learn/agents-course) — building LLM agents.
+* [**Anthropic Courses**](https://github.com/anthropics/courses) — official Anthropic courses on prompting, tool use, RAG.
+* [**LangChain Academy**](https://academy.langchain.com/) — LangChain and LangGraph courses.
+* [**Karpathy's Neural Networks: Zero to Hero**](https://karpathy.ai/zero-to-hero.html) — build neural nets, GPT, tokenizers from scratch.
+* [**3Blue1Brown — Neural Networks**](https://www.3blue1brown.com/topics/neural-networks) — visual deep dive.
+
+### Career-focused Bootcamps
+
+* [**JR Academy AI Engineer Bootcamp**](https://jiangren.com.au/curriculum/ai-engineer-bootcamp) — Project-based 6-month bootcamp; AU-focused; P3 model.
+* [**JR Academy Vibe Coding**](https://jiangren.com.au/learn/vibe-coding) — Modern AI-augmented development with Cursor / Claude Code.
+* [Springboard AI/ML Bootcamp](https://www.springboard.com/courses/ai-machine-learning-career-track/) — US-focused.
+* [Lambda School / Bloomtech](https://bloomtech.com/) — US bootcamp.
+
+### Specialized Topics
+
+* [Reinforcement Learning Course](https://www.davidsilver.uk/teaching/) — *David Silver / DeepMind*.
+* [CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) — *UC Berkeley*.
+* [CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/) — *Stanford*.
+* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) — *Georgia Tech / Sebastian Thrun*.
+
+### Free Resources
+
+* [Made With ML](https://madewithml.com/) — production ML foundations.
+* [AI Engineer Roadmap](https://roadmap.sh/ai-engineer) — community-curated path.
+* [Awesome MLOps](https://github.com/visenger/awesome-mlops) — production ML resources.
+
+---
+
+## Books, Papers & Blogs
+
+### Books
+
+* [Deep Learning](https://www.deeplearningbook.org/) — *Goodfellow, Bengio, Courville* — the foundational textbook.
+* [Reinforcement Learning: An Introduction (2nd ed)](http://incompleteideas.net/book/the-book-2nd.html) — *Sutton & Barto*.
+* [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) — *Aurélien Géron*.
+* [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) — *Chip Huyen* — production ML.
+* [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — *Chip Huyen* — modern LLM app development.
+* [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) — *Sebastian Raschka*.
+* [The Hundred-Page Machine Learning Book](http://themlbook.com/) — *Andriy Burkov*.
+* [Probabilistic Machine Learning](https://probml.github.io/pml-book/) — *Kevin Murphy*.
+* [Awesome AI Books](https://github.com/zachpinto/awesome-ai-books) — curated AI book list.
+
+### Foundational Papers
+
+* [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762) — the Transformer paper.
+* [BERT (2018)](https://arxiv.org/abs/1810.04805) — Bidirectional Transformers.
+* [GPT-3 (2020)](https://arxiv.org/abs/2005.14165) — Language Models are Few-Shot Learners.
+* [Chain-of-Thought Prompting (2022)](https://arxiv.org/abs/2201.11903).
+* [InstructGPT / RLHF (2022)](https://arxiv.org/abs/2203.02155).
+* [LLaMA (2023)](https://arxiv.org/abs/2302.13971).
+* [Toolformer (2023)](https://arxiv.org/abs/2302.04761) — LLMs that use tools.
+* [ReAct (2022)](https://arxiv.org/abs/2210.03629) — Reasoning + Acting.
+* [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2020)](https://arxiv.org/abs/2005.11401) — original RAG paper.
+
+### Blogs & Newsletters
+
+* [Lilian Weng's Blog (Lil'Log)](https://lilianweng.github.io/) — deep technical writing on AI.
+* [Karpathy's Blog](https://karpathy.github.io/) — Andrej Karpathy's writing.
+* [Sebastian Raschka's Magazine](https://magazine.sebastianraschka.com/) — practical LLM and ML.
+* [Simon Willison's Blog](https://simonwillison.net/) — daily AI tools and tips.
+* [The Pragmatic Engineer](https://www.pragmaticengineer.com/) — engineering, includes AI engineering.
+* [Latent Space](https://www.latent.space/) — Swyx's AI engineering newsletter and podcast.
+* [Hugging Face Blog](https://huggingface.co/blog) — open-source AI updates.
+* [Anthropic Research](https://www.anthropic.com/research) — Claude/safety research.
+* [OpenAI Research](https://openai.com/research/) — OpenAI papers and announcements.
+* [Google Research Blog](https://research.google/blog/) — Google AI research.
+* [JR Academy Blog](https://jiangren.com.au/blog) — AI engineering tutorials and AU career insights.
+
+### Reading Lists
+
+* [Deep Learning Reading List](http://deeplearning.net/reading-list/) — curated academic survey papers.
+
+---
+
+## Companies & Research Labs
+
+### Foundation Model Labs
+
+* [Anthropic](https://www.anthropic.com/) — Claude; AI safety research.
+* [OpenAI](https://openai.com/) — GPT, ChatGPT, Sora, Codex.
+* [Google DeepMind](https://deepmind.google/) — Gemini, AlphaFold, research.
+* [Meta AI (FAIR)](https://ai.meta.com/) — Llama, PyTorch.
+* [Mistral AI](https://mistral.ai/) — open-source / commercial models from France.
+* [xAI](https://x.ai/) — Grok.
+* [Cohere](https://cohere.com/) — enterprise LLMs.
+* [AI21 Labs](https://www.ai21.com/) — Jamba and enterprise AI.
+* [Stability AI](https://stability.ai/) — Stable Diffusion.
+* [Black Forest Labs](https://blackforestlabs.ai/) — Flux image models.
+* [DeepSeek](https://www.deepseek.com/) — Chinese open-source frontier models.
+* [Alibaba Qwen Team](https://qwenlm.github.io/) — Qwen series.
+
+### AI Infrastructure & Platforms
+
+* [Hugging Face](https://huggingface.co/) — model hub, datasets, training.
+* [Replicate](https://replicate.com/) — run open-source models in the cloud.
+* [Together AI](https://www.together.ai/) — fast open-model inference.
+* [Groq](https://groq.com/) — extreme-speed inference.
+* [Modal](https://modal.com/) — serverless GPU.
+* [Anyscale](https://www.anyscale.com/) — Ray-based distributed AI.
+* [Databricks](https://www.databricks.com/) — data + AI platform.
+
+### Enterprise / Vertical AI
+
+* [DataRobot](https://www.datarobot.com/) — enterprise ML platform.
+* [Dataiku](http://www.dataiku.com/) — collaborative data science.
+* [Scale AI](https://scale.com/) — data labeling and infrastructure.
+* [Glean](https://www.glean.com/) — enterprise AI search.
+* [Harvey AI](https://www.harvey.ai/) — legal AI.
+* [Cresta](https://cresta.com/) — contact center AI.
 
 ### Robotics
 
+* [Boston Dynamics](https://www.bostondynamics.com) — Atlas, Spot.
+* [Figure AI](https://www.figure.ai/) — humanoid robots.
+* [1X Technologies](https://www.1x.tech/) — humanoid robots.
+* [Tesla Robotics (Optimus)](https://www.tesla.com/AI) — humanoid robot.
+* [DJI](http://www.dji.com/) — drones.
+* [iRobot](http://www.irobot.com/) — Roomba.
+* [Fetch Robotics](http://www.fetchrobotics.com/) — warehouse robots.
+* [ABB Robotics](http://new.abb.com/products/robotics) — industrial robotics.
 
-* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) - *Georgia Tech*  Artificial Intelligence for Robotics by Sebastian Thrun 
-- [Advanced Robotics](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) -*UC Berkeley* The course introduces the math and algorithms underneath state-of-the-art robotic systems. The majority of these techniques are heavily based on probabilistic reasoning and optimization---two areas with wide applicability in modern Artificial Intelligence.
-
-## Artificial Intelligence Company & Research Institute
-
-### Business Intelligence & Analytics
-
-* [Arago/HIRO](https://www.arago.co/hiro/) — optimise and autonomously IT and business operations
-* [Arimo](https://arimo.com/) — solution to help predict customer activity and fraud
-* [Ayasdi](https://www.ayasdi.com/) — a suite of intelligent applications for enterprise
-* [DataRobot](https://www.datarobot.com/) — a range of products to improve enterprise products
-* [Dataminr](https://www.dataminr.com/) — discovers events and breaking information before the news
-* [Einstein](https://www.salesforce.com/au/products/einstein/overview/) — a smarter Salesforce
-* [Fuzzy AI](https://fuzzy.ai/) — adds intelligent decision making to web and mobile apps
-* [Logit.io](http://logit.io/) — visualise and manage logs and metrics with hosted ELK, Grafana & Open Distro
-* [Logz.io](http://logz.io/) — helps you index, search, visualise and analyse your data
-* [NXT AI](https://nxt.ai) — is a framework for temporal pattern recognition and prediction
-* [Paxata](http://www.paxata.com/)] — to transform raw data into useful information automatically
-* [Poweredby.ai](https://poweredby.ai/) — helps you monitor server bugs
-* [Sundown](https://www.sundown.ai/home/) — automates repetitive tasks within your business
-* [UBIX](http://ubix.ai/#dynamic) — making complex data science easy for enterprise
-* [Student Voice](https://www.studentvoice.ai)-automatic free-text labelling for education
-
-### Machine Learning
-
-* [Geometric Intelligence ](https://geometricintelligence.com/) - Geometric Intelligence apart of the Uber AI Labs 
-* [kaggle](https://www.kaggle.com/) - a platform for predictive modelling and analytics competitions in which companies and researchers post data and statisticians and data miners compete to produce the best models for predicting and describing the data
-
-### Robotics
-* [Boston Dynamics](https://www.bostondynamics.com) -  an engineering and robotics design company that is best known for the development of BigDog
-* [iRobot](http://www.irobot.com/) - manufacturer of the famous robotic vacuum cleaner
-* [DJI](http://www.dji.com/) - industry leader in drones for both commerical and industrial needs.
-* [Fetch Robotics](http://www.fetchrobotics.com/) - The future of e-commerce fulfillment and R&D robots.
-* [ABB Robotics](http://new.abb.com/products/robotics) - the largest manufacturer of industrial robots
-* [Aldebaran Robotics](https://www.aldebaran.com/en) - creator of the [NAO robot
-* [FANUC](http://www.fanucamerica.com/) - industrial robots manufacturer with the biggest install base
-* [Rethink Robotics](http://www.rethinkrobotics.com/) - creator of the collaborative robot [Baxter]
-
-### Conversational Interfaces & Chatbots
-* [API.ai](https://api.ai/) — advanced tools needed to build conversational user interfaces
-* [Broken Bear](https://brokenbear.com/) — a teddy bear AI for you to vent to for free, online, and anonymously.
-* [Chatfuel](https://chatfuel.com/) — build a Facebook chatbot without coding
-* [ChatGenius](https://chatgenius.one/) —unlock the power of Multilingual Communication
-* [Comm.ai](http://comm.ai/) — add voice and chat API to websites and apps
-* [Conversica](https://www.conversica.com/) — conversational interfaces to help get more sales
-* [EDDI](http://eddi.labs.ai/) — create, test and deploy chatbots
-* [FPT AI Platform](https://fpt.ai/) — automated interaction with end-users
-* [Golem.ai](https://golem.ai) — natural language interpretation tool for developers
-* [Gong](https://www.gong.io/) — analyses and improves sales conversations and discovery calls
-* [Kasisto](http://kasisto.com/) — conversational AI platform for the finance industry
-* [KITT.AI](http://kitt.ai/) — create conversational agents using a visual interface
-* [Maluuba](http://www.maluuba.com/) — teaching machines to think, reason and communicate
-* [Massively](http://massively.ai/) — build chatbots for business
-* [Meya](https://meya.ai/) — build, train and host bots in one platform
-* [MindMeld](https://www.mindmeld.com/) — improved version of Siri
-* [Motion AI](https://www.motion.ai/) — chat bots made easy
-* [msg.ai](http://txt.ai/index.html#home) — chatbot with management dashboard
-* [Octane AI](https://octaneai.com/) — marketing automation for messaging
-* [OpenAI Gym](https://gym.openai.com/) — open source interface to reinforcement learning tasks
-* [Orbit](https://orbit.ai) — tools to help to help automate conversational AI
-* [PageLines](https://www.pagelines.com?ref=hades217)-AI Agents to Enhance Your Website
-* [Pool](https://pool.ai/) — personal assistant that helps you get more work done
-* [Recast](https://recast.ai/) — collaborative platform to build, train, deploy intelligent bots
-* [Reply.ai](https://www.reply.ai/) — platform to build and manage your conversational strategy
-* [Semantic Machines](http://www.semanticmachines.com/) — conversational AI for work, travel, shop and play
-* [Snips](https://snips.ai/) — add a voice Assistant to your connected product
-* [Servo](http://servo.ai/) — full spectrum bot and voice which integrates with existing systems
-* [UNU.ai](http://unu.ai/) — using the Swarm Intelligence (group brainpower) for chatbots
-* [Unify](http://www.unify.ai/) — e-commerce chatbot
-* [uTu](https://utu.ai/) — multi-channel bot analytics and data management
-* [Voilà](https://www.getvoila.ai/) — AI-powered browser assistant to help you with everyday tasks
-* [Wechaty](https://github.com/Chatie/wechaty) - Wechaty is a Bot Framework for Wechat Personal Account which can help you create a bot
-* [Wit.ai](https://wit.ai/) — easily create text or voice based bots for preferred platform
-* [Wysh](https://wysh.ai/) — enterprise scale chatbot with payment methods
-* [Zero AI](http://zero.ai/) — voice interface that understands meaning, intent and context
-* [Kissable](https://kissable.app) — AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages
-
-### Data Science
-* [Arize](https://arize.com/) — machine learning observability
-* [BigML](https://bigml.com/) — single platform for all predictive use cases
-* [CrowdFlower](https://www.crowdflower.com/) — helps with sentiment analysis, search relevance, and more
-* [Dataiku](http://www.dataiku.com/) — data science platform for prototype, deploy, and run at scale
-* [DataScience](https://www.datascience.com) — enterprise data science platform for R&D and production
-* [Domino Data Lab](https://www.dominodatalab.com/) — platform for collaborating, building and deploying
-* [Fiddler AI](https://www.fiddler.ai/) - All-in-one ML & LLM observability. Fastest LLM Guardrails. 
-* [Kaggle](https://www.kaggle.com/) — helps you learn, work, and play with machine learning models
-* [Katonic.ai](https://katonic.ai/) - Automate your cycle of Intelligence with Katonic MLOps Platform.
-* [Phoenix](https://phoenix.arize.com/) - open source library; LLM observability in a notebook
-* [RapidMiner](https://rapidminer.com/) — makes data science teams more productive
-* [Seldon](http://www.seldon.io/) — helps DS teams put machine learning models into production
-* [Spark](http://www.sparkbeyond.com/) — research engine, capable of discovering complex patterns in data
-* [Tamr](http://www.tamr.com/) — makes data unification of data silos possible
-* [Trifacta](https://www.trifacta.com/) — helps put data into useful structures for analysis
-* [Yhat](https://www.trifacta.com/) — allows data scientists to deploy and update predictive models rapidly
-* [Yseop](https://yseop.com/) — automate the writing of reports, websites, emails, articles and more
-* 
-
-### Development
-* [AnOdot](http://www.anodot.com/) — detects business incidents
-* [Bonsai](https://bons.ai/) — develop more adaptive, trusted and programmable AI models
-* [Deckard.ai](http://deckard.ai/) — helps predict project timelines
-* [Fuzzy.ai](http://fuzzy.ai/) — adds intelligent decision making to web and mobile apps
-* [IBM Watson](http://www.ibm.com/watson/) — AI platform for business
-* [Gigster](https://gigster.com/) — connecting projects with the right team
-* [Kite](https://kite.com/) — augments your coding environment with web available knowledge
-* [Layer 6 AI](http://layer6.ai/) — deep learning platform for prediction and personalisation
-* [Morp](https://morph.ai/)h — makes developing chatbots for your business easy
-* [Ozz](http://ozz.ai/) — make your bot smarter, by helping it self learn
-* [RainforestQA](https://www.rainforestqa.com/) — rapidly web and mobile app testing
-* [SignifAI](https://www.signifai.io/) — increase server uptime and predict downtime
-* [Turtle](https://turtle.ai/) — project management and chat software that’s easy for teams
-* [Neural Network](https://nnabla.org/) - Libraries by Sony. Sony demonstrates its interest in deep learning by releasing their own open source deep learning framework.
-* [TensorFlow neural network playground](http://playground.tensorflow.org/) - Play with neural networks visually in your browser to get a feel for what they are and what they do.
-### Vehicle
-* [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
-* [Vinli](https://www.vin.li/) — turns any car into a smart car
-* [Apollo](http://apollo.auto/) - by Baidu. Newly launched source platform for building autonomous vehicles.
-
-### Insurance / Legal
-* [Docubot](http://aux.ai/) — can advise you on legal issues
-* [Driveway](http://www.driveway.ai/) — tracks and rewards safe drivers
-
-## Artificial Intelligence Tools
-* [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin (MIT) with 9 SEO and Google Ads skills — connects Google Search Console, PageSpeed Insights, and Google Ads API for automated audits, keyword research, and content optimization.
-
-
-### Personal Tools
-
-* [Amazon Echo / Alexa](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E) — everyday personal assistant for in-home
-* [Apple Siri](http://www.apple.com/ios/siri/) — everyday personal assistant on iPhone and Mac
-* [Brin](https://brin.ai/) — helps you make smarter business decisions
-* [Chatfuel](https://chatfuel.com/) — create a Facebook chatbot in 7 minutes
-* [Findo](https://findo.com/) — smart search assistant across email, files and personal cloud.
-* [Fembot](http://fembot.ai/) — your AI girlfriend
-* [Fin](https://www.fin.com/) — a powerful personal assistant
-* [Gatebox](http://gatebox.ai/) — a holographic anime assistant in an espresso machine
-* [Google Assistant](https://assistant.google.com/) — everyday personal assistant
-* [Howdy](https://howdy.ai/) - a friendly, trainable bot that helps Slack teams with work
-* [Hound](http://hound.ai/) — everyday personal assistant
-* [Julie Desk](https://www.juliedesk.com/) — meeting scheduling assistant (aimed at C-Suite)
-* [Kono](http://kono.ai/) — meeting scheduling assistant
-* [Lifos](http://simples.ai/) — dynamic independent entities that interact with the web and social
-* [Ling](http://ling.ai/en/) — similar to Amazon Echo
-* [Luka](https://luka.ai/) — chatbot messenger for people and other chatbots
-* [Lyra](https://lyr.ai) — monitor analyse your carbon emissions
-* [Magic](https://getmagic.com/) - Magic is a special phone number you text to get anything you want, hassle free
-* [Microsoft Cortana](https://www.microsoft.com/en/mobile/experiences/cortana/) - Cortana is a voice-controlled virtual assistant for Microsoft Windows Phone 8.1. Comparable to Siri, the intelligent assistant enabled on Apple devices, Microsoft's Cortana will use the Bing search engine and data stored on the user's smartphone by to make personalized recommendations
-* [MyWave](https://mywave.me/) - Melbourne-based which makes a personal call
-* [Meeco](http://meeco.me) - Sydney-based, a robot lawyer
-* Mimetic — meeting scheduling assistant
-* My Ally — handles meeting scheduling and manages calendar
-* [Mycroft](https://mycroft.ai/) — is the world’s first open source voice assistant
-* myWave — chatbot to help you throughout your daily life
-* [Remi](http://remi.ai/)— like Siri with an interface
-* Replika— your AI friend that you raise through text conversations
-* [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
-* SkipFlag — automatically discover and organise your work
-* [Spoken](http://spoken.ai/) — virtual assistant with an interface
-* Vesper — virtual assistant aimed at C-Suite
-* [Viv](http://viv.ai/) — like Siri but 10x better
-* [x.ai](https://x.ai/) — x.ai is a personal assistant who schedules meetings for you
-* Zoom.ai — personal assistant to help you at work
-* [AIHelperBot](https://aihelperbot.com/) - Build SQL queries using AI
-* [ZZZ Code AI](https://zzzcode.ai/) - Get any programming question answered / code generated online
-* [AI Flow Chat](https://aiflowchat.com/) - No-code workflow tool for automating and chaining AI prompts
-* [Convo](https://www.itsconvo.com/) — AI meeting assistant that helps you in real time with smart suggestions during live calls
-* [Cyber Collector](https://t.me/cybercollectorbot) — Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
-
-### Education Tools
-
-* [Thirdleap](http://thirdleap.ai/) — helps children to learn maths
-* [Woogie](https://woogie.ai/) — the conversational AI robot that makes learning and discovery fun for children
-* [XiaoJing Bot](http://jiangren.com.au) - XiaoJing Bot to support management of wechat groups and remove members of wechat group
-* [CodeKidz](https://codekidz.ai) — the first AI-powered programming learning platform for kids, featuring AI teachers to teach Python basics, problem-solving, and creativity with human-like responses
-
-### Writing Tools
-
-* [RightBlogger](https://rightblogger.com/) — AI-Powered Content Creation Tools for Bloggers
-* [Jasperi AI](https://www.jasper.ai/) — AI writer for marketing and content teams
-* [Writesonic](https://writesonic.com/) — AI writer that creates SEO-friendly content
-* [Taskade AI](https://www.taskade.com) — AI outlining and mind mapping tool with collaborative editing
-* [Clap](https://chatlikea.pro) — AI Writing Partner for a Distraction-Free, Seamless Typing Experience
-* [Myriad](https://www.namepepper.com/free-tools/ai-content-prompt-tool) — AI prompts for writing any kind of content, like ads, scripts, webpages, email, and social
-* [MindMap AI](https://mindmapai.app/text-summarizer) — AI-powered tool for structuring ideas, organizing research, and creating visual mind maps for writing, content planning, and knowledge management
-
-### Health / Medical Tools
-
-* [Abi](https://abi.ai/) — your virtual health assistant
-* [Ada](https://ada.com/) — can help if you’re feeling unwell
-* [Airi](http://airi.ai/) — personal health coach
-* [Alz.ai](https://alz.ai/) — helps you care for loved ones with Alzheimer’s
-* [Bitesnap](https://getbitesnap.com/) — food recognition from meal photos to help count calories
-* [doc.ai](http://doc.ai/) — makes lab results easy to understand
-* [Gyan](http://gyant.com/english/) — helps you go from symptoms to likely conditions
-* [Joy](http://www.hellojoy.ai/) — helps you track and improve your mental health
-* Kiwi — helps you to reduce and quit smoking
-* [Tess by X2AI](https://x2.ai/) — therapist in your pocket
-* Sleep.ai — diagnose snoring and tooth grinding
-
-### Travel AI Tools
-
-* [Ada](http://fido.ai/) — chatbot that helps you navigate and make decisions
-* [Emma](http://ema.ai/) — automatically calculates and adds meeting travel time
-* [ETA](https://www.eta.ai/) — helps you manage travel itineraries and meetings
-* [Mezi](http://mezi.com/) —helps with booking flights, hotels, restaurant reservations and more
-* [Nexar](https://www.getnexar.com/) — dash cam app that helps you drive safer
-* [Ready](http://ready.ai/) — traffic forecaster and travel time prediction
-* [Spatial](http://spatial.ai/) — reveal the social layer of cities
-
-### Finance AI Tools
-
-* [Morpher AI](https://www.morpher.com/ai) — Morpher AI is a comprehensive tool for financial market analysis that acts as your personal investment analyst.
-* [Abe](https://www.abe.ai/) — fast answers about your finances
-* [Andy](http://andy.ai/) — a personal Tax Accountant
-* [Ara](https://ara.ai/) — helps you budget
-* [Bond](http://bond.ai/) — helps you achieve your financial goals
-* [Mylo](https://mylo.ai/) — rounds up your everyday purchases and invest the spare change
-* [Olivia]() — helps you manage your finances
-* [Responsive](https://www.responsive.ai/) — institutional-grade active portfolio management
-* [Roger](https://www.roger.ai/) — helps you pay bills easily
-* [Xoe.ai](http://xoe.ai/) — AI lending chatbot
-
-### Language / Translation AI Tools
-
-* [Microsoft Translator](https://translator.microsoft.com/neural/) — language translator powered by neural networks
-* [Watson.ai](http://watson.ai/) — legal, academic and financial translations
-
-### IoT / IIoT
-* [Aerial](http://www.aerial.ai/) — home activity, movement and identity sensor
-* [Bridge.ai](http://bridge.ai/) — smart-home platform focused on speech and sound
-* [Cubic](http://cubic.ai/) — one place to connect your smart home devices
-* [Grojo](http://grow.ai/) — grow room controller and monitoring system
-* [Home](http://home.ai/) — autonomous home operations with connected devices
-* [Hello](http://hello.ai/) — helps you monitor and improve your sleep
-* [Josh](https://www.josh.ai/) — whole house voice control
-* [Mycroft](https://mycroft.ai/) — is the world’s first open source voice assistant
-* [Nanit](https://www.nanit.com/) — baby monitor that measures sleep and caregiver interactions
-* [Nest](https://nest.com/) — a range of in-home devices such as Thermostat, security and alarms
-
-### Research
-
-* [Apollo](https://apollo.ai) — breaks down articles and PDF’s into quick, readable dot points
-* [Ferret.ai](http://ferret.ai/) — helps you research by summarising articles and search ability
-* [Iris](http://research.ai/) — helps you research and visualise concepts in research papers
-
-### Tools
-
-[CaptionBot](https://www.captionbot.ai/) — Microsoft describes any photo
-[Crowdfunding.ai](https://crowdfunding.ai/) — crowdfunding platform for AI projects
-[Fiddler Guardrails](https://fiddler.ai/guardrails-trial) - free LLM guardrails
-[Fieldguide](https://fieldguide.net/) — universal field guide that suggests possible matches
-[Igly](https://igly.ai/) — AI image editor for background removal, object removal, upscaling, restoration, and product photo workflows
-
-## Books
-
-* [Awesome AI Books](https://github.com/zachpinto/awesome-ai-books) - Collection of non-fiction books about AI by category
-
-* [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html) - This introductory textbook on reinforcement learning is targeted toward engineers and scientists in artificial intelligence, operations research, neural networks, and control systems, and we hope it will also be of interest to psychologists and neuroscientists.
-
-### Blogs, Papers, and Articles
-* [Deep learning reading list](http://deeplearning.net/reading-list/) - A thorough list of academic survey papers on the subjects of reinforcement learning, computer vision, NLP & speech, disentangling factors, transfer learning, practical tricks, sparse coding, foundation theory, feedforward networks, large scale deep learning, recurrent networks, hyper parameters, optimization, and unsupervised feature learning.
-* [Deep Learning in a Nutshell] - (https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/) - by Tim Dettmers, via NVidia (2015). These articles are digestible and do not rely heavily on math. There are 3 parts: Part 1(A gentle introduction to deep learning that covers core concepts and vocabulary). Part2 ( History of deep learning and methods of training deep learning architectures quickly and efficiently) Part 3 (Sequence learning with a focus on natural language processing)
-* [TensorFlow](http://download.tensorflow.org/paper/whitepaper2015.pdf) - Large-Scale Machine Learning on Heterogeneous Distributed Systems by Google Research (2015). How TensorFlow works.
-* [BuzzRobot AI Newsletter](https://buzzrobot.substack.com/). Exclusive talks by top researchers on cutting-edge artificial intelligence papers.
-* [AI and Machine Learning - Scaler Blogs](https://www.scaler.com/blog/category/artificial-intelligence-machine-learning/) - These blogs provide insights, tutorials, and comparisons on key AI concepts and technologies.
-
-
-## Development
-
-* [Caffe](http://caffe.berkeleyvision.org/) - Deep learning framework.
-* [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A).
-
-### LLM Ops
-
-* [claw-army/claude-node](https://github.com/claw-army/claude-node) - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
-* [Helicone AI](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications.
-
-### Bot Development
-
-* [Alexa Skill Kit](https://github.com/stojanovic/alexa-skill-kit) - Library for effortless Alexa Skill development with AWS Lambda
-* [Facebook Messenger chatbot boilerplate](https://github.com/christophrumpel/chatbot-php-boilerplate) - PHP Facebook Messenger chatbot boilerplate
-* [Facebook Messenger wit.ai node.js boilerplate](https://github.com/SimplyTechnologies/messenger-bot-wit-boilerplate) -Facebook Messenger wit.ai node.js boilerplate
-* [Telegram Bot API PHP SDK](https://github.com/irazasyed/telegram-bot-sdk) - Telegram Bot API PHP SDK. Supports Laravel out of the box
-* [Wechaty](https://github.com/wechaty/wechaty) - Wechaty is a Bot Framework for Wechat Personal Account which can help you create a bot
-* [Node.js Messenger Bot](https://github.com/remixz/messenger-bot) - A Node client for the Facebook Messenger Platform
-* [BootBot](https://github.com/Charca/bootbot) - Facebook Messenger Bot Framework for Node.js
-* [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
-* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - This library provides a pure Python interface for the Telegram Bot API
-
-### Haskell
-
-### C++
-
-### Java
-
-### Julia
-
-### Javascript
-
-* [Twitter-text](https://github.com/twitter/twitter-text) - Twitter's text processing library
-* [natural](https://github.com/NaturalNode/natural) - General natural language facilities for node
-* [Clustering.js](https://github.com/emilbayes/clustering.js) - Clustering algorithms implemented for Node.js and the browser
-* [Kmeans.js](https://github.com/emilbayes/kMeans.js) - Implementation of the k-means algorithm, for node.js and the browser
-* [sylvester](https://github.com/jcoglan/sylvester) - Vector and Matrix math for JavaScript.
-* [DN2A](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture
-* [Knwl.js](https://github.com/loadfive/Knwl.js) - A Natural Language Processor in JS
-* [NLP Compromise](https://github.com/nlp-compromise/compromise) - Natural Language processing in the browser
-* [science.js](https://github.com/jasondavies/science.js/) - Scientific and statistical computing in JavaScript.
-* [Machine Learning](http://joonku.com/project/machine_learning) - Machine learning library for Node.js
-* [machineJS](https://github.com/ClimbsRocks/machineJS) - Automated machine learning, data formatting, ensembling, and hyperparameter optimization for competitions and exploration.
-* [Node-fann](https://github.com/rlidwka/node-fann) - FANN (Fast Artificial Neural Network Library) bindings for Node.js
-* [brain.js](https://github.com/harthur-org/brain.js) - Neural Networks
-* [Synaptic](https://github.com/cazala/synaptic) - Neural Networks
-* [Natural](https://github.com/NaturalNode/natural) - Natural Language Processing
-* [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) - Convolutional Neural Networks
-* [mljs](https://github.com/mljs) - A set of sub-libraries with a variety of functions
-* [Neataptic](http://dnn%20execution%20framework%20o/) - Neural Networks
-* [Webdnn](https://github.com/mil-tokyo/webdnn) - Deep Learning
-
-### Python
-
-* [Lasagne](https://github.com/Lasagne/Lasagne) - Lightweight Python library for deep learning (built on Theano).
-* [LLM App](https://github.com/pathwaycom/llm-app) | Open-source Python library to build your real-time LLM-enabled data pipeline.
-
-### PHP
-
-### R
-
-### TensorFlow
-
-* [Neptune.ai](https://docs.neptune.ai/integrations-and-supported-tools/model-training/tensorflow-keras) – helps with keeping track of model training metadata.
-
-## News
-
-* [AI Weekly](http://aiweekly.co/) — a weekly collection news and resources on AI and ML
-* Approximately Correct — AI and Machine Learning blog
-* [Axiomzen](http://ai.axiomzen.co/) — AI newsletter delivered every 2 weeks
-* [Concerning.ai](https://concerning.ai/) — AI commentators
-* [Fast.ai](http://www.fast.ai/) — dedicated to making the power of deep learning accessible to all
-* [Machinelearning.ai](http://machinelearning.ai/) — dedicated news and updates for ML and AI
-* [Machine Learning Weekly](http://mlweekly.com/) — a hand-curated newsletter ML and DL
-* [Artificial Intelligence News -- ScienceDaily](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/) -Artificial Intelligence News. Everything on AI including futuristic robots with artificial intelligence, computer models of human intelligence and more.
-
-### Podcast
-* [Podcast with Yoshua Bengio](http://techemergence.com/the-rise-of-neural-networks-and-deep-learning-in-our-everyday-lives-a-conversation-with-yoshua-bengio/) - The Rise of Neural Networks and Deep Learning in Our Everyday Lives. An exciting overview of the power of neural networks as well as their current influence and future potential.
-
-
-
-## Events and Conferences
-
-* [The AI Conference](http://aiconference.com/) — an annual event where leading AI researchers and top industry practitioners meet and collaborate
-* [The AI Forum](https://www.c2montreal.com/post/new-the-ai-forum-at-c2-montreal-2017/) — Montreal based AI conference
-*  Artificial Intelligence Conference — Bootstrap Labs Venture firm
-* Events.ai — the one stop shop for AI/ML/DL events and conferences
-* Nucl.ai — game AI conference and courses
-* [Chatbot Summit](https://www.chatbotsummit.com/) - Chatbot Summit Berlin is the second international Chatbot Summit destined to bring together the leading players of the newly formed Chatbot economy
-* [Deep learning Google Group](https://plus.google.com/communities/112866381580457264725) - Where deep learning enthusiasts and researchers hangout and share latest news.
-* [Deep learning research groups](http://deeplearning.net/deep-learning-research-groups-and-labs/) - A list of many of the academic and industry labs focused on deep learning.
-
-## Jobs
-* [Jobs in AI](https://www.moaijobs.com/) - find latest jobs from top AI companies
-* [Jobs in Australia](https://www.jobpin.com.au/) - find and recommend jobs through AI
-* [澳洲找工作](https://jiangren.com.au/job/) - 华人找工作 工作内推
-* [AI Jobs](https://aijobster.work/) - Remote Jobs and latest AI jobs at the companies
-* [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
-
-
-### Location
-
-* [Amsterdam](http://amsterdam.ai/) —  AI community and events
-* Berlin —  AI community and events
-* Beijing - AI community and events
-* [Brisbane](https://jracademy.com.au) - AI community and events
-* [Sydney](https://www.buildclub.ai/) - Community of builders for AI
-* [Sydney](https://chineseai.org.au/) - Chinese AI Association
-* Hamburg —  AI community and events
-* [Hongkong](http://hkg.ai/) —  AI community and events
-* [London](http://www.london.ai/) —  AI community and events
-* Madrid —  AI community and events
-* Melbourne - AI community and events
-* Milan —  AI community and events
-* [New York](http://newyork.ai/) —  AI community and events
-* Oslo —  AI community and events
-* [San Francisco AI meetup](http://www.meetup.com/superintelligencemeetup/) -  A local meetup for AI enthusiasts and researchers that we’re involved in.
-* [Seattle](http://seattle.city.ai/) —  AI community and events
-* Shanghai —  AI community and events
-* Shenzhen —  AI community and events
-* Singapore —  AI community and events
-* Stockholm —  AI community and events
-* Sydney - AI community and events
-* [Chatbots NYC](https://www.meetup.com/New-York-chatbots-Meetup/) - Meetup in New York City
-
-* Viv — like Siri but 10x better
-* x.ai— meeting scheduling assistant
-* Zoom.ai — personal assistant to help you at work
-* [澳洲找工作, 澳洲IT](https://jiangren.com.au/) — 匠人学院，找工作，实习，工作内推，全栈班，DevOps学习
-* [Web全栈班](https://jiangren.com.au/program-course/web-code-bootcamp-or-learn-to-code-1) — Web开发全栈项目班
-* 
+---
+
+## Personal AI Tools
+
+### General Assistants
+
+* [ChatGPT](https://chat.openai.com/) — OpenAI's general-purpose assistant.
+* [Claude](https://claude.ai/) — Anthropic's assistant; long context, careful reasoning.
+* [Google Gemini](https://gemini.google.com/) — Google's assistant.
+* [Perplexity](https://www.perplexity.ai/) — AI-powered search engine.
+* [You.com](https://you.com/) — AI search and chat.
+* [Pi (Inflection)](https://pi.ai/) — empathetic personal AI.
+
+### Voice Assistants (Smart Devices)
+
+* [Amazon Alexa](https://www.amazon.com/alexa) — in-home assistant.
+* [Apple Siri](http://www.apple.com/ios/siri/) — iOS / macOS assistant.
+* [Google Assistant](https://assistant.google.com/) — Android / Home assistant.
+* [Mycroft AI](https://mycroft.ai/) — open-source voice assistant.
+
+### Productivity AI
+
+* [Notion AI](https://www.notion.so/product/ai) — built into Notion docs.
+* [Mem](https://get.mem.ai/) — AI-organized note-taking.
+* [Granola](https://www.granola.ai/) — AI meeting notes.
+* [Otter.ai](https://otter.ai/) — meeting transcription.
+* [Reclaim.ai](https://reclaim.ai/) — calendar AI scheduling.
+* [Motion](https://www.usemotion.com/) — AI task and calendar planner.
+
+### AI Search
+
+* [Perplexity](https://www.perplexity.ai/) — research-grade AI search.
+* [Phind](https://phind.com/) — AI search for developers.
+* [Exa](https://exa.ai/) — search engine for AI/LLMs.
+* [Tavily](https://tavily.com/) — search API for agents.
+
+---
+
+## Specialized AI Tools
+
+### Writing & Content
+
+* [Jasper AI](https://www.jasper.ai/) — AI writer for marketing teams.
+* [Writesonic](https://writesonic.com/) — SEO content generator.
+* [Copy.ai](https://www.copy.ai/) — AI marketing copy.
+* [Grammarly](https://www.grammarly.com/) — AI writing assistant.
+* [Sudowrite](https://www.sudowrite.com/) — AI for fiction writers.
+* [Taskade AI](https://www.taskade.com) — outlining and mind mapping.
+* [RightBlogger](https://rightblogger.com/) — blogger-focused AI tools.
+
+### Image Generation & Design
+
+* [Midjourney](https://www.midjourney.com/) — high-quality image generation.
+* [DALL·E (OpenAI)](https://openai.com/dall-e-3) — image generation.
+* [Stable Diffusion (local)](https://stability.ai/) — open-source image gen.
+* [Flux](https://blackforestlabs.ai/) — high-quality open image gen.
+* [Leonardo.AI](https://leonardo.ai/) — Sydney-based image generation.
+* [Ideogram](https://ideogram.ai/) — image generation with text rendering.
+* [Krea](https://www.krea.ai/) — real-time AI canvas.
+* [Canva Magic Studio](https://www.canva.com/magic-studio/) — AI design tools.
+* [Figma AI](https://www.figma.com/ai/) — AI in Figma.
+
+### Video & Audio
+
+* [Runway](https://runwayml.com/) — AI video generation and editing.
+* [Pika Labs](https://pika.art/) — text-to-video.
+* [HeyGen](https://www.heygen.com/) — AI avatars and translation.
+* [Synthesia](https://www.synthesia.io/) — AI video for enterprise.
+* [Descript](https://www.descript.com/) — edit audio/video like a doc.
+* [ElevenLabs](https://elevenlabs.io/) — voice cloning and synthesis.
+* [Suno](https://www.suno.ai/) — music generation.
+* [Udio](https://www.udio.com/) — music generation.
+
+### Health / Medical
+
+* [Ada Health](https://ada.com/) — symptom assessment.
+* [doc.ai](http://doc.ai/) — health insights.
+* [Abridge](https://www.abridge.com/) — clinical documentation AI.
+* [Tess (X2AI)](https://x2.ai/) — therapy support.
+
+### Finance
+
+* [Morpher AI](https://www.morpher.com/ai) — financial market analysis.
+* [Bloomberg GPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/) — finance-specific LLM.
+
+### Travel & Local
+
+* [Mindtrip](https://mindtrip.ai/) — AI travel planning.
+* [Layla](https://www.layla.ai/) — travel AI assistant.
+
+### Legal
+
+* [Harvey AI](https://www.harvey.ai/) — legal AI.
+* [Spellbook](https://www.spellbook.legal/) — contract review AI.
+
+### Education (for Kids)
+
+* [CodeKidz](https://codekidz.ai) — AI-powered programming learning for kids.
+
+---
+
+## Development Frameworks
+
+### Deep Learning Frameworks
+
+* [**PyTorch**](https://pytorch.org/) — by Meta; the de facto research framework.
+* [**TensorFlow**](https://www.tensorflow.org/) — by Google.
+* [**JAX**](https://github.com/google/jax) — by Google; functional, GPU/TPU.
+* [**Keras**](https://keras.io/) — high-level neural networks API.
+* [**MLX (Apple)**](https://github.com/ml-explore/mlx) — array framework for Apple Silicon.
+
+### Python Libraries
+
+* [**Hugging Face Transformers**](https://github.com/huggingface/transformers) — state-of-the-art NLP.
+* [**LangChain**](https://github.com/langchain-ai/langchain) — LLM application framework.
+* [**LlamaIndex**](https://github.com/run-llama/llama_index) — LLM data framework.
+* [**Pydantic AI**](https://ai.pydantic.dev/) — type-safe agent framework.
+* [**Instructor**](https://python.useinstructor.com/) — structured outputs from LLMs.
+* [**LiteLLM**](https://github.com/BerriAI/litellm) — unified API for 100+ LLMs.
+* [**Outlines**](https://github.com/outlines-dev/outlines) — guided LLM generation.
+* [**DSPy**](https://github.com/stanfordnlp/dspy) — programming (not prompting) LLMs.
+* [**scikit-learn**](https://scikit-learn.org/) — classic ML in Python.
+* [**Lasagne**](https://github.com/Lasagne/Lasagne) — lightweight deep learning on Theano.
+
+### TypeScript / JavaScript Libraries
+
+* [**Vercel AI SDK**](https://sdk.vercel.ai/) — React/Next.js AI app SDK.
+* [**LangChain.js**](https://github.com/langchain-ai/langchainjs) — LangChain for JS.
+* [**TensorFlow.js**](https://www.tensorflow.org/js) — browser ML.
+* [**Brain.js**](https://github.com/harthur-org/brain.js) — neural networks in JS.
+* [**Synaptic**](https://github.com/cazala/synaptic) — JS neural network library.
+* [**Natural**](https://github.com/NaturalNode/natural) — NLP in Node.js.
+* [**Compromise (NLP)**](https://github.com/spencermountain/compromise) — NLP in browser.
+
+### Bot Frameworks
+
+* [**Anthropic SDK (Python / TypeScript)**](https://github.com/anthropics/anthropic-sdk-python) — official Claude SDK.
+* [**OpenAI SDK**](https://github.com/openai/openai-python) — official OpenAI SDK.
+* [**Wechaty**](https://github.com/wechaty/wechaty) — WeChat bot framework.
+* [**python-telegram-bot**](https://github.com/python-telegram-bot/python-telegram-bot) — Telegram bot SDK.
+* [**Discord.py**](https://github.com/Rapptz/discord.py) — Discord bot SDK.
+* [**Slack Bolt**](https://github.com/slackapi/bolt-python) — Slack app framework.
+
+### Datasets
+
+* [**Hugging Face Datasets**](https://huggingface.co/datasets) — central dataset hub.
+* [**Common Crawl**](https://commoncrawl.org/) — web-scale data.
+* [**Kaggle Datasets**](https://www.kaggle.com/datasets) — competition and reference datasets.
+* [**Papers With Code Datasets**](https://paperswithcode.com/datasets) — benchmark datasets.
+* [**The Pile**](https://pile.eleuther.ai/) — 800GB dataset for LLMs.
+
+---
+
+## News, Newsletters & Podcasts
+
+### Newsletters
+
+* [**The Batch (deeplearning.ai)**](https://www.deeplearning.ai/the-batch/) — Andrew Ng's weekly AI newsletter.
+* [**Latent Space**](https://www.latent.space/) — AI engineering practitioner newsletter.
+* [**Import AI (Jack Clark)**](https://importai.substack.com/) — AI policy and research.
+* [**The Sequence**](https://thesequence.substack.com/) — AI research summaries.
+* [**Last Week in AI**](https://lastweekin.ai/) — weekly AI news.
+* [**AI Weekly**](http://aiweekly.co/) — weekly AI digest.
+* [**TLDR AI**](https://tldr.tech/ai) — daily AI news in 5 minutes.
+* [**Ben's Bites**](https://www.bensbites.com/) — daily AI news for non-technical readers.
+* [**One Useful Thing (Ethan Mollick)**](https://www.oneusefulthing.org/) — practical AI essays.
+
+### Podcasts
+
+* [**Latent Space Podcast**](https://www.latent.space/podcast) — AI engineering deep dives.
+* [**The Lex Fridman Podcast**](https://lexfridman.com/podcast/) — long-form AI/tech conversations.
+* [**Dwarkesh Podcast**](https://www.dwarkeshpatel.com/) — AI researchers and founders.
+* [**No Priors**](https://www.no-priors.com/) — Sarah Guo & Elad Gil on AI.
+* [**The TWIML AI Podcast**](https://twimlai.com/podcast/twimlai/) — This Week in ML & AI.
+* [**Practical AI**](https://changelog.com/practicalai) — applied AI for engineers.
+* [**Machine Learning Street Talk**](https://www.youtube.com/@MachineLearningStreetTalk) — academic ML discussions.
+
+### News Sites
+
+* [**Hacker News (HN AI tag)**](https://news.ycombinator.com/) — community AI discussion.
+* [**ArXiv (cs.CL / cs.AI)**](https://arxiv.org/list/cs.AI/recent) — preprints.
+* [**Papers with Code**](https://paperswithcode.com/) — papers + implementations.
+* [**The Information AI**](https://www.theinformation.com/topics/artificial-intelligence) — paid; insider AI news.
+* [**Sciencedaily AI**](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/) — research news.
+
+---
+
+## Events & Conferences
+
+* [**NeurIPS**](https://neurips.cc/) — premier ML research conference.
+* [**ICML**](https://icml.cc/) — International Conference on Machine Learning.
+* [**ICLR**](https://iclr.cc/) — Learning Representations.
+* [**CVPR**](https://cvpr.thecvf.com/) — Computer Vision and Pattern Recognition.
+* [**ACL**](https://www.aclweb.org/) — Computational Linguistics.
+* [**The AI Engineer Summit / Conference**](https://www.ai.engineer/) — practitioner conference (SF/NYC).
+* [**Anthropic Builder Summit**](https://www.anthropic.com/events) — Anthropic developer events.
+* [**OpenAI DevDay**](https://devday.openai.com/) — OpenAI developer event.
+* [**Hugging Face Events**](https://huggingface.co/events) — community events.
+* [**AI Sydney / AI Melbourne meetups**](https://www.meetup.com/topics/artificial-intelligence/au/) — Australia community events.
+* [**Build Club Sydney events**](https://www.buildclub.ai/) — AU AI builders.
+* [**JR Academy events**](https://jiangren.com.au/events) — Brisbane / Sydney AI workshops and lectures.
+
+---
+
+## AI Jobs
+
+* [**JR Academy Career Coaching**](https://jiangren.com.au/career-coaching) — AU AI Engineer placement.
+* [**JR Academy Job Board (中文)**](https://jiangren.com.au/job/) — 澳洲华人 AI 求职.
+* [**JobPin**](https://www.jobpin.com.au/) — AI-powered job recommendations (AU).
+* [Moai Jobs](https://www.moaijobs.com/) — top AI company jobs.
+* [AI Jobster](https://aijobster.work/) — remote AI jobs.
+* [Hugging Face Jobs](https://huggingface.co/jobs) — open-source AI roles.
+* [LinkedIn AI Engineer search](https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer) — global AI jobs.
+* [WhoIsHiring (HN)](https://hnhiring.com/) — Hacker News hiring threads.
+* [Cracked Engineers](https://www.crackedengineers.com/) — hand-picked tech jobs.
+
+---
+
+## AI Communities by City
+
+### Australia 🇦🇺
+
+* [**Brisbane**](https://jiangren.com.au) — JR Academy AI community and events.
+* [**Sydney (Build Club)**](https://www.buildclub.ai/) — AI builders community.
+* [**Sydney (Chinese AI Association)**](https://chineseai.org.au/) — 华人 AI 社区.
+* **Melbourne** — AI Melbourne Meetup.
+
+### North America
+
+* [**San Francisco AI Meetup**](http://www.meetup.com/superintelligencemeetup/).
+* [**New York**](http://newyork.ai/) — AI community.
+* [**Seattle**](http://seattle.city.ai/) — AI community.
+
+### Europe
+
+* [**Amsterdam**](http://amsterdam.ai/).
+* [**London**](http://www.london.ai/).
+* **Berlin / Hamburg / Madrid / Milan / Oslo / Stockholm** — local AI communities.
+
+### Asia
+
+* [**Hong Kong**](http://hkg.ai/).
+* **Beijing / Shanghai / Shenzhen / Singapore** — local AI communities.
+
+---
+
+## Contributing
+
+Open a pull request or email **hello@jiangren.com.au**.
+
+**Contribution guidelines**:
+* Add resources that are still active and useful (we periodically prune dead links).
+* Keep entries to one line: `[Name](url) — short description`.
+* Place new entries in the most appropriate section.
+* For Australia-specific resources, use the [Australia AI Scene](#-australia-ai-scene) section.
+* No affiliate / referral links without disclosure.
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for full guidelines.
+
+---
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [JR Acacademy](http://jiangren.com.au) and [JR Talent](https://jrtalent.com.au) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [JR Academy](https://jiangren.com.au) and [JR Talent](https://jrtalent.com.au) have waived all copyright and related or neighboring rights to this work.
+
+---
+
+> 🇦🇺 **Are you trying to break into AI in Australia?**
+> Check out [**JR Academy AI Engineer Bootcamp**](https://jiangren.com.au/curriculum/ai-engineer-bootcamp) — project-based 6-month program with the P3 model (Project + Production + Placement) and a focus on Australian job market.
