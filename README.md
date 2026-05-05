@@ -122,6 +122,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Wit.ai](https://wit.ai/) — easily create text or voice based bots for preferred platform
 * [Wysh](https://wysh.ai/) — enterprise scale chatbot with payment methods
 * [Zero AI](http://zero.ai/) — voice interface that understands meaning, intent and context
+* [Kissable](https://kissable.app) — AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages
 
 ### Data Science
 * [Arize](https://arize.com/) — machine learning observability
@@ -210,6 +211,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [ZZZ Code AI](https://zzzcode.ai/) - Get any programming question answered / code generated online
 * [AI Flow Chat](https://aiflowchat.com/) - No-code workflow tool for automating and chaining AI prompts
 * [Convo](https://www.itsconvo.com/) — AI meeting assistant that helps you in real time with smart suggestions during live calls
+* [Cyber Collector](https://t.me/cybercollectorbot) — Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ### Education Tools
 
@@ -226,6 +228,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Taskade AI](https://www.taskade.com) — AI outlining and mind mapping tool with collaborative editing
 * [Clap](https://chatlikea.pro) — AI Writing Partner for a Distraction-Free, Seamless Typing Experience
 * [Myriad](https://www.namepepper.com/free-tools/ai-content-prompt-tool) — AI prompts for writing any kind of content, like ads, scripts, webpages, email, and social
+* [MindMap AI](https://mindmapai.app/text-summarizer) — AI-powered tool for structuring ideas, organizing research, and creating visual mind maps for writing, content planning, and knowledge management
 
 ### Health / Medical Tools
 
@@ -293,6 +296,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 [Crowdfunding.ai](https://crowdfunding.ai/) — crowdfunding platform for AI projects
 [Fiddler Guardrails](https://fiddler.ai/guardrails-trial) - free LLM guardrails
 [Fieldguide](https://fieldguide.net/) — universal field guide that suggests possible matches
+[Igly](https://igly.ai/) — AI image editor for background removal, object removal, upscaling, restoration, and product photo workflows
 
 ## Books
 
