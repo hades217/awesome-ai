@@ -170,6 +170,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Driveway](http://www.driveway.ai/) — tracks and rewards safe drivers
 
 ## Artificial Intelligence Tools
+* [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin (MIT) with 9 SEO and Google Ads skills — connects Google Search Console, PageSpeed Insights, and Google Ads API for automated audits, keyword research, and content optimization.
+
 
 ### Personal Tools
 
