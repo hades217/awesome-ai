@@ -122,6 +122,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Wit.ai](https://wit.ai/) — easily create text or voice based bots for preferred platform
 * [Wysh](https://wysh.ai/) — enterprise scale chatbot with payment methods
 * [Zero AI](http://zero.ai/) — voice interface that understands meaning, intent and context
+* [Kissable](https://kissable.app) — AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages
 
 ### Data Science
 * [Arize](https://arize.com/) — machine learning observability
