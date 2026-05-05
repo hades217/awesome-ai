@@ -295,6 +295,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 [Crowdfunding.ai](https://crowdfunding.ai/) — crowdfunding platform for AI projects
 [Fiddler Guardrails](https://fiddler.ai/guardrails-trial) - free LLM guardrails
 [Fieldguide](https://fieldguide.net/) — universal field guide that suggests possible matches
+[Igly](https://igly.ai/) — AI image editor for background removal, object removal, upscaling, restoration, and product photo workflows
 
 ## Books
 
