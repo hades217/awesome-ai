@@ -461,6 +461,15 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Scale AI](https://scale.com/) — data labeling and infrastructure.
 * [DataRobot](https://www.datarobot.com/) — enterprise ML platform.
 
+### AI Consulting & Implementation
+
+* [Slalom AI Practice](https://www.slalom.com/services/data-and-ai) — global consulting with AI practice.
+* [Boston Consulting Group X (BCG X)](https://www.bcg.com/x) — BCG's AI/digital build arm.
+* [Accenture AI](https://www.accenture.com/us-en/services/applied-intelligence-index) — large-scale AI transformation.
+* [Thoughtworks AI](https://www.thoughtworks.com/en-us/what-we-do/ai) — engineering-led AI delivery.
+* [Modulai](https://modulai.io/) — boutique AI consultancy (EU).
+* [MetaTree Lab](https://metatreelab.ai/) — AI consulting; LLM strategy, RAG and agent implementation, custom training.
+
 ---
 
 ## 🧠 Personal AI Tools
@@ -485,6 +494,14 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Mem](https://get.mem.ai/) — AI-organized note-taking.
 * [Sunsama](https://www.sunsama.com/) — daily planner with AI.
 * [Clay](https://clay.com/) — AI-powered CRM and outreach.
+
+### Virtual Office & Remote Collaboration
+
+* [Gather](https://www.gather.town/) — virtual office in 2D pixel-art world.
+* [Teamflow](https://www.teamflow.com/) — virtual HQ for remote teams.
+* [Mmhmm](https://www.mmhmm.app/) — AI presentation and async video.
+* [MetaTown](https://metatown.ai/) — virtual office and meeting environment with AI agents.
+* [Around](https://www.around.co/) — AI-enhanced video calls (compact tiles).
 
 ### AI Search
 
@@ -564,6 +581,15 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 * [Khan Academy Khanmigo](https://www.khanmigo.ai/) ⭐ — AI tutor for students.
 * [CodeKidz](https://codekidz.ai) — AI-powered programming learning for kids.
+
+### Career & Resume
+
+* [Teal](https://www.tealhq.com/) — AI resume builder + job tracker.
+* [Rezi](https://www.rezi.ai/) — AI resume builder optimized for ATS.
+* [ResumeWorded](https://resumeworded.com/) — AI resume + LinkedIn profile feedback.
+* [Kickresume](https://www.kickresume.com/) — AI resume and cover letter builder.
+* [JobPin AI](https://jobpin.ai/) — AI resume editing, ATS optimization, and job matching.
+* [Final Round AI](https://www.finalroundai.com/) — AI interview copilot.
 
 ---
 
@@ -711,7 +737,7 @@ For Sydney, Melbourne, Beijing, Shanghai, Singapore, KL — see [🌍 AI Scene b
 * [Canva Engineering](https://www.canva.com/careers/) — Sydney-based, AI/ML roles.
 * [Australian Government Digital Transformation Agency](https://www.dta.gov.au/) — public sector AI.
 * [Build Club AI](https://www.buildclub.ai/) — Sydney AI builders community + jobs.
-* [JobPin AI](https://www.jobpin.com.au/) — AI-powered job recommendations for Australia.
+* [JobPin AI](https://jobpin.ai/) — AI-powered resume editing, ATS optimization, and job matching.
 * [JR Academy Career Coaching](https://jiangren.com.au/career-coaching) — AI Engineer career coaching and placement.
 
 **Visa Pathways for AI Engineers**
@@ -818,4 +844,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for full guidelines and [CODE_OF_CONDUC
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [JR Academy](https://jiangren.com.au) and [JR Talent](https://jrtalent.com.au) have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [JR Academy](https://jiangren.com.au) has waived all copyright and related or neighboring rights to this work.
