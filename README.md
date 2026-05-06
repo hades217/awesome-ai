@@ -19,17 +19,19 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 > If you only have 30 minutes — start here. Opinionated picks, updated each quarter.
 
-**Frontier models** — Claude Opus 4.7 (best reasoning + agentic) · GPT-5.5 (most polished) · Gemini 3 Pro (best multimodal) · Grok 4 (real-time web)
-**Best open weights** — Llama 4 (general) · Qwen3 (multilingual / Chinese) · DeepSeek V3.2 (reasoning) · Mistral Large 3
-**AI coding** — Claude Code (CLI) · Cursor (IDE) · Codex CLI (OpenAI) · Aider (open-source terminal)
-**Agent framework** — Claude Agent SDK · LangGraph · Anthropic MCP · Pydantic AI
-**RAG starter** — pgvector for prototypes · Qdrant for self-hosted prod · Pinecone for managed
-**Inference** — Ollama (local) · vLLM (production) · Together AI / Groq (hosted)
-**Observability** — LangSmith (LangChain shop) · Helicone (open-source) · Braintrust (eval-first)
-**Free course** — Karpathy's "Neural Networks: Zero to Hero" · HuggingFace Agents Course
-**Newsletter** — Latent Space (engineering) · The Batch (overview) · Import AI (policy)
-**Book** — *AI Engineering* (Chip Huyen, 2025) · *Build a LLM From Scratch* (Sebastian Raschka)
-**Must-read paper** — [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762) — the Transformer
+| Category | Picks |
+|---|---|
+| 🤖 **Frontier models** | [Claude Opus 4.7](https://www.anthropic.com/claude) (reasoning + agentic) · [GPT-5.5](https://openai.com/api/) (polished) · [Gemini 3 Pro](https://ai.google.dev/) (multimodal) · [Grok 4](https://x.ai/) (real-time web) |
+| 🔓 **Best open weights** | [Llama 4](https://llama.meta.com/) (general) · [Qwen3](https://qwenlm.github.io/) (multilingual) · [DeepSeek V3.2](https://www.deepseek.com/) (reasoning) · [Mistral Large 3](https://mistral.ai/) |
+| 💻 **AI coding** | [Claude Code](https://www.anthropic.com/claude-code) (CLI) · [Cursor](https://www.cursor.com/) (IDE) · [Codex CLI](https://github.com/openai/codex) (OpenAI) · [Aider](https://aider.chat/) (open-source) |
+| 🤝 **Agent framework** | [Claude Agent SDK](https://docs.anthropic.com/en/api/agent-sdk) · [LangGraph](https://langchain-ai.github.io/langgraph/) · [Anthropic MCP](https://modelcontextprotocol.io/) · [Pydantic AI](https://ai.pydantic.dev/) |
+| 📚 **RAG starter** | [pgvector](https://github.com/pgvector/pgvector) (prototypes) · [Qdrant](https://qdrant.tech/) (self-hosted prod) · [Pinecone](https://www.pinecone.io/) (managed) |
+| ⚡ **Inference** | [Ollama](https://ollama.com/) (local) · [vLLM](https://github.com/vllm-project/vllm) (production) · [Together AI](https://www.together.ai/) / [Groq](https://groq.com/) (hosted) |
+| 📊 **Observability** | [LangSmith](https://www.langchain.com/langsmith) (LangChain shop) · [Helicone](https://www.helicone.ai/) (open-source) · [Braintrust](https://www.braintrust.dev/) (eval-first) |
+| 🎓 **Free course** | [Karpathy's Zero to Hero](https://karpathy.ai/zero-to-hero.html) · [HuggingFace Agents Course](https://huggingface.co/learn/agents-course) |
+| 📰 **Newsletter** | [Latent Space](https://www.latent.space/) (engineering) · [The Batch](https://www.deeplearning.ai/the-batch/) (overview) · [Import AI](https://importai.substack.com/) (policy) |
+| 📖 **Book** | *[AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)* (Chip Huyen, 2025) · *[Build a LLM From Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)* (Sebastian Raschka) |
+| 🧬 **Must-read paper** | [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762) — the Transformer |
 
 → See full sections below for alternatives, runners-up, and emerging tools.
 
