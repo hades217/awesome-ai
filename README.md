@@ -11,79 +11,112 @@ Maintained since 2017 by [Lightman Wang](https://github.com/hades217) ([LinkedIn
 
 Contributions welcome — open a PR or [start a discussion](https://github.com/hades217/awesome-ai/discussions). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+**Legend**: ⭐ Editor's pick · 🔥 Hot in 2026 · 🆕 New this year · 🇨🇳 Chinese-focused · 🇦🇺 Australia-focused
+
+---
+
+## ⭐ Editor's Picks 2026
+
+> If you only have 30 minutes — start here. Opinionated picks, updated each quarter.
+
+**Frontier models** — Claude Opus 4.7 (best reasoning + agentic) · GPT-5.5 (most polished) · Gemini 3 Pro (best multimodal) · Grok 4 (real-time web)
+**Best open weights** — Llama 4 (general) · Qwen3 (multilingual / Chinese) · DeepSeek V3.2 (reasoning) · Mistral Large 3
+**AI coding** — Claude Code (CLI) · Cursor (IDE) · Codex CLI (OpenAI) · Aider (open-source terminal)
+**Agent framework** — Claude Agent SDK · LangGraph · Anthropic MCP · Pydantic AI
+**RAG starter** — pgvector for prototypes · Qdrant for self-hosted prod · Pinecone for managed
+**Inference** — Ollama (local) · vLLM (production) · Together AI / Groq (hosted)
+**Observability** — LangSmith (LangChain shop) · Helicone (open-source) · Braintrust (eval-first)
+**Free course** — Karpathy's "Neural Networks: Zero to Hero" · HuggingFace Agents Course
+**Newsletter** — Latent Space (engineering) · The Batch (overview) · Import AI (policy)
+**Book** — *AI Engineering* (Chip Huyen, 2025) · *Build a LLM From Scratch* (Sebastian Raschka)
+**Must-read paper** — [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762) — the Transformer
+
+→ See full sections below for alternatives, runners-up, and emerging tools.
+
 ---
 
 ## Contents
 
-1. [Foundation Models & APIs](#foundation-models--apis) — Claude, GPT, Gemini, Llama, Qwen
-2. [AI Coding Tools](#ai-coding-tools) — Cursor, Claude Code, Copilot, Aider
-3. [Agent Frameworks & MCP](#agent-frameworks--mcp) — LangGraph, CrewAI, Model Context Protocol
-4. [RAG & Vector Databases](#rag--vector-databases) — LangChain, LlamaIndex, Pinecone
-5. [LLM Inference & Hosting](#llm-inference--hosting) — vLLM, Ollama, llama.cpp
-6. [LLM Ops & Observability](#llm-ops--observability) — Helicone, LangSmith, Phoenix
-7. [Fine-Tuning & Training](#fine-tuning--training) — Axolotl, Unsloth, LoRA
-8. [Development Frameworks](#development-frameworks) — PyTorch, JAX, TensorFlow
-9. [Courses & Learning Paths](#courses--learning-paths)
-10. [Books, Papers & Blogs](#books-papers--blogs)
-11. [Companies & Research Labs](#companies--research-labs)
-12. [Personal AI Tools](#personal-ai-tools)
-13. [Specialized AI Tools](#specialized-ai-tools) — Writing, Health, Finance, Travel
-14. [News, Newsletters & Podcasts](#news-newsletters--podcasts)
-15. [Events & Conferences](#events--conferences)
-16. [AI Jobs](#ai-jobs)
-17. [AI Communities by City](#ai-communities-by-city)
+1. [🤖 Foundation Models & APIs](#-foundation-models--apis)
+2. [💻 AI Coding Tools](#-ai-coding-tools)
+3. [🤝 Agent Frameworks & MCP](#-agent-frameworks--mcp)
+4. [📚 RAG & Vector Databases](#-rag--vector-databases)
+5. [⚡ LLM Inference & Hosting](#-llm-inference--hosting)
+6. [📊 LLM Ops & Observability](#-llm-ops--observability)
+7. [🎯 Fine-Tuning & Training](#-fine-tuning--training)
+8. [🛠️ Development Frameworks](#%EF%B8%8F-development-frameworks)
+9. [🎓 Courses & Learning Paths](#-courses--learning-paths)
+10. [📖 Books, Papers & Blogs](#-books-papers--blogs)
+11. [🏢 Companies & Research Labs](#-companies--research-labs)
+12. [🧠 Personal AI Tools](#-personal-ai-tools)
+13. [🎨 Specialized AI Tools](#-specialized-ai-tools) — Image, Video, Audio, Writing, Health, Finance
+14. [📰 News, Newsletters & Podcasts](#-news-newsletters--podcasts)
+15. [🎤 Events & Conferences](#-events--conferences)
+16. [💼 AI Jobs](#-ai-jobs)
+17. [🌐 AI Communities by City](#-ai-communities-by-city)
 18. [🌍 AI Scene by Country](#-ai-scene-by-country) — USA, China, Australia, Malaysia, Singapore
-19. [Contributing](#contributing)
+19. [🤖 Robotics & Embodied AI](#-robotics--embodied-ai)
+20. [Contributing](#contributing)
 
 ---
 
-## Foundation Models & APIs
+## 🤖 Foundation Models & APIs
 
-### Closed-source / Commercial APIs
+### Frontier (closed-source) APIs
 
-* [**Anthropic Claude**](https://www.anthropic.com/claude) — Claude 4.5 / 4.7 family. Strong reasoning, long context, code generation.
-* [**OpenAI GPT**](https://openai.com/api/) — GPT-4, GPT-4o, o1 reasoning models.
-* [**Google Gemini**](https://ai.google.dev/) — Gemini 2.0 Flash / Pro, multimodal.
-* [**xAI Grok**](https://x.ai/) — Grok 3 with real-time web access.
-* [**Cohere**](https://cohere.com/) — enterprise LLM platform.
-* [**Mistral AI**](https://mistral.ai/) — Mistral Large, Codestral.
-* [**Perplexity API**](https://www.perplexity.ai/) — search-grounded LLM.
+* [**Anthropic Claude**](https://www.anthropic.com/claude) ⭐ — Claude Opus 4.7 / Sonnet 4.6 / Haiku 4.5. Best reasoning + agentic + long-context (1M tokens). Strong code generation.
+* [**OpenAI GPT**](https://openai.com/api/) ⭐ — GPT-5.5 / GPT-5 / o3 / o3-mini reasoning models. Most polished general-purpose API.
+* [**Google Gemini**](https://ai.google.dev/) ⭐ — Gemini 3 Pro / Flash. Best multimodal + 2M-token context + native tool use.
+* [**xAI Grok**](https://x.ai/) — Grok 4 with real-time web access via X data.
+* [**Cohere**](https://cohere.com/) — Command R+ / R7B; enterprise RAG-focused LLMs.
+* [**Mistral Large 3**](https://mistral.ai/) — European frontier model; strong code + multilingual.
+* [**Perplexity Sonar API**](https://www.perplexity.ai/api/) — search-grounded LLM.
+* [**Reka Core**](https://www.reka.ai/) — multimodal frontier model.
 
-### Open-source Models
+### Open-weights models 🔥
 
-* [**Meta Llama**](https://llama.meta.com/) — Llama 3.x family, open weights.
-* [**Qwen (Alibaba)**](https://qwenlm.github.io/) — Qwen 2.5 / 3, multilingual including Chinese.
-* [**DeepSeek**](https://www.deepseek.com/) — DeepSeek-V3, R1 reasoning model.
-* [**Mistral Open Models**](https://mistral.ai/technology/#models) — Mixtral, Mistral 7B.
-* [**Microsoft Phi**](https://azure.microsoft.com/en-us/products/phi) — small language models.
-* [**Hugging Face Hub**](https://huggingface.co/) — central hub for open-source models.
+* [**Meta Llama 4**](https://llama.meta.com/) ⭐ — Llama 4 family (text + vision); the de facto open baseline.
+* [**Qwen3 (Alibaba)**](https://qwenlm.github.io/) ⭐ 🇨🇳 — Qwen3 dense + MoE; strongest multilingual open model.
+* [**DeepSeek**](https://www.deepseek.com/) ⭐ 🇨🇳 — DeepSeek V3.2 / R1 reasoning. Frontier-level open model.
+* [**GLM 4.6 (Zhipu)**](https://github.com/THUDM/GLM-4) 🇨🇳 — bilingual model from Tsinghua.
+* [**Mistral Open Models**](https://mistral.ai/technology/#models) — Mixtral, Mistral Small/Medium 3.
+* [**Microsoft Phi-4**](https://azure.microsoft.com/en-us/products/phi) — small but strong models.
+* [**Hugging Face Hub**](https://huggingface.co/) ⭐ — central hub for 500k+ open-source models.
+* [**Kimi K2 (Moonshot)**](https://github.com/MoonshotAI/Kimi-K2) 🇨🇳 — open MoE from Moonshot; long-context champion.
 
-### Multimodal & Specialized
+### Multimodal & Specialized 🆕
 
-* [**Stable Diffusion**](https://stability.ai/) — open image generation.
-* [**Flux**](https://blackforestlabs.ai/) — high-quality image generation.
-* [**Sora (OpenAI)**](https://openai.com/sora/) — video generation.
-* [**Veo (Google)**](https://deepmind.google/technologies/veo/) — video generation.
-* [**ElevenLabs**](https://elevenlabs.io/) — voice synthesis and cloning.
-* [**Whisper (OpenAI)**](https://openai.com/research/whisper) — open-source speech-to-text.
-* [**Suno**](https://www.suno.ai/) — music generation.
+* [**Sora 2 (OpenAI)**](https://openai.com/sora/) — text-to-video; highest fidelity in 2026.
+* [**Veo 3 (Google)**](https://deepmind.google/technologies/veo/) — video generation with native audio.
+* [**Stable Diffusion 3.5**](https://stability.ai/) — open image generation.
+* [**Flux 1.1 Pro / Flux Kontext**](https://blackforestlabs.ai/) ⭐ — best-in-class open image gen + editing.
+* [**Recraft V3**](https://www.recraft.ai/) — design-grade image generation.
+* [**ElevenLabs**](https://elevenlabs.io/) ⭐ — voice cloning + multilingual TTS.
+* [**Cartesia Sonic**](https://www.cartesia.ai/) 🆕 — sub-100ms voice generation for real-time agents.
+* [**Hume EVI**](https://www.hume.ai/) — emotion-aware voice AI.
+* [**Whisper Large v3**](https://openai.com/research/whisper) — open-source speech-to-text.
+* [**Suno v4 / Udio**](https://www.suno.ai/) — music generation.
 
 ---
 
-## AI Coding Tools
+## 💻 AI Coding Tools
 
-> Tools that help engineers write, review, and refactor code with AI.
+> AI assistants for writing, reviewing, refactoring code. The most disrupted developer category in 2025-2026.
 
-* [**Claude Code**](https://www.anthropic.com/claude-code) — Anthropic's CLI for software engineering with Claude.
-* [**Cursor**](https://www.cursor.com/) — AI-first code editor, fork of VS Code.
-* [**GitHub Copilot**](https://github.com/features/copilot) — original AI pair programmer, now with Workspace and CLI features.
-* [**Windsurf**](https://codeium.com/windsurf) — Codeium's AI editor.
-* [**Aider**](https://aider.chat/) — open-source AI pair programmer in your terminal.
-* [**Continue**](https://continue.dev/) — open-source AI coding assistant for VS Code / JetBrains.
-* [**Cline**](https://github.com/cline/cline) — autonomous coding agent for VS Code.
-* [**Sourcegraph Cody**](https://sourcegraph.com/cody) — code AI with codebase context.
-* [**Codeium**](https://codeium.com/) — free AI autocomplete for many languages.
-* [**Tabnine**](https://www.tabnine.com/) — privacy-focused AI code completion.
+* [**Claude Code**](https://www.anthropic.com/claude-code) ⭐ 🔥 — Anthropic's CLI for software engineering with Claude. Most-used CLI agent in 2026.
+* [**Cursor**](https://www.cursor.com/) ⭐ 🔥 (28k ⭐) — AI-first code editor; fork of VS Code.
+* [**Codex CLI (OpenAI)**](https://github.com/openai/codex) 🆕 — OpenAI's open-source CLI coding agent.
+* [**GitHub Copilot**](https://github.com/features/copilot) — original AI pair programmer; now agent + Workspace + Spark.
+* [**Windsurf**](https://codeium.com/windsurf) — Codeium's AI editor (acquired by Cognition).
+* [**Aider**](https://aider.chat/) (24k ⭐) — open-source AI pair programmer in your terminal.
+* [**Continue**](https://continue.dev/) (19k ⭐) — open-source AI coding assistant for VS Code / JetBrains.
+* [**Cline**](https://github.com/cline/cline) (35k ⭐) — autonomous coding agent for VS Code.
+* [**Zed AI**](https://zed.dev/ai) 🆕 — high-performance editor with native AI agent.
+* [**Augment Code**](https://www.augmentcode.com/) — context-aware enterprise coding assistant.
+* [**Cody (Sourcegraph)**](https://sourcegraph.com/cody) — code AI with full-codebase context.
+* [**Codeium / Windsurf**](https://codeium.com/) — free AI autocomplete.
+* [**Tabnine**](https://www.tabnine.com/) — privacy-focused; on-prem option.
+* [**Devin (Cognition)**](https://devin.ai/) — autonomous SWE agent (paid, hosted).
 * [**Bolt.new**](https://bolt.new/) — full-stack web app generation in browser.
 * [**v0 (Vercel)**](https://v0.dev/) — AI UI generator with React/Next.js output.
 * [**Lovable**](https://lovable.dev/) — AI app builder.
@@ -91,153 +124,219 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 ---
 
-## Agent Frameworks & MCP
+## 🤝 Agent Frameworks & MCP
 
-> Build AI agents that can use tools, plan, and execute multi-step tasks.
+> Build LLM agents that plan, use tools, and execute multi-step tasks. **2026's hottest category**.
 
 ### Agent Frameworks
 
-* [**LangGraph**](https://langchain-ai.github.io/langgraph/) — graph-based agent orchestration from LangChain team.
-* [**CrewAI**](https://www.crewai.com/) — role-based multi-agent framework.
-* [**AutoGen (Microsoft)**](https://github.com/microsoft/autogen) — multi-agent conversation framework.
-* [**OpenAI Swarm**](https://github.com/openai/swarm) — lightweight multi-agent orchestration.
+* [**Claude Agent SDK**](https://docs.anthropic.com/en/api/agent-sdk) ⭐ 🆕 — Anthropic's official agent SDK with skills, memory, sandboxing.
+* [**LangGraph**](https://langchain-ai.github.io/langgraph/) ⭐ (10k ⭐) — graph-based agent orchestration; production-ready.
+* [**Anthropic Skills**](https://www.anthropic.com/news/skills) 🆕 — modular agent skills protocol.
+* [**Pydantic AI**](https://ai.pydantic.dev/) ⭐ — type-safe agent framework; clean Python API.
+* [**CrewAI**](https://www.crewai.com/) (28k ⭐) — role-based multi-agent framework.
+* [**AutoGen (Microsoft)**](https://github.com/microsoft/autogen) (37k ⭐) — multi-agent conversation framework.
+* [**OpenAI Swarm**](https://github.com/openai/swarm) (19k ⭐) — lightweight multi-agent orchestration.
 * [**LlamaIndex Agents**](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/) — agent runtime.
-* [**Vercel AI SDK**](https://sdk.vercel.ai/) — AI app SDK for TypeScript/React.
-* [**Pydantic AI**](https://ai.pydantic.dev/) — agent framework with type safety.
-* [**smolagents (Hugging Face)**](https://github.com/huggingface/smolagents) — minimal agent library.
+* [**Vercel AI SDK**](https://sdk.vercel.ai/) ⭐ — React/Next.js agent SDK.
+* [**smolagents (Hugging Face)**](https://github.com/huggingface/smolagents) — minimal code-acting agent library.
+* [**Strands Agents (AWS)**](https://github.com/strands-agents/sdk-python) 🆕 — AWS open-source agent SDK.
+* [**Bedrock AgentCore**](https://aws.amazon.com/bedrock/agentcore/) 🆕 — AWS managed agent runtime.
 * [**Letta (formerly MemGPT)**](https://github.com/letta-ai/letta) — agents with persistent memory.
+* [**Inspect AI (UK AISI)**](https://inspect.aisi.org.uk/) — agent eval framework from UK AI Safety Institute.
 
-### Model Context Protocol (MCP)
+### Model Context Protocol (MCP) 🔥
 
-* [**Model Context Protocol Spec**](https://modelcontextprotocol.io/) — Anthropic's open protocol for AI tool use.
-* [**Anthropic MCP Servers**](https://github.com/modelcontextprotocol/servers) — official MCP server implementations.
+* [**Model Context Protocol Spec**](https://modelcontextprotocol.io/) ⭐ — Anthropic's open protocol for AI tool use. Industry standard since 2024.
+* [**Anthropic MCP Servers**](https://github.com/modelcontextprotocol/servers) — official MCP servers (filesystem, fetch, GitHub, Postgres, Brave).
 * [**MCP Python SDK**](https://github.com/modelcontextprotocol/python-sdk) — build MCP servers in Python.
-* [**MCP TypeScript SDK**](https://github.com/modelcontextprotocol/typescript-sdk) — build MCP servers in TypeScript.
-* [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) — community MCP server list.
+* [**MCP TypeScript SDK**](https://github.com/modelcontextprotocol/typescript-sdk) — build MCP servers in TS.
+* [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) ⭐ — community MCP server list.
+* [**FastMCP**](https://github.com/jlowin/fastmcp) — Pythonic MCP server framework.
 
-### Browser & Computer Use
+### Browser & Computer Use 🆕
 
-* [**Anthropic Computer Use**](https://www.anthropic.com/news/3-5-models-and-computer-use) — Claude can control your computer.
-* [**Playwright MCP**](https://github.com/microsoft/playwright-mcp) — browser automation via MCP.
-* [**Browser Use**](https://github.com/browser-use/browser-use) — browser automation for agents.
+* [**Anthropic Computer Use**](https://www.anthropic.com/news/3-5-models-and-computer-use) ⭐ — Claude controls your computer.
+* [**OpenAI Atlas**](https://openai.com/atlas) 🆕 — OpenAI's agentic browser.
+* [**Browser Use**](https://github.com/browser-use/browser-use) (50k ⭐) — open-source browser automation for agents.
+* [**Skyvern**](https://github.com/Skyvern-AI/skyvern) (12k ⭐) — automate browser workflows with vision LLMs.
+* [**Playwright MCP**](https://github.com/microsoft/playwright-mcp) — Playwright as an MCP server.
+* [**Stagehand (Browserbase)**](https://github.com/browserbase/stagehand) — Playwright + AI for reliable agents.
 
 ---
 
-## RAG & Vector Databases
+## 📚 RAG & Vector Databases
 
 > Retrieval-Augmented Generation: ground LLM answers in your data.
 
 ### RAG Frameworks
 
-* [**LangChain**](https://www.langchain.com/) — most popular framework for LLM apps and RAG.
-* [**LlamaIndex**](https://www.llamaindex.ai/) — data framework for LLM applications, RAG-focused.
-* [**Haystack (deepset)**](https://haystack.deepset.ai/) — open-source LLM framework.
-* [**RAGFlow**](https://github.com/infiniflow/ragflow) — open-source RAG engine.
-* [**Verba (Weaviate)**](https://github.com/weaviate/Verba) — RAG chatbot powered by Weaviate.
+* [**LangChain**](https://www.langchain.com/) ⭐ (98k ⭐) — most popular framework for LLM apps and RAG.
+* [**LlamaIndex**](https://www.llamaindex.ai/) ⭐ (38k ⭐) — data framework for LLM applications, RAG-focused.
+* [**Haystack (deepset)**](https://haystack.deepset.ai/) (18k ⭐) — open-source LLM framework.
+* [**RAGFlow**](https://github.com/infiniflow/ragflow) 🔥 (45k ⭐) — open-source RAG engine with deep document understanding.
+* [**Cognita (TrueFoundry)**](https://github.com/truefoundry/cognita) — open-source RAG framework.
+* [**Verba (Weaviate)**](https://github.com/weaviate/Verba) — RAG chatbot UI on Weaviate.
 * [**Pathway**](https://github.com/pathwaycom/pathway) — real-time RAG and AI pipelines.
 
 ### Vector Databases
 
-* [**Pinecone**](https://www.pinecone.io/) — managed vector database.
-* [**Weaviate**](https://weaviate.io/) — open-source vector database.
-* [**Qdrant**](https://qdrant.tech/) — open-source vector search engine in Rust.
-* [**Chroma**](https://www.trychroma.com/) — embeddings database for AI apps.
-* [**Milvus**](https://milvus.io/) — open-source vector database for production.
-* [**pgvector**](https://github.com/pgvector/pgvector) — PostgreSQL extension for vector similarity.
-* [**LanceDB**](https://lancedb.com/) — serverless vector database.
-* [**Vespa**](https://vespa.ai/) — search and recommendation platform with vector support.
+* [**pgvector**](https://github.com/pgvector/pgvector) ⭐ (15k ⭐) — Postgres extension; default for prototypes.
+* [**Qdrant**](https://qdrant.tech/) ⭐ (24k ⭐) — open-source vector search engine in Rust; production-ready.
+* [**Pinecone**](https://www.pinecone.io/) ⭐ — managed vector database; serverless option.
+* [**Weaviate**](https://weaviate.io/) (13k ⭐) — open-source vector database with hybrid search.
+* [**Chroma**](https://www.trychroma.com/) (20k ⭐) — embeddings database for AI apps; great DX for prototypes.
+* [**Milvus**](https://milvus.io/) (33k ⭐) — open-source vector database for production.
+* [**LanceDB**](https://lancedb.com/) — serverless / embedded vector database.
+* [**Turbopuffer**](https://turbopuffer.com/) 🆕 — serverless vector DB on object storage.
+* [**Vespa**](https://vespa.ai/) — search and recommendation with vector support.
 
 ### Embedding Models
 
-* [**OpenAI Embeddings**](https://platform.openai.com/docs/guides/embeddings) — text-embedding-3-small/large.
-* [**Cohere Embed**](https://cohere.com/embed) — multilingual embedding models.
-* [**Voyage AI**](https://www.voyageai.com/) — high-quality embedding models.
-* [**Sentence Transformers**](https://www.sbert.net/) — open-source embeddings.
-* [**Nomic Embed**](https://www.nomic.ai/embed) — open-source embeddings.
+* [**OpenAI text-embedding-3 / 4**](https://platform.openai.com/docs/guides/embeddings) — text-embedding-3-small/large.
+* [**Cohere Embed v3 / v4**](https://cohere.com/embed) — multilingual embedding models.
+* [**Voyage AI**](https://www.voyageai.com/) ⭐ — top-quality general embeddings (acquired by MongoDB).
+* [**BGE (BAAI)**](https://huggingface.co/BAAI) 🇨🇳 — open-source embeddings, leaderboard contender.
+* [**Sentence Transformers**](https://www.sbert.net/) — open-source embeddings library.
+* [**Nomic Embed**](https://www.nomic.ai/embed) — open-source long-context embeddings.
+* [**Mixedbread (mxbai-embed)**](https://www.mixedbread.ai/) — open-source embeddings.
 
 ---
 
-## LLM Inference & Hosting
+## ⚡ LLM Inference & Hosting
 
-* [**Ollama**](https://ollama.com/) — run LLMs locally with one command.
-* [**LM Studio**](https://lmstudio.ai/) — desktop app for running local LLMs.
-* [**llama.cpp**](https://github.com/ggerganov/llama.cpp) — efficient LLM inference in C++.
-* [**vLLM**](https://github.com/vllm-project/vllm) — high-throughput LLM serving.
+* [**Ollama**](https://ollama.com/) ⭐ (95k ⭐) — run LLMs locally with one command.
+* [**LM Studio**](https://lmstudio.ai/) — desktop GUI for local LLMs.
+* [**llama.cpp**](https://github.com/ggerganov/llama.cpp) ⭐ (70k ⭐) — efficient LLM inference in C++.
+* [**vLLM**](https://github.com/vllm-project/vllm) ⭐ (32k ⭐) — high-throughput LLM serving for production.
+* [**SGLang**](https://github.com/sgl-project/sglang) 🆕 (8k ⭐) — fast structured-output inference engine.
 * [**Text Generation Inference (TGI)**](https://github.com/huggingface/text-generation-inference) — Hugging Face's production server.
-* [**Together AI**](https://www.together.ai/) — fast inference API for open models.
-* [**Groq**](https://groq.com/) — extremely fast LPU-based inference.
+* [**Together AI**](https://www.together.ai/) ⭐ — fast inference API for open models.
+* [**Groq**](https://groq.com/) ⭐ — extremely fast LPU-based inference.
 * [**Fireworks AI**](https://fireworks.ai/) — production inference platform.
 * [**Replicate**](https://replicate.com/) — run open-source models in the cloud.
 * [**Modal**](https://modal.com/) — serverless GPU for AI workloads.
 * [**RunPod**](https://www.runpod.io/) — GPU cloud for AI.
+* [**Lambda Cloud**](https://lambdalabs.com/) — GPU cloud focused on AI.
+* [**Cerebras Inference**](https://inference.cerebras.ai/) 🆕 — wafer-scale fastest inference.
 
 ---
 
-## LLM Ops & Observability
+## 📊 LLM Ops & Observability
 
-* [**LangSmith**](https://www.langchain.com/langsmith) — debugging, testing, monitoring for LLM apps.
-* [**Helicone**](https://www.helicone.ai/) — open-source LLM observability.
+* [**LangSmith**](https://www.langchain.com/langsmith) ⭐ — debugging, testing, monitoring; default for LangChain shops.
+* [**Helicone**](https://www.helicone.ai/) ⭐ (4k ⭐) — open-source LLM observability.
+* [**Langfuse**](https://langfuse.com/) (12k ⭐) — open-source LLM engineering platform; eval + traces.
 * [**Phoenix (Arize)**](https://phoenix.arize.com/) — open-source LLM observability in a notebook.
-* [**Braintrust**](https://www.braintrust.dev/) — eval and observability for AI products.
-* [**Langfuse**](https://langfuse.com/) — open-source LLM engineering platform.
-* [**Weights & Biases (W&B)**](https://wandb.ai/) — experiment tracking, also for LLMs.
-* [**Fiddler AI**](https://www.fiddler.ai/) — ML & LLM observability with guardrails.
-* [**Neptune.ai**](https://neptune.ai/) — experiment tracking and model registry.
-* [**Promptfoo**](https://www.promptfoo.dev/) — open-source LLM eval framework.
+* [**Braintrust**](https://www.braintrust.dev/) ⭐ — eval-first observability for AI products.
+* [**Weights & Biases (W&B Weave)**](https://wandb.ai/site/weave) — experiment tracking + LLM tracing.
+* [**Promptfoo**](https://www.promptfoo.dev/) (5k ⭐) — open-source LLM eval framework.
 * [**OpenLIT**](https://openlit.io/) — OpenTelemetry-native LLM observability.
+* [**Opik (Comet)**](https://github.com/comet-ml/opik) 🆕 — open-source LLM eval + tracing.
+* [**Inspect AI**](https://inspect.aisi.org.uk/) 🆕 — UK AISI's agent eval framework.
 
 ---
 
-## Fine-Tuning & Training
+## 🎯 Fine-Tuning & Training
 
-* [**Axolotl**](https://github.com/axolotl-ai-cloud/axolotl) — easy fine-tuning of LLMs (LoRA, QLoRA, full).
-* [**Unsloth**](https://unsloth.ai/) — 2x faster LLM fine-tuning, less memory.
+* [**Axolotl**](https://github.com/axolotl-ai-cloud/axolotl) ⭐ (8k ⭐) — easy fine-tuning of LLMs (LoRA, QLoRA, full).
+* [**Unsloth**](https://unsloth.ai/) ⭐ (37k ⭐) — 2x faster LLM fine-tuning, less memory.
 * [**Hugging Face TRL**](https://huggingface.co/docs/trl/index) — RLHF, DPO, PPO trainers.
-* [**LLaMA Factory**](https://github.com/hiyouga/LLaMA-Factory) — unified LLM fine-tuning.
+* [**LLaMA Factory**](https://github.com/hiyouga/LLaMA-Factory) (35k ⭐) — unified LLM fine-tuning.
 * [**Lit-GPT (Lightning AI)**](https://github.com/Lightning-AI/litgpt) — pretrain, fine-tune, serve LLMs.
 * [**ColossalAI**](https://github.com/hpcaitech/ColossalAI) — large-scale training.
+* [**veRL (ByteDance)**](https://github.com/volcengine/verl) 🆕 — RL training for LLMs.
 
 ---
 
-## Courses & Learning Paths
+## 🛠️ Development Frameworks
 
-### Foundational ML / AI (Classics)
+### Deep Learning Frameworks
 
-* [Machine Learning](https://www.coursera.org/learn/machine-learning) — *Stanford / Andrew Ng* — the classic introduction.
-* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) — *deeplearning.ai / Andrew Ng* — neural networks, CNNs, RNNs, transformers.
-* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) — *Stanford* — gold standard for CV.
-* [CS224N: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) — *Stanford* — NLP foundations.
-* [Practical Deep Learning for Coders](https://course.fast.ai/) — *fast.ai / Jeremy Howard* — top-down practical approach.
-* [Introduction to Artificial Intelligence](http://ai.berkeley.edu/home.html) — *UC Berkeley*.
-* [MIT Artificial Intelligence (6.034)](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) — classic MIT lectures.
+* [**PyTorch**](https://pytorch.org/) ⭐ — by Meta; the de facto research framework.
+* [**TensorFlow**](https://www.tensorflow.org/) — by Google; production focus.
+* [**JAX**](https://github.com/google/jax) — by Google; functional, GPU/TPU.
+* [**Keras 3**](https://keras.io/) — multi-backend high-level API.
+* [**MLX (Apple)**](https://github.com/ml-explore/mlx) — array framework optimized for Apple Silicon.
+* [**MAX / Mojo (Modular)**](https://www.modular.com/) — Python-superset language for AI performance.
 
-### Modern LLM / Generative AI
+### Python LLM Libraries
 
-* [**Generative AI for Everyone**](https://www.deeplearning.ai/courses/generative-ai-for-everyone/) — *deeplearning.ai / Andrew Ng* — non-technical intro.
-* [**LLM Bootcamp (The Full Stack)**](https://fullstackdeeplearning.com/llm-bootcamp/) — practical LLM app dev.
-* [**Hugging Face NLP Course**](https://huggingface.co/learn/nlp-course) — free, practical, transformer-focused.
-* [**Hugging Face Agents Course**](https://huggingface.co/learn/agents-course) — building LLM agents.
-* [**Anthropic Courses**](https://github.com/anthropics/courses) — official Anthropic courses on prompting, tool use, RAG.
+* [**Hugging Face Transformers**](https://github.com/huggingface/transformers) ⭐ (135k ⭐) — state-of-the-art models.
+* [**LangChain**](https://github.com/langchain-ai/langchain) (98k ⭐) — LLM application framework.
+* [**LlamaIndex**](https://github.com/run-llama/llama_index) (38k ⭐) — LLM data framework.
+* [**Pydantic AI**](https://ai.pydantic.dev/) — type-safe agent framework.
+* [**Instructor**](https://python.useinstructor.com/) ⭐ — structured outputs from LLMs.
+* [**LiteLLM**](https://github.com/BerriAI/litellm) ⭐ (15k ⭐) — unified API for 100+ LLMs.
+* [**Outlines**](https://github.com/outlines-dev/outlines) — guided / structured generation.
+* [**DSPy**](https://github.com/stanfordnlp/dspy) ⭐ (20k ⭐) — programming (not prompting) LLMs.
+* [**scikit-learn**](https://scikit-learn.org/) — classic ML in Python.
+* [**Ray**](https://github.com/ray-project/ray) — distributed Python; underlies vLLM and many frameworks.
+
+### TypeScript / JavaScript
+
+* [**Vercel AI SDK**](https://sdk.vercel.ai/) ⭐ — React/Next.js AI app SDK.
+* [**LangChain.js**](https://github.com/langchain-ai/langchainjs) — LangChain for JS.
+* [**Mastra**](https://mastra.ai/) 🆕 — TS framework for agents, evals, workflows.
+* [**TensorFlow.js**](https://www.tensorflow.org/js) — browser ML.
+
+### Bot SDKs
+
+* [**Anthropic SDK**](https://github.com/anthropics/anthropic-sdk-python) — official Claude SDK.
+* [**OpenAI SDK**](https://github.com/openai/openai-python) — official OpenAI SDK.
+* [**Discord.py**](https://github.com/Rapptz/discord.py) — Discord bot SDK.
+* [**Slack Bolt**](https://github.com/slackapi/bolt-python) — Slack app framework.
+* [**python-telegram-bot**](https://github.com/python-telegram-bot/python-telegram-bot) — Telegram bot SDK.
+* [**Wechaty**](https://github.com/wechaty/wechaty) 🇨🇳 — WeChat bot framework.
+
+### Datasets
+
+* [**Hugging Face Datasets**](https://huggingface.co/datasets) ⭐ — central dataset hub.
+* [**Common Crawl**](https://commoncrawl.org/) — web-scale data.
+* [**Kaggle Datasets**](https://www.kaggle.com/datasets) — competition + reference datasets.
+* [**Papers With Code Datasets**](https://paperswithcode.com/datasets) — benchmark datasets.
+* [**The Pile**](https://pile.eleuther.ai/) — 800GB dataset for LLMs.
+* [**FineWeb (HuggingFace)**](https://huggingface.co/datasets/HuggingFaceFW/fineweb) 🆕 — 15T-token cleaned web dataset.
+
+---
+
+## 🎓 Courses & Learning Paths
+
+### Foundational ML / AI (Classics — still worth doing)
+
+* [Machine Learning](https://www.coursera.org/learn/machine-learning) — *Stanford / Andrew Ng* — the classic.
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) — *deeplearning.ai* — neural nets, CNNs, RNNs, transformers.
+* [CS231n: Convolutional Neural Networks](http://cs231n.stanford.edu/) — *Stanford* — CV gold standard.
+* [CS224N: NLP with Deep Learning](http://web.stanford.edu/class/cs224n/) — *Stanford* — NLP foundations.
+* [Practical Deep Learning for Coders](https://course.fast.ai/) — *fast.ai / Jeremy Howard* — top-down practical.
+* [3Blue1Brown — Neural Networks](https://www.3blue1brown.com/topics/neural-networks) — visual deep dive.
+
+### Modern LLM / Generative AI 🔥
+
+* [**Karpathy's Neural Networks: Zero to Hero**](https://karpathy.ai/zero-to-hero.html) ⭐ — build neural nets, GPT, tokenizers from scratch. Best free LLM course.
+* [**Hugging Face Agents Course**](https://huggingface.co/learn/agents-course) ⭐ — building LLM agents end-to-end.
+* [**Hugging Face NLP Course**](https://huggingface.co/learn/nlp-course) — free, transformer-focused.
+* [**Anthropic Courses**](https://github.com/anthropics/courses) — official courses on prompting, tool use, RAG, agents.
 * [**LangChain Academy**](https://academy.langchain.com/) — LangChain and LangGraph courses.
-* [**Karpathy's Neural Networks: Zero to Hero**](https://karpathy.ai/zero-to-hero.html) — build neural nets, GPT, tokenizers from scratch.
-* [**3Blue1Brown — Neural Networks**](https://www.3blue1brown.com/topics/neural-networks) — visual deep dive.
+* [**LLM Bootcamp (Full Stack DL)**](https://fullstackdeeplearning.com/llm-bootcamp/) — practical LLM app dev.
+* [**Generative AI for Everyone**](https://www.deeplearning.ai/courses/generative-ai-for-everyone/) — *Andrew Ng* — non-technical intro.
+* [**CS336: Language Modeling from Scratch**](https://stanford-cs336.github.io/) — *Stanford* — build a real LLM.
 
 ### Career-focused Bootcamps
 
-* [Springboard AI/ML Bootcamp](https://www.springboard.com/courses/ai-machine-learning-career-track/) — US-focused.
+* [Springboard AI/ML Career Track](https://www.springboard.com/courses/ai-machine-learning-career-track/) — US-focused online bootcamp.
 * [Bloomtech (formerly Lambda School)](https://bloomtech.com/) — US online bootcamp.
-* [Insight Data Science Fellows](https://insightfellows.com/) — US fellowship for PhDs / postdocs entering industry.
-* [JR Academy AI Engineer Bootcamp](https://jiangren.com.au/curriculum/ai-engineer-bootcamp) — Australia-focused project-based bootcamp.
-* [Recurse Center](https://www.recurse.com/) — self-directed programmer retreat; not AI-only but many alumni go into AI.
+* [Insight Data Science Fellows](https://insightfellows.com/) — fellowship for PhDs entering industry.
+* [JR Academy AI Engineer Bootcamp](https://jiangren.com.au/curriculum/ai-engineer-bootcamp) 🇦🇺 — Australia-focused project-based bootcamp.
+* [Recurse Center](https://www.recurse.com/) — self-directed programmer retreat (NYC).
 
 ### Specialized Topics
 
 * [Reinforcement Learning Course](https://www.davidsilver.uk/teaching/) — *David Silver / DeepMind*.
-* [CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) — *UC Berkeley*.
-* [CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/) — *Stanford*.
-* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) — *Georgia Tech / Sebastian Thrun*.
+* [CS285: Deep RL](http://rail.eecs.berkeley.edu/deeprlcourse/) — *UC Berkeley*.
+* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) — *Sebastian Thrun*.
 
-### Free Resources
+### Free Aggregators
 
 * [Made With ML](https://madewithml.com/) — production ML foundations.
 * [AI Engineer Roadmap](https://roadmap.sh/ai-engineer) — community-curated path.
@@ -245,52 +344,58 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 ---
 
-## Books, Papers & Blogs
+## 📖 Books, Papers & Blogs
 
-### Books
+### Books — Modern (2024-2026) 🔥
+
+* [**AI Engineering**](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — *Chip Huyen* ⭐ — the definitive book on production LLM apps.
+* [**Build a Large Language Model (From Scratch)**](https://www.manning.com/books/build-a-large-language-model-from-scratch) — *Sebastian Raschka* — pedagogical GPT build.
+* [**Hands-On Large Language Models**](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) — *Jay Alammar & Maarten Grootendorst*.
+* [**Designing Machine Learning Systems**](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) — *Chip Huyen* — production ML.
+
+### Books — Foundations
 
 * [Deep Learning](https://www.deeplearningbook.org/) — *Goodfellow, Bengio, Courville* — the foundational textbook.
 * [Reinforcement Learning: An Introduction (2nd ed)](http://incompleteideas.net/book/the-book-2nd.html) — *Sutton & Barto*.
-* [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) — *Aurélien Géron*.
-* [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) — *Chip Huyen* — production ML.
-* [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — *Chip Huyen* — modern LLM app development.
-* [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) — *Sebastian Raschka*.
-* [The Hundred-Page Machine Learning Book](http://themlbook.com/) — *Andriy Burkov*.
-* [Probabilistic Machine Learning](https://probml.github.io/pml-book/) — *Kevin Murphy*.
-* [Awesome AI Books](https://github.com/zachpinto/awesome-ai-books) — curated AI book list.
+* [Hands-On ML with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) — *Aurélien Géron*.
+* [Probabilistic Machine Learning](https://probml.github.io/pml-book/) — *Kevin Murphy* — rigorous reference.
+* [The Hundred-Page Machine Learning Book](http://themlbook.com/) — *Andriy Burkov* — concise.
 
-### Foundational Papers
+### Papers — Why Each Matters
 
-* [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762) — the Transformer paper.
-* [BERT (2018)](https://arxiv.org/abs/1810.04805) — Bidirectional Transformers.
-* [GPT-3 (2020)](https://arxiv.org/abs/2005.14165) — Language Models are Few-Shot Learners.
-* [Chain-of-Thought Prompting (2022)](https://arxiv.org/abs/2201.11903).
-* [InstructGPT / RLHF (2022)](https://arxiv.org/abs/2203.02155).
-* [LLaMA (2023)](https://arxiv.org/abs/2302.13971).
-* [Toolformer (2023)](https://arxiv.org/abs/2302.04761) — LLMs that use tools.
-* [ReAct (2022)](https://arxiv.org/abs/2210.03629) — Reasoning + Acting.
-* [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2020)](https://arxiv.org/abs/2005.11401) — original RAG paper.
+> Read these to understand the field, in roughly chronological order.
 
-### Blogs & Newsletters
+* [**Attention Is All You Need (2017)**](https://arxiv.org/abs/1706.03762) ⭐ — introduced the Transformer; basis of every modern LLM.
+* [**BERT (2018)**](https://arxiv.org/abs/1810.04805) — bidirectional Transformers; pretraining objective that powered NLP for 4 years.
+* [**GPT-3 (2020)**](https://arxiv.org/abs/2005.14165) — "Language Models are Few-Shot Learners" — proved scaling works; in-context learning.
+* [**Scaling Laws (2020)**](https://arxiv.org/abs/2001.08361) — formalized loss vs compute/params/data; the law that drove GPT-4 sizing.
+* [**RAG (2020)**](https://arxiv.org/abs/2005.11401) — original retrieval-augmented generation paper.
+* [**Chain-of-Thought (2022)**](https://arxiv.org/abs/2201.11903) — "let's think step by step" prompting unlocked reasoning.
+* [**InstructGPT / RLHF (2022)**](https://arxiv.org/abs/2203.02155) — RLHF made models follow instructions; basis of ChatGPT.
+* [**Chinchilla (2022)**](https://arxiv.org/abs/2203.15556) — corrected scaling laws; train smaller on more tokens.
+* [**LLaMA (2023)**](https://arxiv.org/abs/2302.13971) — Meta's open-weights move that birthed the open ecosystem.
+* [**ReAct (2022)**](https://arxiv.org/abs/2210.03629) — Reasoning + Acting prompt template; basis of modern agents.
+* [**Toolformer (2023)**](https://arxiv.org/abs/2302.04761) — LLMs that learn to use tools; precursor to function calling.
+* [**LoRA (2021)**](https://arxiv.org/abs/2106.09685) — low-rank adaptation; how everyone fine-tunes affordably.
+* [**Direct Preference Optimization (2023)**](https://arxiv.org/abs/2305.18290) — DPO; simpler RLHF replacement.
+* [**Mixtral of Experts (2024)**](https://arxiv.org/abs/2401.04088) — practical MoE that opened the era of efficient large models.
+* [**DeepSeek-R1 (2025)**](https://arxiv.org/abs/2501.12948) 🇨🇳 — pure-RL reasoning training breakthrough.
 
-* [Lilian Weng's Blog (Lil'Log)](https://lilianweng.github.io/) — deep technical writing on AI.
-* [Karpathy's Blog](https://karpathy.github.io/) — Andrej Karpathy's writing.
-* [Sebastian Raschka's Magazine](https://magazine.sebastianraschka.com/) — practical LLM and ML.
-* [Simon Willison's Blog](https://simonwillison.net/) — daily AI tools and tips.
-* [The Pragmatic Engineer](https://www.pragmaticengineer.com/) — engineering, includes AI engineering.
-* [Latent Space](https://www.latent.space/) — Swyx's AI engineering newsletter and podcast.
-* [Hugging Face Blog](https://huggingface.co/blog) — open-source AI updates.
-* [Anthropic Research](https://www.anthropic.com/research) — Claude/safety research.
-* [OpenAI Research](https://openai.com/research/) — OpenAI papers and announcements.
-* [Google Research Blog](https://research.google/blog/) — Google AI research.
+### Blogs — Top Signal
 
-### Reading Lists
-
-* [Deep Learning Reading List](http://deeplearning.net/reading-list/) — curated academic survey papers.
+* [**Lilian Weng's Blog (Lil'Log)**](https://lilianweng.github.io/) ⭐ — deep technical writing, every post a survey.
+* [**Karpathy's Blog**](https://karpathy.github.io/) ⭐ — Andrej Karpathy's writing; legendary clarity.
+* [**Sebastian Raschka's Magazine**](https://magazine.sebastianraschka.com/) — practical LLM and ML.
+* [**Simon Willison's Blog**](https://simonwillison.net/) — daily AI tools and tips, unmatched volume.
+* [**Anthropic Research**](https://www.anthropic.com/research) — Claude/safety research.
+* [**OpenAI Research**](https://openai.com/research/) — papers and announcements.
+* [**Google Research Blog**](https://research.google/blog/) — Google AI research.
+* [**Hugging Face Blog**](https://huggingface.co/blog) — open-source AI updates.
+* [**One Useful Thing (Ethan Mollick)**](https://www.oneusefulthing.org/) — practical AI essays for non-engineers.
 
 ---
 
-## Companies & Research Labs
+## 🏢 Companies & Research Labs
 
 ### Foundation Model Labs
 
@@ -304,78 +409,104 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [AI21 Labs](https://www.ai21.com/) — Jamba and enterprise AI.
 * [Stability AI](https://stability.ai/) — Stable Diffusion.
 * [Black Forest Labs](https://blackforestlabs.ai/) — Flux image models.
-* [DeepSeek](https://www.deepseek.com/) — Chinese open-source frontier models.
-* [Alibaba Qwen Team](https://qwenlm.github.io/) — Qwen series.
+* [Reka AI](https://www.reka.ai/) — multimodal frontier models.
+* [DeepSeek](https://www.deepseek.com/) 🇨🇳 — Chinese open-source frontier models.
+* [Alibaba Qwen Team](https://qwenlm.github.io/) 🇨🇳 — Qwen series.
+* [Moonshot AI](https://www.moonshot.cn/) 🇨🇳 — Kimi K2.
+* [Zhipu AI](https://www.zhipuai.cn/) 🇨🇳 — GLM series.
 
 ### AI Infrastructure & Platforms
 
 * [Hugging Face](https://huggingface.co/) — model hub, datasets, training.
 * [Replicate](https://replicate.com/) — run open-source models in the cloud.
 * [Together AI](https://www.together.ai/) — fast open-model inference.
-* [Groq](https://groq.com/) — extreme-speed inference.
+* [Groq](https://groq.com/) — extreme-speed LPU inference.
+* [Cerebras](https://cerebras.ai/) — wafer-scale chip inference.
 * [Modal](https://modal.com/) — serverless GPU.
 * [Anyscale](https://www.anyscale.com/) — Ray-based distributed AI.
 * [Databricks](https://www.databricks.com/) — data + AI platform.
+* [Snowflake Cortex](https://www.snowflake.com/en/data-cloud/cortex/) — AI in the data warehouse.
+* [Lightning AI](https://lightning.ai/) — Lightning Studios for ML.
 
 ### Enterprise / Vertical AI
 
-* [DataRobot](https://www.datarobot.com/) — enterprise ML platform.
-* [Dataiku](http://www.dataiku.com/) — collaborative data science.
-* [Scale AI](https://scale.com/) — data labeling and infrastructure.
 * [Glean](https://www.glean.com/) — enterprise AI search.
 * [Harvey AI](https://www.harvey.ai/) — legal AI.
 * [Cresta](https://cresta.com/) — contact center AI.
-
-### Robotics
-
-* [Boston Dynamics](https://www.bostondynamics.com) — Atlas, Spot.
-* [Figure AI](https://www.figure.ai/) — humanoid robots.
-* [1X Technologies](https://www.1x.tech/) — humanoid robots.
-* [Tesla Robotics (Optimus)](https://www.tesla.com/AI) — humanoid robot.
-* [DJI](http://www.dji.com/) — drones.
-* [iRobot](http://www.irobot.com/) — Roomba.
-* [Fetch Robotics](http://www.fetchrobotics.com/) — warehouse robots.
-* [ABB Robotics](http://new.abb.com/products/robotics) — industrial robotics.
+* [Sierra](https://sierra.ai/) — customer service agents.
+* [Decagon](https://decagon.ai/) — AI customer support agents.
+* [Cursor (Anysphere)](https://www.cursor.com/) — AI coding company.
+* [Cognition](https://www.cognition.ai/) — Devin SWE agent.
+* [Scale AI](https://scale.com/) — data labeling and infrastructure.
+* [DataRobot](https://www.datarobot.com/) — enterprise ML platform.
 
 ---
 
-## Personal AI Tools
+## 🧠 Personal AI Tools
 
 ### General Assistants
 
-* [ChatGPT](https://chat.openai.com/) — OpenAI's general-purpose assistant.
-* [Claude](https://claude.ai/) — Anthropic's assistant; long context, careful reasoning.
-* [Google Gemini](https://gemini.google.com/) — Google's assistant.
-* [Perplexity](https://www.perplexity.ai/) — AI-powered search engine.
-* [You.com](https://you.com/) — AI search and chat.
-* [Pi (Inflection)](https://pi.ai/) — empathetic personal AI.
-
-### Voice Assistants (Smart Devices)
-
-* [Amazon Alexa](https://www.amazon.com/alexa) — in-home assistant.
-* [Apple Siri](http://www.apple.com/ios/siri/) — iOS / macOS assistant.
-* [Google Assistant](https://assistant.google.com/) — Android / Home assistant.
-* [Mycroft AI](https://mycroft.ai/) — open-source voice assistant.
+* [**Claude**](https://claude.ai/) ⭐ — Anthropic's assistant; long context, careful reasoning.
+* [**ChatGPT**](https://chat.openai.com/) ⭐ — OpenAI's general-purpose assistant.
+* [**Google Gemini**](https://gemini.google.com/) — Google's assistant; native in Workspace.
+* [**Perplexity**](https://www.perplexity.ai/) ⭐ — AI search; best for research questions.
+* [**Grok**](https://grok.com/) — xAI's assistant with X integration.
+* [**You.com**](https://you.com/) — AI search and chat.
+* [**Pi (Inflection)**](https://pi.ai/) — empathetic personal AI.
 
 ### Productivity AI
 
 * [Notion AI](https://www.notion.so/product/ai) — built into Notion docs.
-* [Mem](https://get.mem.ai/) — AI-organized note-taking.
-* [Granola](https://www.granola.ai/) — AI meeting notes.
-* [Otter.ai](https://otter.ai/) — meeting transcription.
+* [Granola](https://www.granola.ai/) ⭐ — AI meeting notes; current favorite.
+* [Otter.ai](https://otter.ai/) — meeting transcription veteran.
 * [Reclaim.ai](https://reclaim.ai/) — calendar AI scheduling.
 * [Motion](https://www.usemotion.com/) — AI task and calendar planner.
+* [Mem](https://get.mem.ai/) — AI-organized note-taking.
+* [Sunsama](https://www.sunsama.com/) — daily planner with AI.
+* [Clay](https://clay.com/) — AI-powered CRM and outreach.
 
 ### AI Search
 
-* [Perplexity](https://www.perplexity.ai/) — research-grade AI search.
+* [Perplexity](https://www.perplexity.ai/) ⭐ — research-grade AI search.
 * [Phind](https://phind.com/) — AI search for developers.
-* [Exa](https://exa.ai/) — search engine for AI/LLMs.
+* [Exa](https://exa.ai/) — search engine designed for AI/LLMs.
 * [Tavily](https://tavily.com/) — search API for agents.
+* [Linkup](https://www.linkup.so/) 🆕 — AI-grade search API.
 
 ---
 
-## Specialized AI Tools
+## 🎨 Specialized AI Tools
+
+### Image Generation & Design
+
+* [**Midjourney**](https://www.midjourney.com/) ⭐ — high-quality image generation.
+* [**DALL·E (OpenAI)**](https://openai.com/dall-e-3) — image generation in ChatGPT.
+* [**Stable Diffusion (local)**](https://stability.ai/) — open-source image gen.
+* [**Flux 1.1 Pro / Kontext**](https://blackforestlabs.ai/) ⭐ — best-in-class open image gen + editing.
+* [**Recraft V3**](https://www.recraft.ai/) 🆕 — design-grade image generation.
+* [**Ideogram 2.0**](https://ideogram.ai/) — image generation with great text rendering.
+* [**Leonardo.AI**](https://leonardo.ai/) 🇦🇺 — Sydney-based image generation.
+* [**Krea**](https://www.krea.ai/) — real-time AI canvas.
+* [**Canva Magic Studio**](https://www.canva.com/magic-studio/) — AI design tools.
+* [**Figma AI / Make**](https://www.figma.com/ai/) — AI in Figma.
+* [**Photoshop Firefly**](https://www.adobe.com/products/photoshop/ai.html) — Adobe's generative fill.
+
+### Video & Audio
+
+* [**Sora 2 (OpenAI)**](https://openai.com/sora/) ⭐ 🆕 — text-to-video; current state-of-the-art.
+* [**Veo 3 (Google)**](https://deepmind.google/technologies/veo/) ⭐ — video gen with native audio.
+* [**Runway Gen-4**](https://runwayml.com/) — AI video generation and editing.
+* [**Pika 2.0**](https://pika.art/) — text-to-video.
+* [**Hailuo 02 (MiniMax)**](https://hailuoai.video/) 🇨🇳 — strong video gen.
+* [**Kling AI**](https://klingai.com/) 🇨🇳 — Kuaishou's video gen.
+* [**HeyGen**](https://www.heygen.com/) — AI avatars and translation.
+* [**Synthesia**](https://www.synthesia.io/) — AI video for enterprise.
+* [**Descript**](https://www.descript.com/) — edit audio/video like a doc.
+* [**ElevenLabs**](https://elevenlabs.io/) ⭐ — voice cloning and synthesis.
+* [**Cartesia Sonic**](https://www.cartesia.ai/) 🆕 — sub-100ms voice for real-time agents.
+* [**Hume EVI**](https://www.hume.ai/) — emotion-aware voice AI.
+* [**Suno v4**](https://www.suno.ai/) — music generation.
+* [**Udio**](https://www.udio.com/) — music generation.
 
 ### Writing & Content
 
@@ -384,131 +515,55 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Copy.ai](https://www.copy.ai/) — AI marketing copy.
 * [Grammarly](https://www.grammarly.com/) — AI writing assistant.
 * [Sudowrite](https://www.sudowrite.com/) — AI for fiction writers.
-* [Taskade AI](https://www.taskade.com) — outlining and mind mapping.
-* [RightBlogger](https://rightblogger.com/) — blogger-focused AI tools.
-
-### Image Generation & Design
-
-* [Midjourney](https://www.midjourney.com/) — high-quality image generation.
-* [DALL·E (OpenAI)](https://openai.com/dall-e-3) — image generation.
-* [Stable Diffusion (local)](https://stability.ai/) — open-source image gen.
-* [Flux](https://blackforestlabs.ai/) — high-quality open image gen.
-* [Leonardo.AI](https://leonardo.ai/) — Sydney-based image generation.
-* [Ideogram](https://ideogram.ai/) — image generation with text rendering.
-* [Krea](https://www.krea.ai/) — real-time AI canvas.
-* [Canva Magic Studio](https://www.canva.com/magic-studio/) — AI design tools.
-* [Figma AI](https://www.figma.com/ai/) — AI in Figma.
-
-### Video & Audio
-
-* [Runway](https://runwayml.com/) — AI video generation and editing.
-* [Pika Labs](https://pika.art/) — text-to-video.
-* [HeyGen](https://www.heygen.com/) — AI avatars and translation.
-* [Synthesia](https://www.synthesia.io/) — AI video for enterprise.
-* [Descript](https://www.descript.com/) — edit audio/video like a doc.
-* [ElevenLabs](https://elevenlabs.io/) — voice cloning and synthesis.
-* [Suno](https://www.suno.ai/) — music generation.
-* [Udio](https://www.udio.com/) — music generation.
+* [Lex](https://lex.page/) — AI writing app for thinkers.
 
 ### Health / Medical
 
 * [Ada Health](https://ada.com/) — symptom assessment.
-* [doc.ai](http://doc.ai/) — health insights.
-* [Abridge](https://www.abridge.com/) — clinical documentation AI.
-* [Tess (X2AI)](https://x2.ai/) — therapy support.
+* [Abridge](https://www.abridge.com/) ⭐ — clinical documentation AI; widely deployed in US health systems.
+* [Suki AI](https://www.suki.ai/) — voice-enabled clinical AI.
 
 ### Finance
 
-* [Morpher AI](https://www.morpher.com/ai) — financial market analysis.
 * [Bloomberg GPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/) — finance-specific LLM.
-
-### Travel & Local
-
-* [Mindtrip](https://mindtrip.ai/) — AI travel planning.
-* [Layla](https://www.layla.ai/) — travel AI assistant.
+* [Hebbia](https://www.hebbia.com/) — AI for financial analysts.
 
 ### Legal
 
 * [Harvey AI](https://www.harvey.ai/) — legal AI.
 * [Spellbook](https://www.spellbook.legal/) — contract review AI.
 
-### Education (for Kids)
+### Travel
 
+* [Mindtrip](https://mindtrip.ai/) — AI travel planning.
+* [Layla](https://www.layla.ai/) — travel AI assistant.
+
+### Education
+
+* [Khan Academy Khanmigo](https://www.khanmigo.ai/) ⭐ — AI tutor for students.
 * [CodeKidz](https://codekidz.ai) — AI-powered programming learning for kids.
 
 ---
 
-## Development Frameworks
-
-### Deep Learning Frameworks
-
-* [**PyTorch**](https://pytorch.org/) — by Meta; the de facto research framework.
-* [**TensorFlow**](https://www.tensorflow.org/) — by Google.
-* [**JAX**](https://github.com/google/jax) — by Google; functional, GPU/TPU.
-* [**Keras**](https://keras.io/) — high-level neural networks API.
-* [**MLX (Apple)**](https://github.com/ml-explore/mlx) — array framework for Apple Silicon.
-
-### Python Libraries
-
-* [**Hugging Face Transformers**](https://github.com/huggingface/transformers) — state-of-the-art NLP.
-* [**LangChain**](https://github.com/langchain-ai/langchain) — LLM application framework.
-* [**LlamaIndex**](https://github.com/run-llama/llama_index) — LLM data framework.
-* [**Pydantic AI**](https://ai.pydantic.dev/) — type-safe agent framework.
-* [**Instructor**](https://python.useinstructor.com/) — structured outputs from LLMs.
-* [**LiteLLM**](https://github.com/BerriAI/litellm) — unified API for 100+ LLMs.
-* [**Outlines**](https://github.com/outlines-dev/outlines) — guided LLM generation.
-* [**DSPy**](https://github.com/stanfordnlp/dspy) — programming (not prompting) LLMs.
-* [**scikit-learn**](https://scikit-learn.org/) — classic ML in Python.
-* [**Lasagne**](https://github.com/Lasagne/Lasagne) — lightweight deep learning on Theano.
-
-### TypeScript / JavaScript Libraries
-
-* [**Vercel AI SDK**](https://sdk.vercel.ai/) — React/Next.js AI app SDK.
-* [**LangChain.js**](https://github.com/langchain-ai/langchainjs) — LangChain for JS.
-* [**TensorFlow.js**](https://www.tensorflow.org/js) — browser ML.
-* [**Brain.js**](https://github.com/harthur-org/brain.js) — neural networks in JS.
-* [**Synaptic**](https://github.com/cazala/synaptic) — JS neural network library.
-* [**Natural**](https://github.com/NaturalNode/natural) — NLP in Node.js.
-* [**Compromise (NLP)**](https://github.com/spencermountain/compromise) — NLP in browser.
-
-### Bot Frameworks
-
-* [**Anthropic SDK (Python / TypeScript)**](https://github.com/anthropics/anthropic-sdk-python) — official Claude SDK.
-* [**OpenAI SDK**](https://github.com/openai/openai-python) — official OpenAI SDK.
-* [**Wechaty**](https://github.com/wechaty/wechaty) — WeChat bot framework.
-* [**python-telegram-bot**](https://github.com/python-telegram-bot/python-telegram-bot) — Telegram bot SDK.
-* [**Discord.py**](https://github.com/Rapptz/discord.py) — Discord bot SDK.
-* [**Slack Bolt**](https://github.com/slackapi/bolt-python) — Slack app framework.
-
-### Datasets
-
-* [**Hugging Face Datasets**](https://huggingface.co/datasets) — central dataset hub.
-* [**Common Crawl**](https://commoncrawl.org/) — web-scale data.
-* [**Kaggle Datasets**](https://www.kaggle.com/datasets) — competition and reference datasets.
-* [**Papers With Code Datasets**](https://paperswithcode.com/datasets) — benchmark datasets.
-* [**The Pile**](https://pile.eleuther.ai/) — 800GB dataset for LLMs.
-
----
-
-## News, Newsletters & Podcasts
+## 📰 News, Newsletters & Podcasts
 
 ### Newsletters
 
-* [**The Batch (deeplearning.ai)**](https://www.deeplearning.ai/the-batch/) — Andrew Ng's weekly AI newsletter.
-* [**Latent Space**](https://www.latent.space/) — AI engineering practitioner newsletter.
-* [**Import AI (Jack Clark)**](https://importai.substack.com/) — AI policy and research.
-* [**The Sequence**](https://thesequence.substack.com/) — AI research summaries.
+* [**The Batch (deeplearning.ai)**](https://www.deeplearning.ai/the-batch/) ⭐ — Andrew Ng's weekly newsletter.
+* [**Latent Space**](https://www.latent.space/) ⭐ — Swyx's AI engineering practitioner newsletter.
+* [**Import AI (Jack Clark)**](https://importai.substack.com/) ⭐ — AI policy and research.
+* [**The Sequence**](https://thesequence.substack.com/) — research summaries.
 * [**Last Week in AI**](https://lastweekin.ai/) — weekly AI news.
-* [**AI Weekly**](http://aiweekly.co/) — weekly AI digest.
 * [**TLDR AI**](https://tldr.tech/ai) — daily AI news in 5 minutes.
 * [**Ben's Bites**](https://www.bensbites.com/) — daily AI news for non-technical readers.
 * [**One Useful Thing (Ethan Mollick)**](https://www.oneusefulthing.org/) — practical AI essays.
+* [**Interconnects (Nathan Lambert)**](https://www.interconnects.ai/) — open-source AI commentary.
 
 ### Podcasts
 
-* [**Latent Space Podcast**](https://www.latent.space/podcast) — AI engineering deep dives.
+* [**Latent Space Podcast**](https://www.latent.space/podcast) ⭐ — AI engineering deep dives.
+* [**Dwarkesh Podcast**](https://www.dwarkeshpatel.com/) ⭐ — AI researchers and founders.
 * [**The Lex Fridman Podcast**](https://lexfridman.com/podcast/) — long-form AI/tech conversations.
-* [**Dwarkesh Podcast**](https://www.dwarkeshpatel.com/) — AI researchers and founders.
 * [**No Priors**](https://www.no-priors.com/) — Sarah Guo & Elad Gil on AI.
 * [**The TWIML AI Podcast**](https://twimlai.com/podcast/twimlai/) — This Week in ML & AI.
 * [**Practical AI**](https://changelog.com/practicalai) — applied AI for engineers.
@@ -516,31 +571,30 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 ### News Sites
 
-* [**Hacker News (HN AI tag)**](https://news.ycombinator.com/) — community AI discussion.
+* [**Hacker News**](https://news.ycombinator.com/) — community AI discussion.
 * [**ArXiv (cs.CL / cs.AI)**](https://arxiv.org/list/cs.AI/recent) — preprints.
 * [**Papers with Code**](https://paperswithcode.com/) — papers + implementations.
-* [**The Information AI**](https://www.theinformation.com/topics/artificial-intelligence) — paid; insider AI news.
-* [**Sciencedaily AI**](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/) — research news.
+* [**The Information AI**](https://www.theinformation.com/topics/artificial-intelligence) — paid; insider news.
+* [**Semianalysis**](https://semianalysis.com/) — AI hardware and infrastructure analysis.
 
 ---
 
-## Events & Conferences
+## 🎤 Events & Conferences
 
 * [**NeurIPS**](https://neurips.cc/) — premier ML research conference.
 * [**ICML**](https://icml.cc/) — International Conference on Machine Learning.
 * [**ICLR**](https://iclr.cc/) — Learning Representations.
 * [**CVPR**](https://cvpr.thecvf.com/) — Computer Vision and Pattern Recognition.
 * [**ACL**](https://www.aclweb.org/) — Computational Linguistics.
-* [**The AI Engineer Summit / Conference**](https://www.ai.engineer/) — practitioner conference (SF/NYC).
+* [**The AI Engineer Summit / World's Fair**](https://www.ai.engineer/) ⭐ — practitioner conference (SF/NYC).
 * [**Anthropic Builder Summit**](https://www.anthropic.com/events) — Anthropic developer events.
 * [**OpenAI DevDay**](https://devday.openai.com/) — OpenAI developer event.
 * [**Hugging Face Events**](https://huggingface.co/events) — community events.
-* [**AI Sydney / AI Melbourne meetups**](https://www.meetup.com/topics/artificial-intelligence/au/) — Australia community events.
-* [**Build Club Sydney events**](https://www.buildclub.ai/) — AU AI builders.
+* [**Build Club Sydney**](https://www.buildclub.ai/) 🇦🇺 — AU AI builders.
 
 ---
 
-## AI Jobs
+## 💼 AI Jobs
 
 * [Moai Jobs](https://www.moaijobs.com/) — top AI company jobs.
 * [AI Jobster](https://aijobster.work/) — remote AI jobs.
@@ -549,35 +603,21 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [WhoIsHiring (HN)](https://hnhiring.com/) — Hacker News hiring threads.
 * [Cracked Engineers](https://www.crackedengineers.com/) — hand-picked tech jobs.
 * [Built In](https://builtin.com/jobs) — US tech jobs by city.
-* For region-specific jobs, see the [🌍 AI Scene by Country](#-ai-scene-by-country) section.
+* [levels.fyi](https://www.levels.fyi/) — comp benchmarking.
+* For region-specific jobs, see [🌍 AI Scene by Country](#-ai-scene-by-country).
 
 ---
 
-## AI Communities by City
+## 🌐 AI Communities by City
 
-### Australia 🇦🇺
+* [San Francisco AI Meetup](http://www.meetup.com/superintelligencemeetup/) — SF community.
+* [New York AI](http://newyork.ai/) — NYC community.
+* [Seattle AI](http://seattle.city.ai/) — Seattle community.
+* [London AI](http://www.london.ai/) — London community.
+* [Amsterdam AI](http://amsterdam.ai/) — Amsterdam community.
+* [Hong Kong AI](http://hkg.ai/) — HK community.
 
-* [Sydney — Build Club](https://www.buildclub.ai/) — AI builders community.
-* [Sydney — Chinese AI Association](https://chineseai.org.au/) — 华人 AI 社区.
-* [Melbourne AI Meetup](https://www.meetup.com/topics/artificial-intelligence/au/melbourne/) — regular events.
-* See the dedicated [🇦🇺 Australia AI Scene](#-australia-ai-scene) section for more AU resources.
-
-### North America
-
-* [**San Francisco AI Meetup**](http://www.meetup.com/superintelligencemeetup/).
-* [**New York**](http://newyork.ai/) — AI community.
-* [**Seattle**](http://seattle.city.ai/) — AI community.
-
-### Europe
-
-* [**Amsterdam**](http://amsterdam.ai/).
-* [**London**](http://www.london.ai/).
-* **Berlin / Hamburg / Madrid / Milan / Oslo / Stockholm** — local AI communities.
-
-### Asia
-
-* [**Hong Kong**](http://hkg.ai/).
-* **Beijing / Shanghai / Shenzhen / Singapore** — local AI communities.
+For Sydney, Melbourne, Beijing, Shanghai, Singapore, KL — see [🌍 AI Scene by Country](#-ai-scene-by-country).
 
 ---
 
@@ -590,18 +630,18 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 **Universities & Research**
 * [Stanford AI Lab (SAIL)](https://ai.stanford.edu/) — academic AI research.
 * [MIT CSAIL](https://www.csail.mit.edu/) — Computer Science and AI Lab.
-* [Carnegie Mellon LTI / MLD](https://www.cmu.edu/ai/) — Language Technologies / Machine Learning departments.
+* [Carnegie Mellon LTI / MLD](https://www.cmu.edu/ai/) — Language Technologies / ML departments.
 * [UC Berkeley BAIR](https://bair.berkeley.edu/) — Berkeley AI Research.
-* [Princeton NLP / Vision](https://nlp.princeton.edu/) — academic groups.
+* [Princeton NLP](https://nlp.princeton.edu/) — academic groups.
 
 **Bootcamps & Career Programs**
 * [Springboard AI/ML Career Track](https://www.springboard.com/courses/ai-machine-learning-career-track/) — online AI bootcamp.
-* [Bloomtech (formerly Lambda School)](https://bloomtech.com/) — online tech bootcamp.
+* [Bloomtech](https://bloomtech.com/) — online tech bootcamp.
 * [Insight Data Science Fellows](https://insightfellows.com/) — fellowship for PhDs entering industry.
 * [Recurse Center](https://www.recurse.com/) — self-directed programmer retreat (NYC).
-* [Fellowship at Anthropic](https://www.anthropic.com/careers) — Anthropic's research fellowship.
+* [Anthropic Fellowship](https://www.anthropic.com/careers) — Anthropic's research fellowship.
 
-**Hiring**
+**Hiring & Comp**
 * [levels.fyi](https://www.levels.fyi/) — comp data for US tech roles.
 * [Built In](https://builtin.com/jobs) — US tech jobs by city.
 
@@ -616,16 +656,16 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [香港中文大学 MMLab](http://mmlab.ie.cuhk.edu.hk/) — 港中文 多媒体实验室.
 
 **公司 & 大模型**
-* [DeepSeek](https://www.deepseek.com/) — 深度求索, 开源前沿大模型.
-* [通义千问 (Qwen, Alibaba)](https://qwenlm.github.io/) — 阿里通义.
-* [豆包大模型 (ByteDance)](https://www.doubao.com/) — 字节豆包.
-* [智谱 AI (ChatGLM)](https://www.zhipuai.cn/) — 清华系大模型.
-* [MiniMax](https://www.minimaxi.com/) — abab 系列大模型.
-* [Moonshot AI (Kimi)](https://kimi.moonshot.cn/) — 月之暗面 Kimi.
-* [百度文心 (ERNIE)](https://yiyan.baidu.com/) — 文心一言.
+* [DeepSeek](https://www.deepseek.com/) ⭐ — 深度求索, 开源前沿大模型.
+* [通义千问 Qwen (Alibaba)](https://qwenlm.github.io/) ⭐ — 阿里通义.
+* [Moonshot AI Kimi](https://kimi.moonshot.cn/) ⭐ — 月之暗面 Kimi K2.
+* [豆包 (ByteDance)](https://www.doubao.com/) — 字节豆包.
+* [智谱 AI ChatGLM](https://www.zhipuai.cn/) — 清华系大模型.
+* [MiniMax abab](https://www.minimaxi.com/) — MiniMax.
+* [百度文心 ERNIE](https://yiyan.baidu.com/) — 文心一言.
 * [腾讯混元](https://hunyuan.tencent.com/) — 混元大模型.
-* [百川智能 (Baichuan)](https://www.baichuan-ai.com/) — 百川大模型.
-* [01.AI (Yi)](https://www.lingyiwanwu.com/) — 零一万物 Yi 系列.
+* [百川智能 Baichuan](https://www.baichuan-ai.com/) — 百川大模型.
+* [01.AI Yi](https://www.lingyiwanwu.com/) — 零一万物 Yi 系列.
 
 **学习平台 & 资讯**
 * [极客时间](https://time.geekbang.org/) — 程序员付费课程.
@@ -647,10 +687,10 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 **Hiring**
 * [Atlassian Careers](https://www.atlassian.com/company/careers) — Sydney-based, hiring AI engineers.
 * [Canva Engineering](https://www.canva.com/careers/) — Sydney-based, AI/ML roles.
-* [Australian Government Digital Transformation Agency](https://www.dta.gov.au/) — public sector AI roles.
+* [Australian Government Digital Transformation Agency](https://www.dta.gov.au/) — public sector AI.
 * [Build Club AI](https://www.buildclub.ai/) — Sydney AI builders community + jobs.
 * [JobPin AI](https://www.jobpin.com.au/) — AI-powered job recommendations for Australia.
-* [JR Academy Career Coaching](https://jiangren.com.au/career-coaching) — AU AI Engineer placement and coaching.
+* [JR Academy Career Coaching](https://jiangren.com.au/career-coaching) — AU AI Engineer placement.
 
 **Visa Pathways for AI Engineers**
 * **482 TSS** — employer-sponsored temporary skilled visa.
@@ -677,18 +717,17 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 ### 🇲🇾 Malaysia
 
 **Universities**
-* [University of Malaya (UM) — AI & Robotics](https://www.um.edu.my/) — flagship public university.
-* [Universiti Sains Malaysia (USM) — School of Computer Sciences](https://cs.usm.my/) — AI / ML programs.
+* [University of Malaya (UM)](https://www.um.edu.my/) — flagship public university.
+* [Universiti Sains Malaysia (USM)](https://cs.usm.my/) — School of Computer Sciences.
 * [Multimedia University (MMU)](https://www.mmu.edu.my/) — Cyberjaya tech university.
 * [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/) — engineering & AI research.
 * [Asia Pacific University (APU)](https://www.apu.edu.my/) — data science & AI programs.
 
 **Companies & Hiring (KL / Cyberjaya)**
 * [Grab](https://grab.careers/) — Southeast Asia super-app; ML roles in KL.
-* [iPay88](https://www.ipay88.com/) — fintech with AI applications.
 * [Carsome](https://www.carsome.my/) — used-car platform with AI pricing.
 * [Aerodyne](https://www.aerodyne.group/) — drone AI; HQ Cyberjaya.
-* [WORQ](https://worq.space/) — coworking + tech community.
+* [iPay88](https://www.ipay88.com/) — fintech with AI applications.
 * [Hiredly](https://www.hiredly.com/) — Malaysia tech jobs platform.
 
 **Communities**
@@ -699,13 +738,13 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 ### 🇸🇬 Singapore
 
 **Universities & Research**
-* [National University of Singapore (NUS) — AI](https://www.comp.nus.edu.sg/) — top SEA CS school.
-* [Nanyang Technological University (NTU) — College of Computing](https://www.ntu.edu.sg/computing) — AI / ML labs.
-* [Singapore Management University (SMU) — School of Computing](https://scis.smu.edu.sg/) — applied AI.
-* [A*STAR Institute for Infocomm Research (I²R)](https://www.a-star.edu.sg/i2r) — government AI research.
+* [National University of Singapore (NUS)](https://www.comp.nus.edu.sg/) — top SEA CS school.
+* [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/computing) — AI / ML labs.
+* [Singapore Management University (SMU)](https://scis.smu.edu.sg/) — applied AI.
+* [A*STAR I²R](https://www.a-star.edu.sg/i2r) — government AI research.
 
 **Government & Initiatives**
-* [AI Singapore](https://aisingapore.org/) — national AI program (AI Apprenticeship, AI Trailblazer).
+* [AI Singapore](https://aisingapore.org/) ⭐ — national AI program (AI Apprenticeship, Trailblazer).
 * [SGTech](https://www.sgtech.org.sg/) — Singapore tech industry association.
 
 **Companies & Hiring**
@@ -718,18 +757,38 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 ---
 
+## 🤖 Robotics & Embodied AI
+
+* [**Boston Dynamics**](https://www.bostondynamics.com) — Atlas, Spot.
+* [**Figure AI**](https://www.figure.ai/) 🔥 — humanoid robots; Figure 02.
+* [**1X Technologies**](https://www.1x.tech/) — Neo home humanoid.
+* [**Tesla Optimus**](https://www.tesla.com/AI) — humanoid robot.
+* [**Physical Intelligence (Pi)**](https://www.physicalintelligence.company/) 🆕 — robotics foundation models.
+* [**Skild AI**](https://www.skild.ai/) 🆕 — general-purpose robotics intelligence.
+* [**Sanctuary AI Phoenix**](https://www.sanctuary.ai/) — humanoid robot.
+* [**DJI**](http://www.dji.com/) — drones.
+* [**Aerodyne**](https://www.aerodyne.group/) 🇲🇾 — drone AI; Malaysia.
+* [**iRobot**](http://www.irobot.com/) — Roomba.
+
+### Robotics frameworks
+
+* [LeRobot (Hugging Face)](https://github.com/huggingface/lerobot) 🆕 — open-source robotics learning.
+* [ROS 2](https://www.ros.org/) — Robot Operating System.
+* [NVIDIA Isaac](https://developer.nvidia.com/isaac) — robotics platform.
+
+---
+
 ## Contributing
 
 Open a pull request or email **hello@jiangren.com.au**.
 
-**Contribution guidelines**:
-* Add resources that are still active and useful (we periodically prune dead links).
+**Quick rules**:
+* Add resources still active and useful (we periodically prune dead links).
 * Keep entries to one line: `[Name](url) — short description`.
 * Place new entries in the most appropriate section.
-* For Australia-specific resources, use the [Australia AI Scene](#-australia-ai-scene) section.
 * No affiliate / referral links without disclosure.
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for full guidelines.
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for full guidelines and [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for community standards.
 
 ---
 
