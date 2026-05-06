@@ -1,0 +1,45 @@
+name: 🔗 Report a Dead / Broken Link
+description: An entry in the README points to a 404, redirect, or dead project
+title: "[Dead Link] "
+labels: ["broken-link", "maintenance"]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry Name
+      placeholder: e.g., MyWave
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Current URL in README
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: status
+    attributes:
+      label: What's wrong?
+      options:
+        - 404 / dead site
+        - Redirects to spam / unrelated content
+        - Project archived / no longer maintained
+        - Project rebranded / new URL
+        - Wrong description (project pivoted)
+    validations:
+      required: true
+
+  - type: input
+    id: replacement
+    attributes:
+      label: Replacement URL (if rebranded)
+      placeholder: https://...
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      placeholder: Any additional context

@@ -7,7 +7,7 @@
 
 > A community-curated list of artificial intelligence resources for engineers, learners, and career-switchers — covering foundation models, agent frameworks, AI coding tools, courses, companies, jobs, and the Australian AI scene.
 
-> **Maintained by [Lightman Wang](https://github.com/hades217)**, founder of [**JR Academy**](https://jiangren.com.au) — a project-based AI engineering bootcamp in Australia (P3 model: **P**roject + **P**roduction + **P**lacement). Curating this list since 2017.
+> **Maintained by Lightman Wang** ([GitHub](https://github.com/hades217) · [LinkedIn](https://www.linkedin.com/in/lightman-wang/)), founder of [**JR Academy**](https://jiangren.com.au) — a project-based AI engineering bootcamp in Australia (P3 model: **P**roject + **P**roduction + **P**lacement). Curating this list since 2017.
 
 📩 Contributions welcome — open a PR or email **hello@jiangren.com.au**.
 🇦🇺 Looking to break into AI in Australia? See the [Australia AI Scene](#-australia-ai-scene) section below or check out [JR Academy AI Engineer Bootcamp](https://jiangren.com.au/curriculum/ai-engineer-bootcamp).

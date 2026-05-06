@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 General Discussion
+    url: https://github.com/hades217/awesome-ai/discussions
+    about: Ask questions or share feedback
+  - name: 🇦🇺 JR Academy AI Engineer Bootcamp
+    url: https://jiangren.com.au/curriculum/ai-engineer-bootcamp
+    about: Learn AI Engineering with project-based curriculum (Australia)
+  - name: 📧 Contact Maintainer
+    url: mailto:hello@jiangren.com.au
+    about: For anything else

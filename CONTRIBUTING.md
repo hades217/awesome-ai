@@ -1,20 +1,86 @@
-# Contribution Guidelines
+# Contributing to Awesome AI
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+Thanks for considering a contribution! 🎉 This list has been community-curated since 2017 and we welcome PRs from anyone.
 
-Ensure your pull request adheres to the following guidelines:
+By participating, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-- **If you just created something, wait at least 30 days before submitting.** This is to give it some time to mature and ensure it's not just a publish-and-forget type of project.
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Use [title-casing](http://title-casing.com).
-- Use the following format: `[List Name](link)`.
-- Suggested packages should be tested and documented.
-- Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
-- Make an individual pull request for each suggestion.
-- Additions should be added to the bottom of the relevant category.
-- Keep descriptions short and simple, but descriptive.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-- The pull request should have a useful title and include a link to the package and why it should be included.
+---
 
-Thank you for your suggestion!
+## Quick Start
+
+1. **Fork** the repo
+2. **Find** the right section (or open an issue first if unsure)
+3. **Add** your entry: `* [Name](url) — short description in one line`
+4. **Open** a PR with a clear title (`Add [Tool Name] to [Section]`)
+
+---
+
+## What we accept ✅
+
+- **Active AI tools, courses, libraries, papers, communities** — must be alive and useful
+- **Updates to existing entries** — URLs change, projects rebrand
+- **Section reorganization** — for clarity
+- **Australia-specific resources** — use the [Australia AI Scene](README.md#-australia-ai-scene) section
+- **Bug fixes** — typos, broken links, formatting
+
+## What we don't accept ❌
+
+- **Affiliate / referral links** — unless clearly disclosed with `[affiliate]`
+- **Personal blogs** — unless they have unique technical depth (Lilian Weng, Karpathy, Simon Willison level)
+- **Closed-source tools** that compete with already-listed open alternatives — just add to existing list instead
+- **Duplicate entries**
+- **Dead / archived projects** — we'll auto-prune via [link checker](.github/workflows/link-check.yml)
+- **Just-launched projects** — wait at least 30 days after launch to ensure it's not publish-and-forget
+- **Marketing language** — no "revolutionary / powerful / game-changing" type copy
+
+---
+
+## Style Guide
+
+- **One line per entry**
+- **Active voice, present tense**
+- **Direct link to homepage**, not landing page redirects or affiliate URLs
+- Format: `* [Name](url) — short description (≤ 100 chars)`
+- For especially important entries, **bold the name**: `* [**Name**](url) — ...`
+- Title-case the link name where appropriate ([title-casing reference](http://title-casing.com))
+- Trailing whitespace stripped (most editors do this automatically)
+- Add to the **bottom of the relevant section** unless ordering by importance
+
+---
+
+## PR Checklist
+
+- [ ] Searched for duplicates
+- [ ] Entry follows style guide
+- [ ] Link is direct and not affiliate
+- [ ] Description is short, specific, no marketing language
+- [ ] Added to correct section
+- [ ] One suggestion per PR (multiple = multiple PRs)
+- [ ] PR title is descriptive: `Add [X] to [Section]`
+- [ ] PR body explains *why* this resource deserves inclusion
+
+---
+
+## Maintainers
+
+- [@hades217 (Lightman Wang)](https://github.com/hades217) — JR Academy founder; primary maintainer
+
+We aim to review PRs within **7 days**. If yours has been pending longer, feel free to ping in a comment.
+
+---
+
+## Recognition
+
+All contributors are listed in [CONTRIBUTORS.md](CONTRIBUTORS.md). Top contributors are featured in our annual "Awesome AI Year in Review" post on [JR Academy Blog](https://jiangren.com.au/blog).
+
+If you've made a substantial contribution (a new section / 10+ entries / major reorganization), feel free to add yourself to the [Maintainers](#maintainers) section.
+
+---
+
+## Questions?
+
+- Open a [Discussion](https://github.com/hades217/awesome-ai/discussions) for general questions
+- Open an [Issue](https://github.com/hades217/awesome-ai/issues/new/choose) for specific problems
+- Email [hello@jiangren.com.au](mailto:hello@jiangren.com.au) for anything else
+
+Thank you for keeping this list awesome! 🌟

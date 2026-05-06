@@ -1,0 +1,91 @@
+name: 📚 Add a Resource
+description: Suggest a new tool, course, library, paper, or community to add
+title: "[Add] "
+labels: ["new-resource"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an addition! Please fill out the details below.
+
+        💡 **Tip**: For most additions, opening a PR directly is faster — see [CONTRIBUTING.md](../blob/master/CONTRIBUTING.md).
+
+  - type: input
+    id: name
+    attributes:
+      label: Resource Name
+      placeholder: e.g., LangGraph
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Suggested Section
+      options:
+        - 🇦🇺 Australia AI Scene
+        - Foundation Models & APIs
+        - AI Coding Tools
+        - Agent Frameworks & MCP
+        - RAG & Vector Databases
+        - LLM Inference & Hosting
+        - LLM Ops & Observability
+        - Fine-Tuning & Training
+        - Courses & Learning Paths
+        - Books, Papers & Blogs
+        - Companies & Research Labs
+        - Personal AI Tools
+        - Specialized AI Tools
+        - Development Frameworks
+        - News, Newsletters & Podcasts
+        - Events & Conferences
+        - AI Jobs
+        - AI Communities by City
+        - Other (please specify in description)
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: One-line Description
+      description: Concise, no marketing language (≤ 100 chars)
+      placeholder: e.g., Graph-based agent orchestration from LangChain team
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does this deserve inclusion?
+      description: What makes it stand out vs already-listed alternatives? Has it been around 30+ days? Active community?
+    validations:
+      required: true
+
+  - type: input
+    id: stars
+    attributes:
+      label: GitHub Stars (if applicable)
+      placeholder: e.g., 5000
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Pre-flight Checks
+      options:
+        - label: I searched the README and didn't find a duplicate
+          required: true
+        - label: This is not a referral / affiliate link (or it's clearly disclosed)
+          required: true
+        - label: The project has been active in the last 12 months
+          required: true
+        - label: I read the [contributing guidelines](../blob/master/CONTRIBUTING.md)
+          required: true
