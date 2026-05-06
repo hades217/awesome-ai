@@ -78,11 +78,11 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Meta Llama 4**](https://llama.meta.com/) ⭐ — Llama 4 family (text + vision); the de facto open baseline.
 * [**Qwen3 (Alibaba)**](https://qwenlm.github.io/) ⭐ 🇨🇳 — Qwen3 dense + MoE; strongest multilingual open model.
 * [**DeepSeek**](https://www.deepseek.com/) ⭐ 🇨🇳 — DeepSeek V3.2 / R1 reasoning. Frontier-level open model.
-* [**GLM 4.6 (Zhipu)**](https://github.com/THUDM/GLM-4) 🇨🇳 — bilingual model from Tsinghua.
+* [**GLM 4.6 (Zhipu)**](https://github.com/THUDM/GLM-4) 🇨🇳 (7k ⭐) — bilingual model from Tsinghua.
 * [**Mistral Open Models**](https://mistral.ai/technology/#models) — Mixtral, Mistral Small/Medium 3.
 * [**Microsoft Phi-4**](https://azure.microsoft.com/en-us/products/phi) — small but strong models.
 * [**Hugging Face Hub**](https://huggingface.co/) ⭐ — central hub for 500k+ open-source models.
-* [**Kimi K2 (Moonshot)**](https://github.com/MoonshotAI/Kimi-K2) 🇨🇳 — open MoE from Moonshot; long-context champion.
+* [**Kimi K2 (Moonshot)**](https://github.com/MoonshotAI/Kimi-K2) 🇨🇳 (11k ⭐) — open MoE from Moonshot; long-context champion.
 
 ### Multimodal & Specialized 🆕
 
@@ -104,13 +104,13 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 > AI assistants for writing, reviewing, refactoring code. The most disrupted developer category in 2025-2026.
 
 * [**Claude Code**](https://www.anthropic.com/claude-code) ⭐ 🔥 — Anthropic's CLI for software engineering with Claude. Most-used CLI agent in 2026.
-* [**Cursor**](https://www.cursor.com/) ⭐ 🔥 (28k ⭐) — AI-first code editor; fork of VS Code.
-* [**Codex CLI (OpenAI)**](https://github.com/openai/codex) 🆕 — OpenAI's open-source CLI coding agent.
+* [**Cursor**](https://www.cursor.com/) ⭐ 🔥 — AI-first code editor; fork of VS Code.
+* [**Codex CLI (OpenAI)**](https://github.com/openai/codex) 🆕 (80k ⭐) — OpenAI's open-source CLI coding agent.
 * [**GitHub Copilot**](https://github.com/features/copilot) — original AI pair programmer; now agent + Workspace + Spark.
 * [**Windsurf**](https://codeium.com/windsurf) — Codeium's AI editor (acquired by Cognition).
-* [**Aider**](https://aider.chat/) (24k ⭐) — open-source AI pair programmer in your terminal.
-* [**Continue**](https://continue.dev/) (19k ⭐) — open-source AI coding assistant for VS Code / JetBrains.
-* [**Cline**](https://github.com/cline/cline) (35k ⭐) — autonomous coding agent for VS Code.
+* [**Aider**](https://aider.chat/) (44k ⭐) — open-source AI pair programmer in your terminal.
+* [**Continue**](https://continue.dev/) (33k ⭐) — open-source AI coding assistant for VS Code / JetBrains.
+* [**Cline**](https://github.com/cline/cline) (61k ⭐) — autonomous coding agent for VS Code.
 * [**Zed AI**](https://zed.dev/ai) 🆕 — high-performance editor with native AI agent.
 * [**Augment Code**](https://www.augmentcode.com/) — context-aware enterprise coding assistant.
 * [**Cody (Sourcegraph)**](https://sourcegraph.com/cody) — code AI with full-codebase context.
@@ -131,37 +131,37 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 ### Agent Frameworks
 
 * [**Claude Agent SDK**](https://docs.anthropic.com/en/api/agent-sdk) ⭐ 🆕 — Anthropic's official agent SDK with skills, memory, sandboxing.
-* [**LangGraph**](https://langchain-ai.github.io/langgraph/) ⭐ (10k ⭐) — graph-based agent orchestration; production-ready.
+* [**LangGraph**](https://langchain-ai.github.io/langgraph/) ⭐ (31k ⭐) — graph-based agent orchestration; production-ready.
 * [**Anthropic Skills**](https://www.anthropic.com/news/skills) 🆕 — modular agent skills protocol.
 * [**Pydantic AI**](https://ai.pydantic.dev/) ⭐ — type-safe agent framework; clean Python API.
-* [**CrewAI**](https://www.crewai.com/) (28k ⭐) — role-based multi-agent framework.
-* [**AutoGen (Microsoft)**](https://github.com/microsoft/autogen) (37k ⭐) — multi-agent conversation framework.
-* [**OpenAI Swarm**](https://github.com/openai/swarm) (19k ⭐) — lightweight multi-agent orchestration.
+* [**CrewAI**](https://www.crewai.com/) (51k ⭐) — role-based multi-agent framework.
+* [**AutoGen (Microsoft)**](https://github.com/microsoft/autogen) (58k ⭐) — multi-agent conversation framework.
+* [**OpenAI Swarm**](https://github.com/openai/swarm) (21k ⭐) — lightweight multi-agent orchestration.
 * [**LlamaIndex Agents**](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/) — agent runtime.
 * [**Vercel AI SDK**](https://sdk.vercel.ai/) ⭐ — React/Next.js agent SDK.
-* [**smolagents (Hugging Face)**](https://github.com/huggingface/smolagents) — minimal code-acting agent library.
-* [**Strands Agents (AWS)**](https://github.com/strands-agents/sdk-python) 🆕 — AWS open-source agent SDK.
+* [**smolagents (Hugging Face)**](https://github.com/huggingface/smolagents) (27k ⭐) — minimal code-acting agent library.
+* [**Strands Agents (AWS)**](https://github.com/strands-agents/sdk-python) 🆕 (6k ⭐) — AWS open-source agent SDK.
 * [**Bedrock AgentCore**](https://aws.amazon.com/bedrock/agentcore/) 🆕 — AWS managed agent runtime.
-* [**Letta (formerly MemGPT)**](https://github.com/letta-ai/letta) — agents with persistent memory.
+* [**Letta (formerly MemGPT)**](https://github.com/letta-ai/letta) (22k ⭐) — agents with persistent memory.
 * [**Inspect AI (UK AISI)**](https://inspect.aisi.org.uk/) — agent eval framework from UK AI Safety Institute.
 
 ### Model Context Protocol (MCP) 🔥
 
 * [**Model Context Protocol Spec**](https://modelcontextprotocol.io/) ⭐ — Anthropic's open protocol for AI tool use. Industry standard since 2024.
-* [**Anthropic MCP Servers**](https://github.com/modelcontextprotocol/servers) — official MCP servers (filesystem, fetch, GitHub, Postgres, Brave).
-* [**MCP Python SDK**](https://github.com/modelcontextprotocol/python-sdk) — build MCP servers in Python.
-* [**MCP TypeScript SDK**](https://github.com/modelcontextprotocol/typescript-sdk) — build MCP servers in TS.
-* [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) ⭐ — community MCP server list.
-* [**FastMCP**](https://github.com/jlowin/fastmcp) — Pythonic MCP server framework.
+* [**Anthropic MCP Servers**](https://github.com/modelcontextprotocol/servers) (85k ⭐) — official MCP servers (filesystem, fetch, GitHub, Postgres, Brave).
+* [**MCP Python SDK**](https://github.com/modelcontextprotocol/python-sdk) (23k ⭐) — build MCP servers in Python.
+* [**MCP TypeScript SDK**](https://github.com/modelcontextprotocol/typescript-sdk) (12k ⭐) — build MCP servers in TS.
+* [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) ⭐ (86k ⭐) — community MCP server list.
+* [**FastMCP**](https://github.com/jlowin/fastmcp) (25k ⭐) — Pythonic MCP server framework.
 
 ### Browser & Computer Use 🆕
 
 * [**Anthropic Computer Use**](https://www.anthropic.com/news/3-5-models-and-computer-use) ⭐ — Claude controls your computer.
 * [**OpenAI Atlas**](https://openai.com/atlas) 🆕 — OpenAI's agentic browser.
-* [**Browser Use**](https://github.com/browser-use/browser-use) (50k ⭐) — open-source browser automation for agents.
-* [**Skyvern**](https://github.com/Skyvern-AI/skyvern) (12k ⭐) — automate browser workflows with vision LLMs.
-* [**Playwright MCP**](https://github.com/microsoft/playwright-mcp) — Playwright as an MCP server.
-* [**Stagehand (Browserbase)**](https://github.com/browserbase/stagehand) — Playwright + AI for reliable agents.
+* [**Browser Use**](https://github.com/browser-use/browser-use) (92k ⭐) — open-source browser automation for agents.
+* [**Skyvern**](https://github.com/Skyvern-AI/skyvern) (22k ⭐) — automate browser workflows with vision LLMs.
+* [**Playwright MCP**](https://github.com/microsoft/playwright-mcp) (32k ⭐) — Playwright as an MCP server.
+* [**Stagehand (Browserbase)**](https://github.com/browserbase/stagehand) (22k ⭐) — Playwright + AI for reliable agents.
 
 ---
 
@@ -171,22 +171,22 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 ### RAG Frameworks
 
-* [**LangChain**](https://www.langchain.com/) ⭐ (98k ⭐) — most popular framework for LLM apps and RAG.
-* [**LlamaIndex**](https://www.llamaindex.ai/) ⭐ (38k ⭐) — data framework for LLM applications, RAG-focused.
-* [**Haystack (deepset)**](https://haystack.deepset.ai/) (18k ⭐) — open-source LLM framework.
-* [**RAGFlow**](https://github.com/infiniflow/ragflow) 🔥 (45k ⭐) — open-source RAG engine with deep document understanding.
+* [**LangChain**](https://www.langchain.com/) ⭐ (136k ⭐) — most popular framework for LLM apps and RAG.
+* [**LlamaIndex**](https://www.llamaindex.ai/) ⭐ (49k ⭐) — data framework for LLM applications, RAG-focused.
+* [**Haystack (deepset)**](https://haystack.deepset.ai/) (25k ⭐) — open-source LLM framework.
+* [**RAGFlow**](https://github.com/infiniflow/ragflow) 🔥 (80k ⭐) — open-source RAG engine with deep document understanding.
 * [**Cognita (TrueFoundry)**](https://github.com/truefoundry/cognita) — open-source RAG framework.
 * [**Verba (Weaviate)**](https://github.com/weaviate/Verba) — RAG chatbot UI on Weaviate.
 * [**Pathway**](https://github.com/pathwaycom/pathway) — real-time RAG and AI pipelines.
 
 ### Vector Databases
 
-* [**pgvector**](https://github.com/pgvector/pgvector) ⭐ (15k ⭐) — Postgres extension; default for prototypes.
-* [**Qdrant**](https://qdrant.tech/) ⭐ (24k ⭐) — open-source vector search engine in Rust; production-ready.
+* [**pgvector**](https://github.com/pgvector/pgvector) ⭐ (21k ⭐) — Postgres extension; default for prototypes.
+* [**Qdrant**](https://qdrant.tech/) ⭐ (31k ⭐) — open-source vector search engine in Rust; production-ready.
 * [**Pinecone**](https://www.pinecone.io/) ⭐ — managed vector database; serverless option.
-* [**Weaviate**](https://weaviate.io/) (13k ⭐) — open-source vector database with hybrid search.
-* [**Chroma**](https://www.trychroma.com/) (20k ⭐) — embeddings database for AI apps; great DX for prototypes.
-* [**Milvus**](https://milvus.io/) (33k ⭐) — open-source vector database for production.
+* [**Weaviate**](https://weaviate.io/) (16k ⭐) — open-source vector database with hybrid search.
+* [**Chroma**](https://www.trychroma.com/) (28k ⭐) — embeddings database for AI apps; great DX for prototypes.
+* [**Milvus**](https://milvus.io/) (44k ⭐) — open-source vector database for production.
 * [**LanceDB**](https://lancedb.com/) — serverless / embedded vector database.
 * [**Turbopuffer**](https://turbopuffer.com/) 🆕 — serverless vector DB on object storage.
 * [**Vespa**](https://vespa.ai/) — search and recommendation with vector support.
@@ -205,12 +205,12 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 ## ⚡ LLM Inference & Hosting
 
-* [**Ollama**](https://ollama.com/) ⭐ (95k ⭐) — run LLMs locally with one command.
+* [**Ollama**](https://ollama.com/) ⭐ (171k ⭐) — run LLMs locally with one command.
 * [**LM Studio**](https://lmstudio.ai/) — desktop GUI for local LLMs.
-* [**llama.cpp**](https://github.com/ggerganov/llama.cpp) ⭐ (70k ⭐) — efficient LLM inference in C++.
-* [**vLLM**](https://github.com/vllm-project/vllm) ⭐ (32k ⭐) — high-throughput LLM serving for production.
-* [**SGLang**](https://github.com/sgl-project/sglang) 🆕 (8k ⭐) — fast structured-output inference engine.
-* [**Text Generation Inference (TGI)**](https://github.com/huggingface/text-generation-inference) — Hugging Face's production server.
+* [**llama.cpp**](https://github.com/ggerganov/llama.cpp) ⭐ (108k ⭐) — efficient LLM inference in C++.
+* [**vLLM**](https://github.com/vllm-project/vllm) ⭐ (79k ⭐) — high-throughput LLM serving for production.
+* [**SGLang**](https://github.com/sgl-project/sglang) 🆕 (27k ⭐) — fast structured-output inference engine.
+* [Text Generation Inference (TGI)](https://github.com/huggingface/text-generation-inference) — Hugging Face's production server (archived; consider vLLM or SGLang).
 * [**Together AI**](https://www.together.ai/) ⭐ — fast inference API for open models.
 * [**Groq**](https://groq.com/) ⭐ — extremely fast LPU-based inference.
 * [**Fireworks AI**](https://fireworks.ai/) — production inference platform.
@@ -225,12 +225,12 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 ## 📊 LLM Ops & Observability
 
 * [**LangSmith**](https://www.langchain.com/langsmith) ⭐ — debugging, testing, monitoring; default for LangChain shops.
-* [**Helicone**](https://www.helicone.ai/) ⭐ (4k ⭐) — open-source LLM observability.
-* [**Langfuse**](https://langfuse.com/) (12k ⭐) — open-source LLM engineering platform; eval + traces.
+* [**Helicone**](https://www.helicone.ai/) ⭐ (6k ⭐) — open-source LLM observability.
+* [**Langfuse**](https://langfuse.com/) (27k ⭐) — open-source LLM engineering platform; eval + traces.
 * [**Phoenix (Arize)**](https://phoenix.arize.com/) — open-source LLM observability in a notebook.
 * [**Braintrust**](https://www.braintrust.dev/) ⭐ — eval-first observability for AI products.
 * [**Weights & Biases (W&B Weave)**](https://wandb.ai/site/weave) — experiment tracking + LLM tracing.
-* [**Promptfoo**](https://www.promptfoo.dev/) (5k ⭐) — open-source LLM eval framework.
+* [**Promptfoo**](https://www.promptfoo.dev/) (21k ⭐) — open-source LLM eval framework.
 * [**OpenLIT**](https://openlit.io/) — OpenTelemetry-native LLM observability.
 * [**Opik (Comet)**](https://github.com/comet-ml/opik) 🆕 — open-source LLM eval + tracing.
 * [**Inspect AI**](https://inspect.aisi.org.uk/) 🆕 — UK AISI's agent eval framework.
@@ -239,12 +239,12 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 ## 🎯 Fine-Tuning & Training
 
-* [**Axolotl**](https://github.com/axolotl-ai-cloud/axolotl) ⭐ (8k ⭐) — easy fine-tuning of LLMs (LoRA, QLoRA, full).
-* [**Unsloth**](https://unsloth.ai/) ⭐ (37k ⭐) — 2x faster LLM fine-tuning, less memory.
-* [**Hugging Face TRL**](https://huggingface.co/docs/trl/index) — RLHF, DPO, PPO trainers.
-* [**LLaMA Factory**](https://github.com/hiyouga/LLaMA-Factory) (35k ⭐) — unified LLM fine-tuning.
+* [**Axolotl**](https://github.com/axolotl-ai-cloud/axolotl) ⭐ (12k ⭐) — easy fine-tuning of LLMs (LoRA, QLoRA, full).
+* [**Unsloth**](https://unsloth.ai/) ⭐ (64k ⭐) — 2x faster LLM fine-tuning, less memory.
+* [**Hugging Face TRL**](https://huggingface.co/docs/trl/index) (18k ⭐) — RLHF, DPO, PPO trainers.
+* [**LLaMA Factory**](https://github.com/hiyouga/LLaMA-Factory) (71k ⭐) — unified LLM fine-tuning.
 * [**Lit-GPT (Lightning AI)**](https://github.com/Lightning-AI/litgpt) — pretrain, fine-tune, serve LLMs.
-* [**ColossalAI**](https://github.com/hpcaitech/ColossalAI) — large-scale training.
+* [**ColossalAI**](https://github.com/hpcaitech/ColossalAI) (41k ⭐) — large-scale training.
 * [**veRL (ByteDance)**](https://github.com/volcengine/verl) 🆕 — RL training for LLMs.
 
 ---
@@ -255,35 +255,35 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 * [**PyTorch**](https://pytorch.org/) ⭐ — by Meta; the de facto research framework.
 * [**TensorFlow**](https://www.tensorflow.org/) — by Google; production focus.
-* [**JAX**](https://github.com/google/jax) — by Google; functional, GPU/TPU.
+* [**JAX**](https://github.com/google/jax) (36k ⭐) — by Google; functional, GPU/TPU.
 * [**Keras 3**](https://keras.io/) — multi-backend high-level API.
-* [**MLX (Apple)**](https://github.com/ml-explore/mlx) — array framework optimized for Apple Silicon.
+* [**MLX (Apple)**](https://github.com/ml-explore/mlx) (26k ⭐) — array framework optimized for Apple Silicon.
 * [**MAX / Mojo (Modular)**](https://www.modular.com/) — Python-superset language for AI performance.
 
 ### Python LLM Libraries
 
-* [**Hugging Face Transformers**](https://github.com/huggingface/transformers) ⭐ (135k ⭐) — state-of-the-art models.
-* [**LangChain**](https://github.com/langchain-ai/langchain) (98k ⭐) — LLM application framework.
+* [**Hugging Face Transformers**](https://github.com/huggingface/transformers) ⭐ (160k ⭐) — state-of-the-art models.
+* [**LangChain**](https://github.com/langchain-ai/langchain) (136k ⭐) — LLM application framework.
 * [**LlamaIndex**](https://github.com/run-llama/llama_index) (38k ⭐) — LLM data framework.
 * [**Pydantic AI**](https://ai.pydantic.dev/) — type-safe agent framework.
 * [**Instructor**](https://python.useinstructor.com/) ⭐ — structured outputs from LLMs.
-* [**LiteLLM**](https://github.com/BerriAI/litellm) ⭐ (15k ⭐) — unified API for 100+ LLMs.
-* [**Outlines**](https://github.com/outlines-dev/outlines) — guided / structured generation.
-* [**DSPy**](https://github.com/stanfordnlp/dspy) ⭐ (20k ⭐) — programming (not prompting) LLMs.
+* [**LiteLLM**](https://github.com/BerriAI/litellm) ⭐ (46k ⭐) — unified API for 100+ LLMs.
+* [**Outlines**](https://github.com/outlines-dev/outlines) (14k ⭐) — guided / structured generation.
+* [**DSPy**](https://github.com/stanfordnlp/dspy) ⭐ (34k ⭐) — programming (not prompting) LLMs.
 * [**scikit-learn**](https://scikit-learn.org/) — classic ML in Python.
-* [**Ray**](https://github.com/ray-project/ray) — distributed Python; underlies vLLM and many frameworks.
+* [**Ray**](https://github.com/ray-project/ray) (42k ⭐) — distributed Python; underlies vLLM and many frameworks.
 
 ### TypeScript / JavaScript
 
 * [**Vercel AI SDK**](https://sdk.vercel.ai/) ⭐ — React/Next.js AI app SDK.
 * [**LangChain.js**](https://github.com/langchain-ai/langchainjs) — LangChain for JS.
-* [**Mastra**](https://mastra.ai/) 🆕 — TS framework for agents, evals, workflows.
+* [**Mastra**](https://mastra.ai/) 🆕 (24k ⭐) — TS framework for agents, evals, workflows.
 * [**TensorFlow.js**](https://www.tensorflow.org/js) — browser ML.
 
 ### Bot SDKs
 
 * [**Anthropic SDK**](https://github.com/anthropics/anthropic-sdk-python) — official Claude SDK.
-* [**OpenAI SDK**](https://github.com/openai/openai-python) — official OpenAI SDK.
+* [**OpenAI SDK**](https://github.com/openai/openai-python) (31k ⭐) — official OpenAI SDK.
 * [**Discord.py**](https://github.com/Rapptz/discord.py) — Discord bot SDK.
 * [**Slack Bolt**](https://github.com/slackapi/bolt-python) — Slack app framework.
 * [**python-telegram-bot**](https://github.com/python-telegram-bot/python-telegram-bot) — Telegram bot SDK.
@@ -772,7 +772,7 @@ For Sydney, Melbourne, Beijing, Shanghai, Singapore, KL — see [🌍 AI Scene b
 
 ### Robotics frameworks
 
-* [LeRobot (Hugging Face)](https://github.com/huggingface/lerobot) 🆕 — open-source robotics learning.
+* [LeRobot (Hugging Face)](https://github.com/huggingface/lerobot) 🆕 (24k ⭐) — open-source robotics learning.
 * [ROS 2](https://www.ros.org/) — Robot Operating System.
 * [NVIDIA Isaac](https://developer.nvidia.com/isaac) — robotics platform.
 
