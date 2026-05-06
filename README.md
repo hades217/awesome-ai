@@ -5,87 +5,35 @@
 [![Last Commit](https://img.shields.io/github/last-commit/hades217/awesome-ai)](https://github.com/hades217/awesome-ai/commits/master)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-> A community-curated list of artificial intelligence resources for engineers, learners, and career-switchers — covering foundation models, agent frameworks, AI coding tools, courses, companies, jobs, and the Australian AI scene.
+> A community-curated list of artificial intelligence resources — foundation models, agent frameworks, AI coding tools, courses, companies, jobs, and country-specific AI scenes (USA, China, Australia, Malaysia, Singapore).
 
-> **Maintained by Lightman Wang** ([GitHub](https://github.com/hades217) · [LinkedIn](https://www.linkedin.com/in/lightman-wang/)), founder of [**JR Academy**](https://jiangren.com.au) — a project-based AI engineering bootcamp in Australia (P3 model: **P**roject + **P**roduction + **P**lacement). Curating this list since 2017.
+Maintained since 2017 by [Lightman Wang](https://github.com/hades217) ([LinkedIn](https://www.linkedin.com/in/lightman-wang/)).
 
-📩 Contributions welcome — open a PR or email **hello@jiangren.com.au**.
-🇦🇺 Looking to break into AI in Australia? See the [Australia AI Scene](#-australia-ai-scene) section below or check out [JR Academy AI Engineer Bootcamp](https://jiangren.com.au/curriculum/ai-engineer-bootcamp).
+Contributions welcome — open a PR or [start a discussion](https://github.com/hades217/awesome-ai/discussions). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
 ## Contents
 
-1. [🇦🇺 Australia AI Scene](#-australia-ai-scene) — bootcamps, hiring, visas, meetups
-2. [Foundation Models & APIs](#foundation-models--apis) — Claude, GPT, Gemini, Llama, Qwen
-3. [AI Coding Tools](#ai-coding-tools) — Cursor, Claude Code, Copilot, Aider
-4. [Agent Frameworks & MCP](#agent-frameworks--mcp) — LangGraph, CrewAI, Model Context Protocol
-5. [RAG & Vector Databases](#rag--vector-databases) — LangChain, LlamaIndex, Pinecone
-6. [LLM Inference & Hosting](#llm-inference--hosting) — vLLM, Ollama, llama.cpp
-7. [LLM Ops & Observability](#llm-ops--observability) — Helicone, LangSmith, Phoenix
-8. [Fine-Tuning & Training](#fine-tuning--training) — Axolotl, Unsloth, LoRA
+1. [Foundation Models & APIs](#foundation-models--apis) — Claude, GPT, Gemini, Llama, Qwen
+2. [AI Coding Tools](#ai-coding-tools) — Cursor, Claude Code, Copilot, Aider
+3. [Agent Frameworks & MCP](#agent-frameworks--mcp) — LangGraph, CrewAI, Model Context Protocol
+4. [RAG & Vector Databases](#rag--vector-databases) — LangChain, LlamaIndex, Pinecone
+5. [LLM Inference & Hosting](#llm-inference--hosting) — vLLM, Ollama, llama.cpp
+6. [LLM Ops & Observability](#llm-ops--observability) — Helicone, LangSmith, Phoenix
+7. [Fine-Tuning & Training](#fine-tuning--training) — Axolotl, Unsloth, LoRA
+8. [Development Frameworks](#development-frameworks) — PyTorch, JAX, TensorFlow
 9. [Courses & Learning Paths](#courses--learning-paths)
 10. [Books, Papers & Blogs](#books-papers--blogs)
 11. [Companies & Research Labs](#companies--research-labs)
 12. [Personal AI Tools](#personal-ai-tools)
 13. [Specialized AI Tools](#specialized-ai-tools) — Writing, Health, Finance, Travel
-14. [Development Frameworks](#development-frameworks) — PyTorch, JAX, TensorFlow
-15. [News, Newsletters & Podcasts](#news-newsletters--podcasts)
-16. [Events & Conferences](#events--conferences)
-17. [AI Jobs](#ai-jobs)
-18. [AI Communities by City](#ai-communities-by-city)
+14. [News, Newsletters & Podcasts](#news-newsletters--podcasts)
+15. [Events & Conferences](#events--conferences)
+16. [AI Jobs](#ai-jobs)
+17. [AI Communities by City](#ai-communities-by-city)
+18. [🌍 AI Scene by Country](#-ai-scene-by-country) — USA, China, Australia, Malaysia, Singapore
 19. [Contributing](#contributing)
-
----
-
-## 🇦🇺 Australia AI Scene
-
-> Australia-specific AI resources — bootcamps, hiring pathways, visa info, communities. **This section is curated by JR Academy** to help engineers and career-switchers navigate the Australian AI market.
-
-### Bootcamps & Education (AU)
-
-* [**JR Academy AI Engineer Bootcamp**](https://jiangren.com.au/curriculum/ai-engineer-bootcamp) — Project-based 6-month bootcamp covering MCP, RAG, AI Agents, LangChain, and production deployment. P3 model: **P**roject + **P**roduction + **P**lacement, with focus on Australian AI Engineer job market.
-* [JR Academy Web Full-Stack Bootcamp](https://jiangren.com.au/program-course/web-code-bootcamp-or-learn-to-code-1) — Web full-stack project-based bootcamp (Next.js, NestJS, AWS).
-* [University of Sydney — AI & Machine Learning](https://www.sydney.edu.au/engineering/study/areas-of-study/computer-science.html) — academic programs.
-* [UNSW AI Institute](https://www.ai.unsw.edu.au/) — research-led AI education.
-* [University of Melbourne — Artificial Intelligence](https://study.unimelb.edu.au/find/courses/major/artificial-intelligence/) — academic programs.
-
-### AI Hiring (Australia)
-
-* [**JR Academy Career Coaching**](https://jiangren.com.au/career-coaching) — AU-focused AI Engineer job referral and 1-on-1 coaching.
-* [**JR Academy Job Board (中文)**](https://jiangren.com.au/job/) — 澳洲华人找工作 / 工作内推 / AI Engineer 岗位.
-* [JobPin AI](https://www.jobpin.com.au/) — AI-powered job recommendations for Australia.
-* [Atlassian Careers](https://www.atlassian.com/company/careers) — Sydney-based, hiring AI engineers.
-* [Canva Engineering](https://www.canva.com/careers/) — Sydney-based, AI/ML roles.
-* [Australian Government Digital Transformation Agency](https://www.dta.gov.au/) — public sector AI roles.
-* [Built Club AI](https://www.buildclub.ai/) — Sydney AI builders community + jobs.
-
-### Visa Pathways for AI Engineers in Australia
-
-* **482 TSS (Temporary Skill Shortage)** — Software Engineer / ICT roles often qualify; sponsored by employer.
-* **186 ENS (Employer Nomination Scheme)** — permanent residency via employer sponsorship.
-* **189 Skilled Independent** — points-tested PR; tech occupations on MLTSSL.
-* **Global Talent Visa (GTI / Subclass 858)** — for high-achieving AI specialists.
-* See [JR Academy AU IT Visa Guide](https://jiangren.com.au/blog) for current pathways.
-
-### Australian AI Companies & Labs
-
-* [Canva](https://www.canva.com/) — Sydney; Magic Design, AI image gen.
-* [Atlassian](https://www.atlassian.com/) — Sydney; Atlassian Intelligence.
-* [Culture Amp](https://www.cultureamp.com/) — Melbourne; HR AI.
-* [Cochlear](https://www.cochlear.com/) — Sydney; medical AI.
-* [SafetyCulture](https://safetyculture.com/) — Sydney/Townsville; AI for inspections.
-* [Harrison.ai](https://harrison.ai) — Sydney; medical AI.
-* [Leonardo.AI](https://leonardo.ai) — Sydney; image generation platform.
-* [Relevance AI](https://relevanceai.com/) — Sydney; agent platform.
-
-### AI Meetups & Communities (AU)
-
-* [Build Club Sydney](https://www.buildclub.ai/) — community of AI builders.
-* [Chinese AI Association (Sydney)](https://chineseai.org.au/) — AU 华人 AI 社区.
-* [AI Sydney Meetup](https://www.meetup.com/topics/artificial-intelligence/au/sydney/) — regular events.
-* [AI Melbourne Meetup](https://www.meetup.com/topics/artificial-intelligence/au/melbourne/) — regular events.
-* [Brisbane AI](https://jiangren.com.au) — JR Academy Brisbane events and AI community.
 
 ---
 
@@ -124,7 +72,7 @@
 
 ## AI Coding Tools
 
-> Tools that help engineers write, review, and refactor code with AI. **JR Academy** uses these in our [Vibe Coding](https://jiangren.com.au/learn/vibe-coding) curriculum.
+> Tools that help engineers write, review, and refactor code with AI.
 
 * [**Claude Code**](https://www.anthropic.com/claude-code) — Anthropic's CLI for software engineering with Claude.
 * [**Cursor**](https://www.cursor.com/) — AI-first code editor, fork of VS Code.
@@ -166,7 +114,6 @@
 * [**MCP Python SDK**](https://github.com/modelcontextprotocol/python-sdk) — build MCP servers in Python.
 * [**MCP TypeScript SDK**](https://github.com/modelcontextprotocol/typescript-sdk) — build MCP servers in TypeScript.
 * [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) — community MCP server list.
-* [**MCP for AI Engineers (JR Academy)**](https://jiangren.com.au/blog) — JR's MCP tutorials and case studies.
 
 ### Browser & Computer Use
 
@@ -277,10 +224,11 @@
 
 ### Career-focused Bootcamps
 
-* [**JR Academy AI Engineer Bootcamp**](https://jiangren.com.au/curriculum/ai-engineer-bootcamp) — Project-based 6-month bootcamp; AU-focused; P3 model.
-* [**JR Academy Vibe Coding**](https://jiangren.com.au/learn/vibe-coding) — Modern AI-augmented development with Cursor / Claude Code.
 * [Springboard AI/ML Bootcamp](https://www.springboard.com/courses/ai-machine-learning-career-track/) — US-focused.
-* [Lambda School / Bloomtech](https://bloomtech.com/) — US bootcamp.
+* [Bloomtech (formerly Lambda School)](https://bloomtech.com/) — US online bootcamp.
+* [Insight Data Science Fellows](https://insightfellows.com/) — US fellowship for PhDs / postdocs entering industry.
+* [JR Academy AI Engineer Bootcamp](https://jiangren.com.au/curriculum/ai-engineer-bootcamp) — Australia-focused project-based bootcamp.
+* [Recurse Center](https://www.recurse.com/) — self-directed programmer retreat; not AI-only but many alumni go into AI.
 
 ### Specialized Topics
 
@@ -335,7 +283,6 @@
 * [Anthropic Research](https://www.anthropic.com/research) — Claude/safety research.
 * [OpenAI Research](https://openai.com/research/) — OpenAI papers and announcements.
 * [Google Research Blog](https://research.google/blog/) — Google AI research.
-* [JR Academy Blog](https://jiangren.com.au/blog) — AI engineering tutorials and AU career insights.
 
 ### Reading Lists
 
@@ -590,21 +537,19 @@
 * [**Hugging Face Events**](https://huggingface.co/events) — community events.
 * [**AI Sydney / AI Melbourne meetups**](https://www.meetup.com/topics/artificial-intelligence/au/) — Australia community events.
 * [**Build Club Sydney events**](https://www.buildclub.ai/) — AU AI builders.
-* [**JR Academy events**](https://jiangren.com.au/events) — Brisbane / Sydney AI workshops and lectures.
 
 ---
 
 ## AI Jobs
 
-* [**JR Academy Career Coaching**](https://jiangren.com.au/career-coaching) — AU AI Engineer placement.
-* [**JR Academy Job Board (中文)**](https://jiangren.com.au/job/) — 澳洲华人 AI 求职.
-* [**JobPin**](https://www.jobpin.com.au/) — AI-powered job recommendations (AU).
 * [Moai Jobs](https://www.moaijobs.com/) — top AI company jobs.
 * [AI Jobster](https://aijobster.work/) — remote AI jobs.
 * [Hugging Face Jobs](https://huggingface.co/jobs) — open-source AI roles.
 * [LinkedIn AI Engineer search](https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer) — global AI jobs.
 * [WhoIsHiring (HN)](https://hnhiring.com/) — Hacker News hiring threads.
 * [Cracked Engineers](https://www.crackedengineers.com/) — hand-picked tech jobs.
+* [Built In](https://builtin.com/jobs) — US tech jobs by city.
+* For region-specific jobs, see the [🌍 AI Scene by Country](#-ai-scene-by-country) section.
 
 ---
 
@@ -612,10 +557,10 @@
 
 ### Australia 🇦🇺
 
-* [**Brisbane**](https://jiangren.com.au) — JR Academy AI community and events.
-* [**Sydney (Build Club)**](https://www.buildclub.ai/) — AI builders community.
-* [**Sydney (Chinese AI Association)**](https://chineseai.org.au/) — 华人 AI 社区.
-* **Melbourne** — AI Melbourne Meetup.
+* [Sydney — Build Club](https://www.buildclub.ai/) — AI builders community.
+* [Sydney — Chinese AI Association](https://chineseai.org.au/) — 华人 AI 社区.
+* [Melbourne AI Meetup](https://www.meetup.com/topics/artificial-intelligence/au/melbourne/) — regular events.
+* See the dedicated [🇦🇺 Australia AI Scene](#-australia-ai-scene) section for more AU resources.
 
 ### North America
 
@@ -633,6 +578,143 @@
 
 * [**Hong Kong**](http://hkg.ai/).
 * **Beijing / Shanghai / Shenzhen / Singapore** — local AI communities.
+
+---
+
+## 🌍 AI Scene by Country
+
+> Country-specific resources — universities, companies, bootcamps, hiring, visa info, and communities. Contributions from people on the ground welcome — please open a PR for your country.
+
+### 🇺🇸 USA
+
+**Universities & Research**
+* [Stanford AI Lab (SAIL)](https://ai.stanford.edu/) — academic AI research.
+* [MIT CSAIL](https://www.csail.mit.edu/) — Computer Science and AI Lab.
+* [Carnegie Mellon LTI / MLD](https://www.cmu.edu/ai/) — Language Technologies / Machine Learning departments.
+* [UC Berkeley BAIR](https://bair.berkeley.edu/) — Berkeley AI Research.
+* [Princeton NLP / Vision](https://nlp.princeton.edu/) — academic groups.
+
+**Bootcamps & Career Programs**
+* [Springboard AI/ML Career Track](https://www.springboard.com/courses/ai-machine-learning-career-track/) — online AI bootcamp.
+* [Bloomtech (formerly Lambda School)](https://bloomtech.com/) — online tech bootcamp.
+* [Insight Data Science Fellows](https://insightfellows.com/) — fellowship for PhDs entering industry.
+* [Recurse Center](https://www.recurse.com/) — self-directed programmer retreat (NYC).
+* [Fellowship at Anthropic](https://www.anthropic.com/careers) — Anthropic's research fellowship.
+
+**Hiring**
+* [levels.fyi](https://www.levels.fyi/) — comp data for US tech roles.
+* [Built In](https://builtin.com/jobs) — US tech jobs by city.
+
+### 🇨🇳 China
+
+**大学与研究院**
+* [清华大学 THUNLP / AI Institute](https://nlp.csai.tsinghua.edu.cn/) — 清华 AI / NLP 研究.
+* [北京大学 — 王选计算机研究所](https://www.icst.pku.edu.cn/) — 北大 AI 研究.
+* [上海交大 — 人工智能研究院](https://ai.sjtu.edu.cn/) — 上交 AI 研究.
+* [北京智源人工智能研究院 (BAAI)](https://www.baai.ac.cn/) — 智源研究院.
+* [上海人工智能实验室 (Shanghai AI Lab)](https://www.shlab.org.cn/) — 公共大模型研究.
+* [香港中文大学 MMLab](http://mmlab.ie.cuhk.edu.hk/) — 港中文 多媒体实验室.
+
+**公司 & 大模型**
+* [DeepSeek](https://www.deepseek.com/) — 深度求索, 开源前沿大模型.
+* [通义千问 (Qwen, Alibaba)](https://qwenlm.github.io/) — 阿里通义.
+* [豆包大模型 (ByteDance)](https://www.doubao.com/) — 字节豆包.
+* [智谱 AI (ChatGLM)](https://www.zhipuai.cn/) — 清华系大模型.
+* [MiniMax](https://www.minimaxi.com/) — abab 系列大模型.
+* [Moonshot AI (Kimi)](https://kimi.moonshot.cn/) — 月之暗面 Kimi.
+* [百度文心 (ERNIE)](https://yiyan.baidu.com/) — 文心一言.
+* [腾讯混元](https://hunyuan.tencent.com/) — 混元大模型.
+* [百川智能 (Baichuan)](https://www.baichuan-ai.com/) — 百川大模型.
+* [01.AI (Yi)](https://www.lingyiwanwu.com/) — 零一万物 Yi 系列.
+
+**学习平台 & 资讯**
+* [极客时间](https://time.geekbang.org/) — 程序员付费课程.
+* [慕课网 / 网易云课堂](https://www.imooc.com/) — 综合在线课程.
+* [量子位 (QbitAI)](https://www.qbitai.com/) — AI 资讯媒体.
+* [机器之心 (Synced)](https://www.jiqizhixin.com/) — AI 研究资讯.
+* [PaperWeekly](https://www.paperweekly.site/) — 论文阅读社区.
+* [Datawhale](https://www.datawhale.cn/) — 开源 AI 学习社区.
+
+### 🇦🇺 Australia
+
+**Universities & Education**
+* [University of Sydney — AI & ML](https://www.sydney.edu.au/engineering/study/areas-of-study/computer-science.html) — academic programs.
+* [UNSW AI Institute](https://www.ai.unsw.edu.au/) — research-led AI education.
+* [University of Melbourne — AI](https://study.unimelb.edu.au/find/courses/major/artificial-intelligence/) — academic programs.
+* [Monash University — Data Science & AI](https://www.monash.edu/it/study) — academic programs.
+* [JR Academy](https://jiangren.com.au) — project-based AI engineering bootcamp; AU job-market focused.
+
+**Hiring**
+* [Atlassian Careers](https://www.atlassian.com/company/careers) — Sydney-based, hiring AI engineers.
+* [Canva Engineering](https://www.canva.com/careers/) — Sydney-based, AI/ML roles.
+* [Australian Government Digital Transformation Agency](https://www.dta.gov.au/) — public sector AI roles.
+* [Build Club AI](https://www.buildclub.ai/) — Sydney AI builders community + jobs.
+* [JobPin AI](https://www.jobpin.com.au/) — AI-powered job recommendations for Australia.
+* [JR Academy Career Coaching](https://jiangren.com.au/career-coaching) — AU AI Engineer placement and coaching.
+
+**Visa Pathways for AI Engineers**
+* **482 TSS** — employer-sponsored temporary skilled visa.
+* **186 ENS** — employer-sponsored permanent residency.
+* **189 Skilled Independent** — points-tested PR; tech occupations on MLTSSL.
+* **Global Talent Visa (GTI / Subclass 858)** — for high-achieving AI specialists.
+
+**Companies & Labs**
+* [Canva](https://www.canva.com/) — Sydney; Magic Design, AI image gen.
+* [Atlassian](https://www.atlassian.com/) — Sydney; Atlassian Intelligence.
+* [Culture Amp](https://www.cultureamp.com/) — Melbourne; HR AI.
+* [Cochlear](https://www.cochlear.com/) — Sydney; medical AI.
+* [SafetyCulture](https://safetyculture.com/) — Sydney/Townsville; AI for inspections.
+* [Harrison.ai](https://harrison.ai) — Sydney; medical AI.
+* [Leonardo.AI](https://leonardo.ai) — Sydney; image generation.
+* [Relevance AI](https://relevanceai.com/) — Sydney; agent platform.
+
+**Meetups & Communities**
+* [Build Club Sydney](https://www.buildclub.ai/) — community of AI builders.
+* [Chinese AI Association (Sydney)](https://chineseai.org.au/) — AU 华人 AI 社区.
+* [AI Sydney Meetup](https://www.meetup.com/topics/artificial-intelligence/au/sydney/) — regular events.
+* [AI Melbourne Meetup](https://www.meetup.com/topics/artificial-intelligence/au/melbourne/) — regular events.
+
+### 🇲🇾 Malaysia
+
+**Universities**
+* [University of Malaya (UM) — AI & Robotics](https://www.um.edu.my/) — flagship public university.
+* [Universiti Sains Malaysia (USM) — School of Computer Sciences](https://cs.usm.my/) — AI / ML programs.
+* [Multimedia University (MMU)](https://www.mmu.edu.my/) — Cyberjaya tech university.
+* [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/) — engineering & AI research.
+* [Asia Pacific University (APU)](https://www.apu.edu.my/) — data science & AI programs.
+
+**Companies & Hiring (KL / Cyberjaya)**
+* [Grab](https://grab.careers/) — Southeast Asia super-app; ML roles in KL.
+* [iPay88](https://www.ipay88.com/) — fintech with AI applications.
+* [Carsome](https://www.carsome.my/) — used-car platform with AI pricing.
+* [Aerodyne](https://www.aerodyne.group/) — drone AI; HQ Cyberjaya.
+* [WORQ](https://worq.space/) — coworking + tech community.
+* [Hiredly](https://www.hiredly.com/) — Malaysia tech jobs platform.
+
+**Communities**
+* [AI Malaysia Meetup](https://www.meetup.com/topics/artificial-intelligence/my/) — local meetups.
+* [Google Developer Groups KL](https://gdg.community.dev/gdg-cloud-kuala-lumpur/) — including AI/ML events.
+* [PyData KL](https://www.meetup.com/PyData-KL/) — Python + data community.
+
+### 🇸🇬 Singapore
+
+**Universities & Research**
+* [National University of Singapore (NUS) — AI](https://www.comp.nus.edu.sg/) — top SEA CS school.
+* [Nanyang Technological University (NTU) — College of Computing](https://www.ntu.edu.sg/computing) — AI / ML labs.
+* [Singapore Management University (SMU) — School of Computing](https://scis.smu.edu.sg/) — applied AI.
+* [A*STAR Institute for Infocomm Research (I²R)](https://www.a-star.edu.sg/i2r) — government AI research.
+
+**Government & Initiatives**
+* [AI Singapore](https://aisingapore.org/) — national AI program (AI Apprenticeship, AI Trailblazer).
+* [SGTech](https://www.sgtech.org.sg/) — Singapore tech industry association.
+
+**Companies & Hiring**
+* [Sea / Shopee / Garena](https://career.sea.com/) — Sea Group, large AI/ML team.
+* [Grab AI Center](https://grab.careers/) — Singapore HQ.
+* [GovTech Singapore](https://www.tech.gov.sg/careers/) — public-sector AI.
+* [Tech in Asia Jobs](https://www.techinasia.com/jobs) — SEA tech jobs.
+
+> Adding a country? Open a PR. Helpful info: top universities, AI companies, hiring resources, communities, and (if relevant) visa pathways.
 
 ---
 
@@ -656,8 +738,3 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for full guidelines.
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [JR Academy](https://jiangren.com.au) and [JR Talent](https://jrtalent.com.au) have waived all copyright and related or neighboring rights to this work.
-
----
-
-> 🇦🇺 **Are you trying to break into AI in Australia?**
-> Check out [**JR Academy AI Engineer Bootcamp**](https://jiangren.com.au/curriculum/ai-engineer-bootcamp) — project-based 6-month program with the P3 model (Project + Production + Placement) and a focus on Australian job market.
