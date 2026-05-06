@@ -327,11 +327,29 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 ### Career-focused Bootcamps
 
-* [Springboard AI/ML Career Track](https://www.springboard.com/courses/ai-machine-learning-career-track/) — US-focused online bootcamp.
+* [Springboard AI/ML Career Track](https://www.springboard.com/courses/ai-machine-learning-career-track/) — US-focused online bootcamp with mentor.
 * [Bloomtech (formerly Lambda School)](https://bloomtech.com/) — US online bootcamp.
 * [Insight Data Science Fellows](https://insightfellows.com/) — fellowship for PhDs entering industry.
-* [JR Academy AI Engineer Bootcamp](https://jiangren.com.au/curriculum/ai-engineer-bootcamp) 🇦🇺 — Australia-focused project-based bootcamp.
+* [Maven AI Engineering Cohorts](https://maven.com/topics/artificial-intelligence) — cohort-based courses by industry experts.
+* [Zero to Mastery — AI/ML Career Path](https://zerotomastery.io/career-paths/) — online ML bootcamp.
+* [General Assembly Data Science Immersive](https://generalassemb.ly/) — full-time bootcamp, multiple cities.
+* [JR Academy AI Engineer Bootcamp](https://jiangren.com.au/curriculum/ai-engineer-bootcamp) — project-based 6-month bootcamp covering MCP, RAG, agents, deployment.
+* [JR Academy Vibe Coding](https://jiangren.com.au/learn/vibe-coding) — modern AI-augmented development with Cursor / Claude Code.
+* [JR Academy Web Full-Stack Bootcamp](https://jiangren.com.au/program-course/web-code-bootcamp-or-learn-to-code-1) — Next.js / NestJS / AWS project bootcamp.
 * [Recurse Center](https://www.recurse.com/) — self-directed programmer retreat (NYC).
+
+### AI Engineer Specialization (Free Learning Hubs)
+
+> Self-directed learning paths specifically for the AI Engineer role.
+
+* [AI Engineer Roadmap (roadmap.sh)](https://roadmap.sh/ai-engineer) — community-curated step-by-step roadmap.
+* [AI Engineer Reading List (Latent Space)](https://www.latent.space/p/2025-papers) — Swyx's annual must-read papers.
+* [Generative AI Handbook (Will Brown)](https://genai-handbook.github.io/) — practical handbook.
+* [Build LLM-Powered Apps (Hamel Husain)](https://hamel.dev/) — practical writing on LLM eval and ops.
+* [Deep Learning AI — AI Engineering Specialization](https://www.deeplearning.ai/courses/) — Andrew Ng's structured paths.
+* [JR Academy AI Engineer Hub](https://jiangren.com.au/learn/ai-engineer) — free chapter-based learning path: MCP, RAG, agents, deployment, with hands-on labs.
+* [JR Academy Prompt Master Hub](https://jiangren.com.au/learn/prompt-master) — free prompt engineering chapter-based hub.
+* [Awesome AI Engineer (community list)](https://github.com/dair-ai/Mathematics-for-ML) — math foundations.
 
 ### Specialized Topics
 
@@ -686,7 +704,7 @@ For Sydney, Melbourne, Beijing, Shanghai, Singapore, KL — see [🌍 AI Scene b
 * [UNSW AI Institute](https://www.ai.unsw.edu.au/) — research-led AI education.
 * [University of Melbourne — AI](https://study.unimelb.edu.au/find/courses/major/artificial-intelligence/) — academic programs.
 * [Monash University — Data Science & AI](https://www.monash.edu/it/study) — academic programs.
-* [JR Academy](https://jiangren.com.au) — project-based AI engineering bootcamp; AU job-market focused.
+* [JR Academy](https://jiangren.com.au) — project-based AI engineering bootcamp; global cohorts with HQ in Australia.
 
 **Hiring**
 * [Atlassian Careers](https://www.atlassian.com/company/careers) — Sydney-based, hiring AI engineers.
@@ -694,7 +712,7 @@ For Sydney, Melbourne, Beijing, Shanghai, Singapore, KL — see [🌍 AI Scene b
 * [Australian Government Digital Transformation Agency](https://www.dta.gov.au/) — public sector AI.
 * [Build Club AI](https://www.buildclub.ai/) — Sydney AI builders community + jobs.
 * [JobPin AI](https://www.jobpin.com.au/) — AI-powered job recommendations for Australia.
-* [JR Academy Career Coaching](https://jiangren.com.au/career-coaching) — AU AI Engineer placement.
+* [JR Academy Career Coaching](https://jiangren.com.au/career-coaching) — AI Engineer career coaching and placement.
 
 **Visa Pathways for AI Engineers**
 * **482 TSS** — employer-sponsored temporary skilled visa.
