@@ -5,6 +5,8 @@
 [![Last Commit](https://img.shields.io/github/last-commit/hades217/awesome-ai)](https://github.com/hades217/awesome-ai/commits/master)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+**🌐 Language**: [English](README.md)（current） · [简体中文](README.zh.md)
+
 > A community-curated list of artificial intelligence resources — foundation models, agent frameworks, AI coding tools, courses, companies, jobs, and country-specific AI scenes (USA, China, Australia, Malaysia, Singapore).
 
 Maintained since 2017 by [Lightman Wang](https://github.com/hades217) ([LinkedIn](https://www.linkedin.com/in/lightman-wang/)).
