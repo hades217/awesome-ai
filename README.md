@@ -121,6 +121,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**v0 (Vercel)**](https://v0.dev/) — AI UI generator with React/Next.js output.
 * [**Lovable**](https://lovable.dev/) — AI app builder.
 * [**Replit Agent**](https://replit.com/) — AI app generation in Replit.
+* [**Deepnote**](https://deepnote.com/) — AI-first Jupyter alternative with native data integrations and a built-in agent.
 
 ---
 
@@ -502,6 +503,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**HeyGen**](https://www.heygen.com/) — AI avatars and translation.
 * [**Synthesia**](https://www.synthesia.io/) — AI video for enterprise.
 * [**Descript**](https://www.descript.com/) — edit audio/video like a doc.
+* [**SummaryTube**](https://summarytube.com) — AI summaries, key moments, and transcripts for YouTube videos.
 * [**ElevenLabs**](https://elevenlabs.io/) ⭐ — voice cloning and synthesis.
 * [**Cartesia Sonic**](https://www.cartesia.ai/) 🆕 — sub-100ms voice for real-time agents.
 * [**Hume EVI**](https://www.hume.ai/) — emotion-aware voice AI.
