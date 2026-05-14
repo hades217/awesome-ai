@@ -498,6 +498,7 @@
 * [**可灵 (Kling)**](https://klingai.com/) 🇨🇳 — 快手图像 + 视频。
 * [**Canva Magic Studio**](https://www.canva.com/magic-studio/)
 * [**Figma AI / Make**](https://www.figma.com/ai/)
+* [**LandscapioAI**](https://www.landscapioai.com/) — 从院子照片生成 AI 景观设计。
 
 ### 视频与音频
 
