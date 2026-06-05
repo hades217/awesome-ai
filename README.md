@@ -568,6 +568,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 * [Bloomberg GPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/) — finance-specific LLM.
 * [Hebbia](https://www.hebbia.com/) — AI for financial analysts.
+* [AI for Database](https://aifordatabase.com) — Connect to any database and query it in plain English. No SQL needed — agentic AI for database insights, self-refreshing dashboards, and automated workflows.
 
 ### Legal
 
