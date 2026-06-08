@@ -548,6 +548,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Hume EVI**](https://www.hume.ai/) — emotion-aware voice AI.
 * [**Suno v4**](https://www.suno.ai/) — music generation.
 * [**Udio**](https://www.udio.com/) — music generation.
+* [**cv.cm/v**](https://cv.cm/v) — queue-free Seedance 2.0 text/image-to-video, plus AI image gen and an open API.
 
 ### Writing & Content
 
