@@ -159,6 +159,8 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) ⭐ (86k ⭐) — community MCP server list.
 * [**FastMCP**](https://github.com/jlowin/fastmcp) (25k ⭐) — Pythonic MCP server framework.
 
+* [**TWZRD Agent Intel**](https://intel.twzrd.xyz) — On-chain trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments — domain-specific MCP server for Solana agent identity. `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ### Browser & Computer Use 🆕
 
 * [**Anthropic Computer Use**](https://www.anthropic.com/news/3-5-models-and-computer-use) ⭐ — Claude controls your computer.
