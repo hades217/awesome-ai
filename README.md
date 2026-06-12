@@ -557,6 +557,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Grammarly](https://www.grammarly.com/) — AI writing assistant.
 * [Sudowrite](https://www.sudowrite.com/) — AI for fiction writers.
 * [Lex](https://lex.page/) — AI writing app for thinkers.
+* [CreatorSkills](https://creatorskills.co) — Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ### Health / Medical
 
