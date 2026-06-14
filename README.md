@@ -239,6 +239,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**OpenLIT**](https://openlit.io/) — OpenTelemetry-native LLM observability.
 * [**Opik (Comet)**](https://github.com/comet-ml/opik) 🆕 — open-source LLM eval + tracing.
 * [**Inspect AI**](https://inspect.aisi.org.uk/) 🆕 — UK AISI's agent eval framework.
+* [**Future AGI**](https://github.com/future-agi/future-agi) 🆕 — open-source platform for agent simulation, evaluating, tracing, guarding, and auto-improving AI agents.
 
 ---
 
