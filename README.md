@@ -530,6 +530,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Canva Magic Studio**](https://www.canva.com/magic-studio/) — AI design tools.
 * [**Figma AI / Make**](https://www.figma.com/ai/) — AI in Figma.
 * [**Photoshop Firefly**](https://www.adobe.com/products/photoshop/ai.html) — Adobe's generative fill.
+* [**Seedream AI Studio**](https://seedream4.video) 🆕 — Seedream 5.0/4.5/4.0 image generation (ByteDance) with one-click Kling 2.1 video animation. Free tier.
 
 ### Video & Audio
 
