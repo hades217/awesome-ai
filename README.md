@@ -494,6 +494,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Reclaim.ai](https://reclaim.ai/) — calendar AI scheduling.
 * [Motion](https://www.usemotion.com/) — AI task and calendar planner.
 * [Mem](https://get.mem.ai/) — AI-organized note-taking.
+* [Remio](https://remio.ai/) — Local-first AI memory and knowledge base desktop app that indexes files, webpages, recordings, emails, messages, images, and notes for fast personal and agent context retrieval.
 * [Sunsama](https://www.sunsama.com/) — daily planner with AI.
 * [Clay](https://clay.com/) — AI-powered CRM and outreach.
 
