@@ -468,6 +468,7 @@
 * [钉钉 AI 助理](https://www.dingtalk.com/) 🇨🇳 — 钉钉 Office AI。
 * [Reclaim.ai](https://reclaim.ai/) — 日历 AI 安排。
 * [Motion](https://www.usemotion.com/) — AI 任务 + 日历。
+* [Remio](https://remio.ai/) — 本地优先的 AI 记忆与知识库桌面应用，可索引文件、网页、录音、邮件、消息、图片和笔记，帮助用户和 Agent 快速检索个人上下文。
 
 ### 虚拟办公 / 远程协作
 
