@@ -30,7 +30,7 @@
 | 📚 **RAG 起步** | [pgvector](https://github.com/pgvector/pgvector)（原型）· [Qdrant](https://qdrant.tech/)（自部署生产）· [Pinecone](https://www.pinecone.io/)（托管） |
 | ⚡ **推理 / 部署** | [Ollama](https://ollama.com/)（本地）· [vLLM](https://github.com/vllm-project/vllm)（生产）· [SGLang](https://github.com/sgl-project/sglang)（结构化输出最快） |
 | 🎓 **免费课** | [Karpathy 神经网络从零到一](https://karpathy.ai/zero-to-hero.html) · [HuggingFace Agents 课程](https://huggingface.co/learn/agents-course) |
-| 🇨🇳 **中文学习平台** | [极客时间](https://time.geekbang.org/) · [慕课网](https://www.imooc.com/) · [Datawhale](https://www.datawhale.cn/)（开源社区） |
+| 🇨🇳 **中文学习平台** | [极客时间](https://time.geekbang.org/) · [慕课网](https://www.imooc.com/) · [Datawhale](https://www.datawhale.cn/)（开源社区） · [AI全书](https://aibook.ren/)（中文 AI 系统学习知识库） |
 | 📰 **必关注资讯** | [量子位 QbitAI](https://www.qbitai.com/) · [机器之心 Synced](https://www.jiqizhixin.com/) · [PaperWeekly](https://www.paperweekly.site/) |
 | 📺 **B 站 UP（中文 AI）** | [跟李沐学AI](https://space.bilibili.com/1567748478) · [王树森](https://space.bilibili.com/1369507485) · [沈向洋](https://space.bilibili.com/3494360438008678) · [林亦LYi](https://space.bilibili.com/19957558) |
 | 📖 **必看书** | *[AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)*（Chip Huyen）· *[从零构建大模型](https://www.manning.com/books/build-a-large-language-model-from-scratch)*（Sebastian Raschka）|
