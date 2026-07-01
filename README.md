@@ -158,6 +158,12 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**MCP TypeScript SDK**](https://github.com/modelcontextprotocol/typescript-sdk) (12k ⭐) — build MCP servers in TS.
 * [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) ⭐ (86k ⭐) — community MCP server list.
 * [**FastMCP**](https://github.com/jlowin/fastmcp) (25k ⭐) — Pythonic MCP server framework.
+* [**Unity-MCP**](https://github.com/IvanMurzak/Unity-MCP) — open-source MCP server connecting AI agents to the Unity Editor and runtime; 100+ built-in tools.
+* [**Godot-MCP**](https://github.com/IvanMurzak/Godot-MCP) — open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).
+* [**Unreal-MCP**](https://github.com/IvanMurzak/Unreal-MCP) — open-source MCP server connecting AI agents to Unreal Engine 5.7 editor and runtime (C++/.NET).
+* [**GameDev-MCP-Server**](https://github.com/IvanMurzak/GameDev-MCP-Server) — engine-agnostic MCP server shared by Unity-MCP, Godot-MCP, and Unreal-MCP.
+* [**MCP-Plugin-dotnet**](https://github.com/IvanMurzak/MCP-Plugin-dotnet) — .NET library/SDK that turns any .NET application into an MCP server.
+* [**ReflectorNet**](https://github.com/IvanMurzak/ReflectorNet) — .NET reflection toolkit: AI-driven method invocation, JSON schema generation.
 
 ### Browser & Computer Use 🆕
 
