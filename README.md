@@ -149,6 +149,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Bedrock AgentCore**](https://aws.amazon.com/bedrock/agentcore/) 🆕 — AWS managed agent runtime.
 * [**Letta (formerly MemGPT)**](https://github.com/letta-ai/letta) (22k ⭐) — agents with persistent memory.
 * [**Inspect AI (UK AISI)**](https://inspect.aisi.org.uk/) — agent eval framework from UK AI Safety Institute.
+* [**Open Agent Relay**](https://github.com/ShakespeareLabs/open-agent-relay) — expose local agents as LAN-callable capabilities without moving code or credentials.
 
 ### Model Context Protocol (MCP) 🔥
 
