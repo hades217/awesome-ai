@@ -128,6 +128,7 @@
 * [**v0 (Vercel)**](https://v0.dev/) — AI UI 生成（输出 React/Next.js）。
 * [**Lovable**](https://lovable.dev/) — AI 应用搭建。
 * [**Devin (Cognition)**](https://devin.ai/) — 自主 SWE Agent（付费托管）。
+* [Tura](https://github.com/Tura-AI/tura) — 本地开源编程 Agent，提供 CLI、TUI、GUI、验证流程与公开基准测试。
 
 ---
 
