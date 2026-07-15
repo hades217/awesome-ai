@@ -545,6 +545,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Synthesia**](https://www.synthesia.io/) — AI video for enterprise.
 * [**Descript**](https://www.descript.com/) — edit audio/video like a doc.
 * [**SummaryTube**](https://summarytube.com) — AI summaries, key moments, and transcripts for YouTube videos.
+* [**VideoOverlayKit**](https://github.com/alichherawalla/video-overlay-kit) — renders 4-6s animated b-roll overlay mp4s for short-form social (LinkedIn / IG Reels / YouTube Shorts / TikTok). AI-driven via MCP: paste your script into Claude Code / Cursor / Codex, the model writes the scene spec and renders the mp4. Remotion + Tabler + Lottie. Free, MIT, local.
 * [**ElevenLabs**](https://elevenlabs.io/) ⭐ — voice cloning and synthesis.
 * [**Cartesia Sonic**](https://www.cartesia.ai/) 🆕 — sub-100ms voice for real-time agents.
 * [**Hume EVI**](https://www.hume.ai/) — emotion-aware voice AI.
