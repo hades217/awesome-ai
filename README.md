@@ -212,6 +212,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 * [**Ollama**](https://ollama.com/) ⭐ (171k ⭐) — run LLMs locally with one command.
 * [**LM Studio**](https://lmstudio.ai/) — desktop GUI for local LLMs.
+* [**Off Grid AI Desktop**](https://getoffgridai.co/desktop) — open-source (AGPL) macOS desktop app for fully offline local LLM chat, image generation, and dictation.
 * [**llama.cpp**](https://github.com/ggerganov/llama.cpp) ⭐ (108k ⭐) — efficient LLM inference in C++.
 * [**vLLM**](https://github.com/vllm-project/vllm) ⭐ (79k ⭐) — high-throughput LLM serving for production.
 * [**SGLang**](https://github.com/sgl-project/sglang) 🆕 (27k ⭐) — fast structured-output inference engine.
