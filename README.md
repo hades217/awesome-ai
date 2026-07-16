@@ -551,6 +551,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Hume EVI**](https://www.hume.ai/) — emotion-aware voice AI.
 * [**Suno v4**](https://www.suno.ai/) — music generation.
 * [**Udio**](https://www.udio.com/) — music generation.
+* [**Toggle Studio**](https://toggle.town/studio) — AI mixing and mastering for vocal and beat tracks, credit-based pricing.
 
 ### Writing & Content
 
