@@ -149,6 +149,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Bedrock AgentCore**](https://aws.amazon.com/bedrock/agentcore/) 🆕 — AWS managed agent runtime.
 * [**Letta (formerly MemGPT)**](https://github.com/letta-ai/letta) (22k ⭐) — agents with persistent memory.
 * [**Inspect AI (UK AISI)**](https://inspect.aisi.org.uk/) — agent eval framework from UK AI Safety Institute.
+* [**Heym**](https://heym.run/) — visual agent workflows with RAG, MCP, approvals, evals, and traces.
 
 ### Model Context Protocol (MCP) 🔥
 
