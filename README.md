@@ -158,6 +158,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**MCP TypeScript SDK**](https://github.com/modelcontextprotocol/typescript-sdk) (12k ⭐) — build MCP servers in TS.
 * [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) ⭐ (86k ⭐) — community MCP server list.
 * [**FastMCP**](https://github.com/jlowin/fastmcp) (25k ⭐) — Pythonic MCP server framework.
+* [**NotFair**](https://github.com/nowork-studio/NotFair) (2.9k ⭐) — open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 ### Browser & Computer Use 🆕
 
