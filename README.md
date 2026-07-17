@@ -126,7 +126,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Lovable**](https://lovable.dev/) — AI app builder.
 * [**Replit Agent**](https://replit.com/) — AI app generation in Replit.
 * [**Deepnote**](https://deepnote.com/) — AI-first Jupyter alternative with native data integrations and a built-in agent.
-* [Tura](https://github.com/Tura-AI/tura) — Local open-source coding agent with CLI, TUI, GUI, verification, and public benchmarks.
+* [Tura](https://github.com/Tura-AI/tura) — Local, open-source coding agent that understands a repository before changing it.
 
 ---
 
