@@ -464,6 +464,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Cognition](https://www.cognition.ai/) — Devin SWE agent.
 * [Scale AI](https://scale.com/) — data labeling and infrastructure.
 * [DataRobot](https://www.datarobot.com/) — enterprise ML platform.
+* [Hellomatik](https://hellomatik.com) — customer support, sales and booking agents across WhatsApp, email and web.
 
 ### AI Consulting & Implementation
 
