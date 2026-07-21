@@ -206,6 +206,7 @@
 * [**Together AI**](https://www.together.ai/) ⭐ — 开源模型托管 API。
 * [**Groq**](https://groq.com/) ⭐ — LPU 极速推理。
 * [**Cerebras Inference**](https://inference.cerebras.ai/) 🆕 — Wafer-scale 极速推理。
+* [**AI Router**](https://ai-router.dev/cn/) — 面向开发者与 Coding Agent 工作流的独立 OpenAI 兼容 API 中转服务。
 * [**Modal**](https://modal.com/) — 无服务器 GPU。
 * [**腾讯云 TI-ONE**](https://cloud.tencent.com/product/tione) 🇨🇳 — 腾讯云 AI 训练推理平台。
 * [**阿里云 PAI**](https://www.aliyun.com/product/bigdata/learn) 🇨🇳 — 阿里云 AI 平台。
