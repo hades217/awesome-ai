@@ -551,6 +551,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Hume EVI**](https://www.hume.ai/) — emotion-aware voice AI.
 * [**Suno v4**](https://www.suno.ai/) — music generation.
 * [**Udio**](https://www.udio.com/) — music generation.
+* [Video Upscaler](https://videoupscaler.video) — browser-based AI video upscaling and enhancement.
 
 ### Writing & Content
 
