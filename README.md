@@ -586,6 +586,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 * [Khan Academy Khanmigo](https://www.khanmigo.ai/) ⭐ — AI tutor for students.
 * [CodeKidz](https://codekidz.ai) — AI-powered programming learning for kids.
+* [Vedic Astrology Chart](https://vedicastrologychart.net) — generates Vedic birth charts with chart interpretations.
 
 ### Career & Resume
 
