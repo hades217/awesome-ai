@@ -241,6 +241,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**OpenLIT**](https://openlit.io/) — OpenTelemetry-native LLM observability.
 * [**Opik (Comet)**](https://github.com/comet-ml/opik) 🆕 — open-source LLM eval + tracing.
 * [**Inspect AI**](https://inspect.aisi.org.uk/) 🆕 — UK AISI's agent eval framework.
+* [**StructEval**](https://github.com/TIGER-AI-Lab/StructEval) — TMLR 2025 benchmark for LLM structural-output generation across 18 text and renderable formats.
 
 ---
 
