@@ -526,6 +526,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Stable Diffusion (local)**](https://stability.ai/) — open-source image gen.
 * [**Flux 1.1 Pro / Kontext**](https://blackforestlabs.ai/) ⭐ — best-in-class open image gen + editing.
 * [**Recraft V3**](https://www.recraft.ai/) 🆕 — design-grade image generation.
+* [**GPT Image 2**](https://gptimage2.asia/) — AI image generator and editor for marketing visuals.
 * [**Ideogram 2.0**](https://ideogram.ai/) — image generation with great text rendering.
 * [**Leonardo.AI**](https://leonardo.ai/) 🇦🇺 — Sydney-based image generation.
 * [**Krea**](https://www.krea.ai/) — real-time AI canvas.
