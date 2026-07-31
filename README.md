@@ -149,6 +149,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Bedrock AgentCore**](https://aws.amazon.com/bedrock/agentcore/) 🆕 — AWS managed agent runtime.
 * [**Letta (formerly MemGPT)**](https://github.com/letta-ai/letta) (22k ⭐) — agents with persistent memory.
 * [**Inspect AI (UK AISI)**](https://inspect.aisi.org.uk/) — agent eval framework from UK AI Safety Institute.
+* [**Hivekeep**](https://github.com/MarlBurroW/hivekeep) — self-hosted platform to run a team of AI agents with persistent memory, web UI, and chat channels.
 
 ### Model Context Protocol (MCP) 🔥
 
