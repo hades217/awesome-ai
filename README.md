@@ -487,6 +487,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Grok**](https://grok.com/) — xAI's assistant with X integration.
 * [**You.com**](https://you.com/) — AI search and chat.
 * [**Pi (Inflection)**](https://pi.ai/) — empathetic personal AI.
+- [Pixel Pet](https://letmethink.cc/app/pixel-pet/) - Turn a personality description into a deterministic ASCII pixel companion in the browser.
 
 ### Productivity AI
 
