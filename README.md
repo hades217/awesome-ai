@@ -621,6 +621,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**The TWIML AI Podcast**](https://twimlai.com/podcast/twimlai/) — This Week in ML & AI.
 * [**Practical AI**](https://changelog.com/practicalai) — applied AI for engineers.
 * [**Machine Learning Street Talk**](https://www.youtube.com/@MachineLearningStreetTalk) — academic ML discussions.
+* [**Chain of Thought**](https://chainofthought.show/) — AI infrastructure and developer tools, hosted by Conor Bronsdon.
 
 ### News Sites
 
