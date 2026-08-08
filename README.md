@@ -541,6 +541,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Pika 2.0**](https://pika.art/) — text-to-video.
 * [**Hailuo 02 (MiniMax)**](https://hailuoai.video/) 🇨🇳 — strong video gen.
 * [**Kling AI**](https://klingai.com/) 🇨🇳 — Kuaishou's video gen.
+* [**Vivideo**](https://vivideo.ai) — text-to-video and image-to-video across multiple models, with synced audio.
 * [**HeyGen**](https://www.heygen.com/) — AI avatars and translation.
 * [**Synthesia**](https://www.synthesia.io/) — AI video for enterprise.
 * [**Descript**](https://www.descript.com/) — edit audio/video like a doc.
