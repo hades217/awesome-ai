@@ -109,6 +109,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 * [**Claude Code**](https://www.anthropic.com/claude-code) ⭐ 🔥 — Anthropic's CLI for software engineering with Claude. Most-used CLI agent in 2026.
 * [**Cursor**](https://www.cursor.com/) ⭐ 🔥 — AI-first code editor; fork of VS Code.
+* [**Agent Island**](https://github.com/tristan666666/agent-island) — Free, MIT status companion for Claude Code, Codex, Antigravity, Grok and Cursor. Live session state and your-turn alerts in the menu bar, with quota and cost computed locally. macOS and Windows.
 * [**Codex CLI (OpenAI)**](https://github.com/openai/codex) 🆕 (80k ⭐) — OpenAI's open-source CLI coding agent.
 * [**GitHub Copilot**](https://github.com/features/copilot) — original AI pair programmer; now agent + Workspace + Spark.
 * [**Windsurf**](https://codeium.com/windsurf) — Codeium's AI editor (acquired by Cognition).
