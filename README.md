@@ -560,6 +560,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Grammarly](https://www.grammarly.com/) — AI writing assistant.
 * [Sudowrite](https://www.sudowrite.com/) — AI for fiction writers.
 * [Lex](https://lex.page/) — AI writing app for thinkers.
+* [Mydentify AI Watermark Checker](https://mydentify.com/tools/ai-watermark-detector) — inspects text for hidden Unicode characters.
 
 ### Health / Medical
 
