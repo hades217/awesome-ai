@@ -226,6 +226,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**RunPod**](https://www.runpod.io/) — GPU cloud for AI.
 * [**Lambda Cloud**](https://lambdalabs.com/) — GPU cloud focused on AI.
 * [**Cerebras Inference**](https://inference.cerebras.ai/) 🆕 — wafer-scale fastest inference.
+* [SandBase CLI](https://www.sandbase.ai) — CLI and MCP bridge for AI models and APIs, with multimodal generation and sandbox workflows.
 
 ---
 
