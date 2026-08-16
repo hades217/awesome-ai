@@ -167,6 +167,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Skyvern**](https://github.com/Skyvern-AI/skyvern) (22k ⭐) — automate browser workflows with vision LLMs.
 * [**Playwright MCP**](https://github.com/microsoft/playwright-mcp) (32k ⭐) — Playwright as an MCP server.
 * [**Stagehand (Browserbase)**](https://github.com/browserbase/stagehand) (22k ⭐) — Playwright + AI for reliable agents.
+* [Agent QA](https://github.com/vostride/agent-qa) — source-available QA agent for natural-language web and mobile tests.
 
 ---
 

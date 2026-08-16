@@ -163,6 +163,7 @@
 * [**Browser Use**](https://github.com/browser-use/browser-use) (92k ⭐) — Agent 浏览器自动化。
 * [**Skyvern**](https://github.com/Skyvern-AI/skyvern) (22k ⭐) — 视觉 LLM 浏览器自动化。
 * [**Stagehand (Browserbase)**](https://github.com/browserbase/stagehand) (22k ⭐) — Playwright + AI 可靠 Agent。
+* [Agent QA](https://github.com/vostride/agent-qa) — 源码可用的 QA Agent，用自然语言执行 Web 与移动端测试。
 
 ---
 
