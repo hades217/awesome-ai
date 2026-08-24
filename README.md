@@ -226,6 +226,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**RunPod**](https://www.runpod.io/) — GPU cloud for AI.
 * [**Lambda Cloud**](https://lambdalabs.com/) — GPU cloud focused on AI.
 * [**Cerebras Inference**](https://inference.cerebras.ai/) 🆕 — wafer-scale fastest inference.
+* [**Bifrost**](https://github.com/maximhq/bifrost) — self-hosted LLM gateway for multi-provider routing, load balancing, and fallbacks.
 
 ---
 
