@@ -110,6 +110,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Claude Code**](https://www.anthropic.com/claude-code) ⭐ 🔥 — Anthropic's CLI for software engineering with Claude. Most-used CLI agent in 2026.
 * [**Cursor**](https://www.cursor.com/) ⭐ 🔥 — AI-first code editor; fork of VS Code.
 * [**Codex CLI (OpenAI)**](https://github.com/openai/codex) 🆕 (80k ⭐) — OpenAI's open-source CLI coding agent.
+* [**Codex Quota Overlay**](https://github.com/cpys/codex-quota-overlay) — Windows overlay for Codex quota, reset countdown, pace, and forecast.
 * [**GitHub Copilot**](https://github.com/features/copilot) — original AI pair programmer; now agent + Workspace + Spark.
 * [**Windsurf**](https://codeium.com/windsurf) — Codeium's AI editor (acquired by Cognition).
 * [**Aider**](https://aider.chat/) (44k ⭐) — open-source AI pair programmer in your terminal.
