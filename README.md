@@ -328,6 +328,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**LLM Bootcamp (Full Stack DL)**](https://fullstackdeeplearning.com/llm-bootcamp/) — practical LLM app dev.
 * [**Generative AI for Everyone**](https://www.deeplearning.ai/courses/generative-ai-for-everyone/) — *Andrew Ng* — non-technical intro.
 * [**CS336: Language Modeling from Scratch**](https://stanford-cs336.github.io/) — *Stanford* — build a real LLM.
+* [**AILesson**](https://ailesson.io/) — short interactive AI courses for beginners and practical learners.
 
 ### Career-focused Bootcamps
 
