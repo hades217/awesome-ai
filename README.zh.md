@@ -285,6 +285,7 @@
 * [**LangChain Academy**](https://academy.langchain.com/) — LangChain / LangGraph 课。
 * [**CS336: 从零搭语言模型**](https://stanford-cs336.github.io/) — *Stanford*。
 * [**3Blue1Brown 神经网络**](https://www.3blue1brown.com/topics/neural-networks) — 视觉直觉。
+* [**AI 小课**](https://ailesson.io/zh) — 面向初学者的短篇互动 AI 课程与实用练习。
 
 ### 中文学习平台 🇨🇳
 
