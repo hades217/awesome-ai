@@ -366,6 +366,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Made With ML](https://madewithml.com/) — production ML foundations.
 * [AI Engineer Roadmap](https://roadmap.sh/ai-engineer) — community-curated path.
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops) — production ML resources.
+* [Zero to AI-Native](https://www.zerotoainative.xyz/) — open-source curriculum of primary-source AI reads, sequenced across eight modules.
 
 ---
 
