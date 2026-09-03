@@ -644,6 +644,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**OpenAI DevDay**](https://devday.openai.com/) — OpenAI developer event.
 * [**Hugging Face Events**](https://huggingface.co/events) — community events.
 * [**Build Club Sydney**](https://www.buildclub.ai/) 🇦🇺 — AU AI builders.
+* [**AI Talks**](https://aietalks.com/) — searchable summaries of AI Engineer talks by topic and event.
 
 ---
 
