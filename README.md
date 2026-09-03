@@ -591,6 +591,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 * [Teal](https://www.tealhq.com/) — AI resume builder + job tracker.
 * [Rezi](https://www.rezi.ai/) — AI resume builder optimized for ATS.
+* [ResumeAI](https://withresumeai.com/) — Free ATS checker (3/day anonymous, 10/day free account) + AI resume builder; State of ATS 2026 (738/704 portal-verified; Workday 37.9%).
 * [ResumeWorded](https://resumeworded.com/) — AI resume + LinkedIn profile feedback.
 * [Kickresume](https://www.kickresume.com/) — AI resume and cover letter builder.
 * [JobPin AI](https://jobpin.ai/) — AI resume editing, ATS optimization, and job matching.
