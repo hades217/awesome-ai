@@ -498,6 +498,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Mem](https://get.mem.ai/) — AI-organized note-taking.
 * [Sunsama](https://www.sunsama.com/) — daily planner with AI.
 * [Clay](https://clay.com/) — AI-powered CRM and outreach.
+* [ExtraBrain](https://extrabrain.app) — macOS copilot for live interviews and meetings with screen context and live transcription.
 
 ### Virtual Office & Remote Collaboration
 
