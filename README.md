@@ -612,6 +612,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Ben's Bites**](https://www.bensbites.com/) — daily AI news for non-technical readers.
 * [**One Useful Thing (Ethan Mollick)**](https://www.oneusefulthing.org/) — practical AI essays.
 * [**Interconnects (Nathan Lambert)**](https://www.interconnects.ai/) — open-source AI commentary.
+* [**AI Weekly**](https://aiweekly.co) — Ranked digest of what influential AI experts read and share.
 
 ### Podcasts
 
