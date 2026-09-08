@@ -560,6 +560,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Grammarly](https://www.grammarly.com/) — AI writing assistant.
 * [Sudowrite](https://www.sudowrite.com/) — AI for fiction writers.
 * [Lex](https://lex.page/) — AI writing app for thinkers.
+* [AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer) — Open-source local-first desktop workspace for planning, drafting, reviewing, and revising novels.
 
 ### Health / Medical
 
