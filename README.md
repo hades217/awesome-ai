@@ -652,6 +652,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 ## 💼 AI Jobs
 
 * [Moai Jobs](https://www.moaijobs.com/) — top AI company jobs.
+* [PhiloBot](https://viggisfoodtrucks.com) — public intake for humans who told an assistant to find/apply them to AI research, alignment, safety, or lab roles (agent-POST via /apply.json).
 * [AI Jobster](https://aijobster.work/) — remote AI jobs.
 * [Hugging Face Jobs](https://huggingface.co/jobs) — open-source AI roles.
 * [LinkedIn AI Engineer search](https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer) — global AI jobs.
