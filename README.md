@@ -354,6 +354,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [JR Academy AI Engineer Hub](https://jiangren.com.au/learn/ai-engineer) — free chapter-based learning path: MCP, RAG, agents, deployment, with hands-on labs.
 * [JR Academy Prompt Master Hub](https://jiangren.com.au/learn/prompt-master) — free prompt engineering chapter-based hub.
 * [Awesome AI Engineer (community list)](https://github.com/dair-ai/Mathematics-for-ML) — math foundations.
+* [AI Knowledge Map](https://ai-knowledge-map.com/?lang=en) — bilingual map connecting 130 AI concepts in a nine-stage learning path.
 
 ### Specialized Topics
 
