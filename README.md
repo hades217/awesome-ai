@@ -551,6 +551,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Hume EVI**](https://www.hume.ai/) — emotion-aware voice AI.
 * [**Suno v4**](https://www.suno.ai/) — music generation.
 * [**Udio**](https://www.udio.com/) — music generation.
+* [Magic Hour](https://magichour.ai/) — Creates and edits AI video, images, and audio; offers a public generation API.
 
 ### Writing & Content
 
