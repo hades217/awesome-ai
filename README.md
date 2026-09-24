@@ -596,6 +596,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Kickresume](https://www.kickresume.com/) — AI resume and cover letter builder.
 * [JobPin AI](https://jobpin.ai/) — AI resume editing, ATS optimization, and job matching.
 * [Final Round AI](https://www.finalroundai.com/) — AI interview copilot.
+* [OffLadder](https://offladder.com) — Career exploration with real-world experiments.
 
 ---
 
