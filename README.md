@@ -576,6 +576,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 * [Harvey AI](https://www.harvey.ai/) — legal AI.
 * [Spellbook](https://www.spellbook.legal/) — contract review AI.
+* [Court Rules](https://www.courtrules.app/) — free U.S. court rules, judge orders and holidays, with an MCP server.
 
 ### Travel
 
