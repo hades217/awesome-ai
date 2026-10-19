@@ -333,7 +333,6 @@
 * [JR Academy Prompt Lab](https://jracademy.ai/learn/prompt-lab) — 学习中心内的任务式 Prompt 工程练习，可能需要登录。
 * [JR Academy Prompt 模板库](https://jracademy.ai/tools/prompt-templates) — 产品、技术与增长场景模板，完整模板需注册查看。
 
-
 ### 学习路线图
 
 * [JR Academy 技术路线图](https://jracademy.ai/roadmaps) — 前端、后端、数据与 DevOps 的系统学习路径。
@@ -760,6 +759,10 @@
 **资讯**
 * 量子位 / 机器之心 / PaperWeekly / 新智元
 
+**社区**
+
+* [匠人成都 AI圈](https://jracademy.ai/ai-circle/city/chengdu/) — 本地 AI 社区活动与报名入口。
+
 ### 🇺🇸 美国
 
 **大学与研究**
@@ -774,6 +777,13 @@
 * [Bloomtech](https://bloomtech.com/)
 * [Insight Data Science Fellows](https://insightfellows.com/)
 * [Recurse Center](https://www.recurse.com/) — NYC 自驱学习营。
+
+**社区**
+
+* [匠人洛杉矶 AI圈](https://jracademy.ai/ai-circle/city/los-angeles/) — 筹备中（Coming Soon），城市社区页面。
+* [匠人纽约 AI圈](https://jracademy.ai/ai-circle/city/new-york/) — 筹备中（Coming Soon），城市社区页面。
+* [匠人西雅图 AI圈](https://jracademy.ai/ai-circle/city/seattle/) — 筹备中（Coming Soon），城市社区页面。
+* [匠人旧金山 AI圈](https://jracademy.ai/ai-circle/city/san-francisco/) — 筹备中（Coming Soon），城市社区页面。
 
 ### 🇦🇺 澳洲
 
@@ -796,6 +806,12 @@
 * **GTI 全球人才签 (858)** — 给高成就 AI 专家。
 
 **社区**
+
+* [匠人悉尼 AI圈](https://jracademy.ai/ai-circle/city/sydney/) — 本地 AI 社区活动与报名入口。
+* [匠人墨尔本 AI圈](https://jracademy.ai/ai-circle/city/melbourne/) — 本地 AI 社区活动与报名入口。
+* [匠人布里斯班 AI圈](https://jracademy.ai/ai-circle/city/brisbane/) — 本地 AI 社区活动与报名入口。
+* [匠人珀斯 AI圈](https://jracademy.ai/ai-circle/city/perth/) — 本地 AI 社区活动与报名入口。
+* [匠人阿德莱德 AI圈](https://jracademy.ai/ai-circle/city/adelaide/) — 本地 AI 社区活动与报名入口。
 * [Build Club Sydney](https://www.buildclub.ai/) — AI 开发者社区。
 * [Chinese AI Association (Sydney)](https://chineseai.org.au/) — 澳洲华人 AI。
 
@@ -811,6 +827,10 @@
 * [Carsome](https://www.carsome.my/) — 二手车 AI。
 * [Aerodyne](https://www.aerodyne.group/) — 无人机 AI。
 
+**社区**
+
+* [匠人吉隆坡 AI圈](https://jracademy.ai/ai-circle/city/kuala-lumpur/) — 本地 AI 社区活动与报名入口。
+
 ### 🇸🇬 新加坡
 
 **大学**
@@ -825,6 +845,16 @@
 * [Sea / Shopee / Garena](https://career.sea.com/)
 * [Grab AI Center](https://grab.careers/)
 * [GovTech Singapore](https://www.tech.gov.sg/careers/)
+
+**社区**
+
+* [匠人新加坡 AI圈](https://jracademy.ai/ai-circle/city/singapore/) — 本地 AI 社区活动与报名入口。
+
+### 🇬🇧 英国
+
+**社区**
+
+* [匠人伦敦 AI圈](https://jracademy.ai/ai-circle/city/london/) — 筹备中（Coming Soon），城市社区页面。
 
 > 加新国家？提 PR。需要：大学、AI 公司、招聘资源、社区、（如适用）签证路径。
 

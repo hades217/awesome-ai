@@ -58,7 +58,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 15. [🎤 Events & Conferences](#-events--conferences)
 16. [💼 AI Jobs](#-ai-jobs)
 17. [🌐 AI Communities by City](#-ai-communities-by-city)
-18. [🌍 AI Scene by Country](#-ai-scene-by-country) — USA, China, Australia, Malaysia, Singapore
+18. [🌍 AI Scene by Country](#-ai-scene-by-country) — USA, China, Australia, Malaysia, Singapore, UK
 19. [🤖 Robotics & Embodied AI](#-robotics--embodied-ai)
 20. [Contributing](#contributing)
 
@@ -374,7 +374,6 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 * [JR Academy Prompt Lab](https://jracademy.ai/learn/prompt-lab) — task-based prompt engineering exercises in the Study Center; sign-in may be required.
 * [JR Academy Prompt Templates](https://jracademy.ai/tools/prompt-templates) — templates for product, engineering and growth tasks; full templates require registration.
-
 
 ### Learning Roadmaps
 
@@ -735,7 +734,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Amsterdam AI](http://amsterdam.ai/) — Amsterdam community.
 * [Hong Kong AI](http://hkg.ai/) — HK community.
 
-For Sydney, Melbourne, Beijing, Shanghai, Singapore, KL — see [🌍 AI Scene by Country](#-ai-scene-by-country).
+For JR Academy AI Circle city pages in Australia, Singapore, Malaysia, China, the USA and the UK, see [🌍 AI Scene by Country](#-ai-scene-by-country).
 
 ---
 
@@ -762,6 +761,13 @@ For Sydney, Melbourne, Beijing, Shanghai, Singapore, KL — see [🌍 AI Scene b
 **Hiring & Comp**
 * [levels.fyi](https://www.levels.fyi/) — comp data for US tech roles.
 * [Built In](https://builtin.com/jobs) — US tech jobs by city.
+
+**Communities**
+
+* [JR Academy Los Angeles AI Circle](https://jracademy.ai/ai-circle/city/los-angeles/) — coming soon; city community page.
+* [JR Academy New York AI Circle](https://jracademy.ai/ai-circle/city/new-york/) — coming soon; city community page.
+* [JR Academy Seattle AI Circle](https://jracademy.ai/ai-circle/city/seattle/) — coming soon; city community page.
+* [JR Academy San Francisco AI Circle](https://jracademy.ai/ai-circle/city/san-francisco/) — coming soon; city community page.
 
 ### 🇨🇳 China
 
@@ -792,6 +798,10 @@ For Sydney, Melbourne, Beijing, Shanghai, Singapore, KL — see [🌍 AI Scene b
 * [机器之心 (Synced)](https://www.jiqizhixin.com/) — AI 研究资讯.
 * [PaperWeekly](https://www.paperweekly.site/) — 论文阅读社区.
 * [Datawhale](https://www.datawhale.cn/) — 开源 AI 学习社区.
+
+**Communities**
+
+* [JR Academy Chengdu AI Circle](https://jracademy.ai/ai-circle/city/chengdu/) — local AI community events and registration.
 
 ### 🇦🇺 Australia
 
@@ -827,6 +837,12 @@ For Sydney, Melbourne, Beijing, Shanghai, Singapore, KL — see [🌍 AI Scene b
 * [Relevance AI](https://relevanceai.com/) — Sydney; agent platform.
 
 **Meetups & Communities**
+
+* [JR Academy Sydney AI Circle](https://jracademy.ai/ai-circle/city/sydney/) — local AI community events and registration.
+* [JR Academy Melbourne AI Circle](https://jracademy.ai/ai-circle/city/melbourne/) — local AI community events and registration.
+* [JR Academy Brisbane AI Circle](https://jracademy.ai/ai-circle/city/brisbane/) — local AI community events and registration.
+* [JR Academy Perth AI Circle](https://jracademy.ai/ai-circle/city/perth/) — local AI community events and registration.
+* [JR Academy Adelaide AI Circle](https://jracademy.ai/ai-circle/city/adelaide/) — local AI community events and registration.
 * [Build Club Sydney](https://www.buildclub.ai/) — community of AI builders.
 * [Chinese AI Association (Sydney)](https://chineseai.org.au/) — AU 华人 AI 社区.
 * [AI Sydney Meetup](https://www.meetup.com/topics/artificial-intelligence/au/sydney/) — regular events.
@@ -849,6 +865,8 @@ For Sydney, Melbourne, Beijing, Shanghai, Singapore, KL — see [🌍 AI Scene b
 * [Hiredly](https://www.hiredly.com/) — Malaysia tech jobs platform.
 
 **Communities**
+
+* [JR Academy Kuala Lumpur AI Circle](https://jracademy.ai/ai-circle/city/kuala-lumpur/) — local AI community events and registration.
 * [AI Malaysia Meetup](https://www.meetup.com/topics/artificial-intelligence/my/) — local meetups.
 * [Google Developer Groups KL](https://gdg.community.dev/gdg-cloud-kuala-lumpur/) — including AI/ML events.
 * [PyData KL](https://www.meetup.com/PyData-KL/) — Python + data community.
@@ -870,6 +888,16 @@ For Sydney, Melbourne, Beijing, Shanghai, Singapore, KL — see [🌍 AI Scene b
 * [Grab AI Center](https://grab.careers/) — Singapore HQ.
 * [GovTech Singapore](https://www.tech.gov.sg/careers/) — public-sector AI.
 * [Tech in Asia Jobs](https://www.techinasia.com/jobs) — SEA tech jobs.
+
+**Communities**
+
+* [JR Academy Singapore AI Circle](https://jracademy.ai/ai-circle/city/singapore/) — local AI community events and registration.
+
+### 🇬🇧 United Kingdom
+
+**Communities**
+
+* [JR Academy London AI Circle](https://jracademy.ai/ai-circle/city/london/) — coming soon; city community page.
 
 > Adding a country? Open a PR. Helpful info: top universities, AI companies, hiring resources, communities, and (if relevant) visa pathways.
 
