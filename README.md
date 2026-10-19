@@ -337,9 +337,9 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Maven AI Engineering Cohorts](https://maven.com/topics/artificial-intelligence) — cohort-based courses by industry experts.
 * [Zero to Mastery — AI/ML Career Path](https://zerotomastery.io/career-paths/) — online ML bootcamp.
 * [General Assembly Data Science Immersive](https://generalassemb.ly/) — full-time bootcamp, multiple cities.
-* [JR Academy AI Engineer Bootcamp](https://jiangren.com.au/curriculum/ai-engineer-bootcamp) — project-based 6-month bootcamp covering MCP, RAG, agents, deployment.
-* [JR Academy Vibe Coding](https://jiangren.com.au/learn/vibe-coding) — modern AI-augmented development with Cursor / Claude Code.
-* [JR Academy Web Full-Stack Bootcamp](https://jiangren.com.au/program-course/web-code-bootcamp-or-learn-to-code-1) — Next.js / NestJS / AWS project bootcamp.
+* [JR Academy AI Engineer Bootcamp](https://jracademy.ai/curriculum/ai-engineer-bootcamp) — project-based 6-month bootcamp covering MCP, RAG, agents, deployment.
+* [JR Academy Vibe Coding](https://jracademy.ai/learn/vibe-coding) — modern AI-augmented development with Cursor / Claude Code.
+* [JR Academy Web Full-Stack Bootcamp](https://jracademy.ai/program-course/web-code-bootcamp-or-learn-to-code-1) — Next.js / NestJS / AWS project bootcamp.
 * [Recurse Center](https://www.recurse.com/) — self-directed programmer retreat (NYC).
 
 ### AI Engineer Specialization (Free Learning Hubs)
@@ -351,8 +351,8 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Generative AI Handbook (Will Brown)](https://genai-handbook.github.io/) — practical handbook.
 * [Build LLM-Powered Apps (Hamel Husain)](https://hamel.dev/) — practical writing on LLM eval and ops.
 * [Deep Learning AI — AI Engineering Specialization](https://www.deeplearning.ai/courses/) — Andrew Ng's structured paths.
-* [JR Academy AI Engineer Hub](https://jiangren.com.au/learn/ai-engineer) — free chapter-based learning path: MCP, RAG, agents, deployment, with hands-on labs.
-* [JR Academy Prompt Master Hub](https://jiangren.com.au/learn/prompt-master) — free prompt engineering chapter-based hub.
+* [JR Academy AI Engineer Hub](https://jracademy.ai/learn/ai-engineer) — free chapter-based learning path: MCP, RAG, agents, deployment, with hands-on labs.
+* [JR Academy Prompt Master Hub](https://jracademy.ai/learn/prompt-master) — free prompt engineering chapter-based hub.
 * [Awesome AI Engineer (community list)](https://github.com/dair-ai/Mathematics-for-ML) — math foundations.
 
 ### Specialized Topics
@@ -646,6 +646,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Hugging Face Events**](https://huggingface.co/events) — community events.
 * [**Build Club Sydney**](https://www.buildclub.ai/) 🇦🇺 — AU AI builders.
 * [**AI Talks**](https://aietalks.com/) — searchable summaries of AI Engineer talks by topic and event.
+* [JR Academy AI Circle](https://jracademy.ai/ai-circle/) — city-based AI community events and registration.
 
 ---
 
@@ -737,7 +738,7 @@ For Sydney, Melbourne, Beijing, Shanghai, Singapore, KL — see [🌍 AI Scene b
 * [UNSW AI Institute](https://www.ai.unsw.edu.au/) — research-led AI education.
 * [University of Melbourne — AI](https://study.unimelb.edu.au/find/courses/major/artificial-intelligence/) — academic programs.
 * [Monash University — Data Science & AI](https://www.monash.edu/it/study) — academic programs.
-* [JR Academy](https://jiangren.com.au) — project-based AI engineering bootcamp; global cohorts with HQ in Australia.
+* [JR Academy](https://jracademy.ai) — project-based AI engineering bootcamp; global cohorts with HQ in Australia.
 
 **Hiring**
 * [Atlassian Careers](https://www.atlassian.com/company/careers) — Sydney-based, hiring AI engineers.
@@ -745,7 +746,7 @@ For Sydney, Melbourne, Beijing, Shanghai, Singapore, KL — see [🌍 AI Scene b
 * [Australian Government Digital Transformation Agency](https://www.dta.gov.au/) — public sector AI.
 * [Build Club AI](https://www.buildclub.ai/) — Sydney AI builders community + jobs.
 * [JobPin AI](https://jobpin.ai/) — AI-powered resume editing, ATS optimization, and job matching.
-* [JR Academy Career Coaching](https://jiangren.com.au/career-coaching) — AI Engineer career coaching and placement.
+* [JR Academy Career Coaching](https://jracademy.ai/career-coaching) — AI Engineer career coaching and placement.
 
 **Visa Pathways for AI Engineers**
 * **482 TSS** — employer-sponsored temporary skilled visa.
@@ -835,7 +836,7 @@ For Sydney, Melbourne, Beijing, Shanghai, Singapore, KL — see [🌍 AI Scene b
 
 ## Contributing
 
-Open a pull request or email **hello@jiangren.com.au**.
+Open a pull request or email **hello@jracademy.ai**.
 
 **Quick rules**:
 * Add resources still active and useful (we periodically prune dead links).
@@ -851,4 +852,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for full guidelines and [CODE_OF_CONDUC
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [JR Academy](https://jiangren.com.au) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [JR Academy](https://jracademy.ai) has waived all copyright and related or neighboring rights to this work.

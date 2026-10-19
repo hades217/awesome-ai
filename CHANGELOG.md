@@ -4,6 +4,16 @@ All notable changes to this list are documented here.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [Unreleased]
+
+### Added
+
+- JR Academy AI Circle events and registration link in both English and Chinese READMEs.
+
+### Changed
+
+- Standardized JR Academy website links and contact-domain references to `jracademy.ai` throughout the repository.
+
 ## [v2026.05.06] — 2026-05-06
 
 ### Massive 2026 refresh — modern AI ecosystem
@@ -37,8 +47,8 @@ After 8 years of incremental updates, the list got a comprehensive refresh to co
 #### Fixed
 
 - Typo "JR Acacademy" → "JR Academy" in license
-- Wrong domain `jracademy.com.au` → `jiangren.com.au` in Brisbane entry
-- Maintainer email updated from personal to `hello@jiangren.com.au`
+- Wrong domain `jracademy.com.au` → `jracademy.ai` in Brisbane entry
+- Maintainer email updated from personal to `hello@jracademy.ai`
 - Many obviously dead 2017-era links removed (api.ai, Mimetic, Vesper, SkipFlag, etc)
 
 ### Added: Maintenance infrastructure

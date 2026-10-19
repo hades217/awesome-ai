@@ -71,7 +71,7 @@ We aim to review PRs within **7 days**. If yours has been pending longer, feel f
 
 ## Recognition
 
-All contributors are listed in [CONTRIBUTORS.md](CONTRIBUTORS.md). Top contributors are featured in our annual "Awesome AI Year in Review" post on [JR Academy Blog](https://jiangren.com.au/blog).
+All contributors are listed in [CONTRIBUTORS.md](CONTRIBUTORS.md). Top contributors are featured in our annual "Awesome AI Year in Review" post on [JR Academy Blog](https://jracademy.ai/blog).
 
 If you've made a substantial contribution (a new section / 10+ entries / major reorganization), feel free to add yourself to the [Maintainers](#maintainers) section.
 
@@ -81,6 +81,6 @@ If you've made a substantial contribution (a new section / 10+ entries / major r
 
 - Open a [Discussion](https://github.com/hades217/awesome-ai/discussions) for general questions
 - Open an [Issue](https://github.com/hades217/awesome-ai/issues/new/choose) for specific problems
-- Email [hello@jiangren.com.au](mailto:hello@jiangren.com.au) for anything else
+- Email [hello@jracademy.ai](mailto:hello@jracademy.ai) for anything else
 
 Thank you for keeping this list awesome! 🌟

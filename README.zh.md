@@ -302,8 +302,8 @@
 * [Maven AI Engineering 系列](https://maven.com/topics/artificial-intelligence) — 业内专家小班课。
 * [Bloomtech](https://bloomtech.com/) — 美国线上培训营。
 * [Insight Data Science Fellows](https://insightfellows.com/) — 博士转工业界 fellowship。
-* [JR Academy AI Engineer Bootcamp](https://jiangren.com.au/curriculum/ai-engineer-bootcamp) — 项目制 6 个月训练营，覆盖 MCP / RAG / Agent / 部署。
-* [JR Academy Vibe Coding](https://jiangren.com.au/learn/vibe-coding) — 现代 AI 增强开发（Cursor / Claude Code）。
+* [JR Academy AI Engineer Bootcamp](https://jracademy.ai/curriculum/ai-engineer-bootcamp) — 项目制 6 个月训练营，覆盖 MCP / RAG / Agent / 部署。
+* [JR Academy Vibe Coding](https://jracademy.ai/learn/vibe-coding) — 现代 AI 增强开发（Cursor / Claude Code）。
 * [Recurse Center](https://www.recurse.com/) — 自驱学习营（NYC）。
 
 ### AI 工程师专项学习路径（免费 hub）
@@ -315,8 +315,8 @@
 * [Generative AI Handbook (Will Brown)](https://genai-handbook.github.io/) — 实战手册。
 * [Hamel Husain 博客](https://hamel.dev/) — LLM eval / ops 实战。
 * [DeepLearning.AI AI Engineering 专项](https://www.deeplearning.ai/courses/) — 吴恩达系结构化课程。
-* [JR Academy AI Engineer Hub](https://jiangren.com.au/learn/ai-engineer) — 免费章节式学习路径，含 MCP / RAG / Agent / 部署 + 实战 lab。
-* [JR Academy Prompt Master Hub](https://jiangren.com.au/learn/prompt-master) — 免费 Prompt 工程章节式 hub。
+* [JR Academy AI Engineer Hub](https://jracademy.ai/learn/ai-engineer) — 免费章节式学习路径，含 MCP / RAG / Agent / 部署 + 实战 lab。
+* [JR Academy Prompt Master Hub](https://jracademy.ai/learn/prompt-master) — 免费 Prompt 工程章节式 hub。
 
 ---
 
@@ -634,6 +634,7 @@
 * [**Anthropic Builder Summit**](https://www.anthropic.com/events) — Anthropic 开发者活动。
 * [**OpenAI DevDay**](https://devday.openai.com/) — OpenAI 开发者日。
 * [**HuggingFace Events**](https://huggingface.co/events) — 社区活动。
+* [JR Academy AI圈](https://jracademy.ai/ai-circle/) — 城市 AI 社区活动与报名。
 
 ### 国内会议 🇨🇳
 
@@ -718,12 +719,12 @@
 * [UNSW AI Institute](https://www.ai.unsw.edu.au/)
 * [Melbourne Uni AI](https://study.unimelb.edu.au/find/courses/major/artificial-intelligence/)
 * [Monash University Data Science & AI](https://www.monash.edu/it/study)
-* [JR Academy](https://jiangren.com.au) — 项目制 AI 工程实战训练营，全球招生（澳洲总部）。
+* [JR Academy](https://jracademy.ai) — 项目制 AI 工程实战训练营，全球招生（澳洲总部）。
 
 **招聘**
 * [Atlassian Careers](https://www.atlassian.com/company/careers) — 悉尼 AI 工程师。
 * [Canva Engineering](https://www.canva.com/careers/) — 悉尼 AI/ML。
-* [JR Academy Career Coaching](https://jiangren.com.au/career-coaching) — AI 工程师就业辅导。
+* [JR Academy Career Coaching](https://jracademy.ai/career-coaching) — AI 工程师就业辅导。
 
 **澳洲签证（IT/AI 工程师）**
 * **482 TSS** — 雇主担保临时技术签。
@@ -783,7 +784,7 @@
 
 ## 贡献
 
-提 PR 或邮件 **hello@jiangren.com.au**。
+提 PR 或邮件 **hello@jracademy.ai**。
 
 **简要规则**：
 * 加资源时确认仍在维护、有用（我们会定期清理死链）。
@@ -799,4 +800,4 @@
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-In so far as the law allows, [JR Academy](https://jiangren.com.au) waives all copyright and related rights to this work.
+In so far as the law allows, [JR Academy](https://jracademy.ai) waives all copyright and related rights to this work.

@@ -201,7 +201,7 @@ Thanks for considering a contribution! 🎉
 
 ## Recognition
 
-All contributors get listed in [CONTRIBUTORS.md](./CONTRIBUTORS.md) and we feature top contributors in our annual "Awesome AI Year in Review" post on [JR Academy Blog](https://jiangren.com.au/blog).
+All contributors get listed in [CONTRIBUTORS.md](./CONTRIBUTORS.md) and we feature top contributors in our annual "Awesome AI Year in Review" post on [JR Academy Blog](https://jracademy.ai/blog).
 ```
 
 ---
@@ -306,7 +306,7 @@ push 完上面这个 README 后：
 
 1. ✅ 在 GitHub repo Settings → 加 topics（见打法 2）
 2. ✅ 改 repo description 为新版："Curated AI resources for engineers and career-switchers — foundation models, agents, AI coding tools, RAG, courses, AU AI scene. Maintained by JR Academy."
-3. ✅ 改 repo website 为 https://jiangren.com.au
+3. ✅ 改 repo website 为 https://jracademy.ai
 4. ✅ 写一条 GitHub Release v2026.05.06：列出本次大改动
 5. ✅ Pin 这个 repo 到 hades217 GitHub profile
 6. ✅ 更新 jr-academy-ai/.claude/skills/blog-longform-writer/references/geo-northstar.md，把 awesome-ai 加进 GEO 资产清单
