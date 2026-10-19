@@ -358,6 +358,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [JR Academy Prompt Master Hub](https://jracademy.ai/learn/prompt-master) — free prompt engineering chapter-based hub.
 * [JR Academy Vibe Coding](https://jracademy.ai/learn/vibe-coding) — modern AI-augmented development with Cursor / Claude Code.
 * [Awesome AI Engineer (community list)](https://github.com/dair-ai/Mathematics-for-ML) — math foundations.
+* [AI Knowledge Map](https://ai-knowledge-map.com/?lang=en) — bilingual map connecting 130 AI concepts in a nine-stage learning path.
 
 ### Specialized Topics
 
