@@ -232,6 +232,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Cerebras Inference**](https://inference.cerebras.ai/) 🆕 — wafer-scale fastest inference.
 
 ---
+* [**APIClaw**](https://apiclaw.biz) - Flat-rate OpenAI-compatible AI API gateway for Claude, GPT, Kimi, Qwen, DeepSeek, and GLM; plans from $19/mo with a 50-request free trial.
 
 ## 📊 LLM Ops & Observability
 
