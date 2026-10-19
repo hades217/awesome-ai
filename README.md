@@ -588,6 +588,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Grammarly](https://www.grammarly.com/) — AI writing assistant.
 * [Sudowrite](https://www.sudowrite.com/) — AI for fiction writers.
 * [Lex](https://lex.page/) — AI writing app for thinkers.
+* [ImagineYourBook](https://www.imagineyourbook.com/) — Plans and drafts full manuscripts with series story bibles.
 
 ### Health / Medical
 
