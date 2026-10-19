@@ -318,6 +318,13 @@
 * [JR Academy AI Engineer Hub](https://jracademy.ai/learn/ai-engineer) — 免费章节式学习路径，含 MCP / RAG / Agent / 部署 + 实战 lab。
 * [JR Academy Prompt Master Hub](https://jracademy.ai/learn/prompt-master) — 免费 Prompt 工程章节式 hub。
 
+### 交互实验与可复用 AI 技能
+
+* [JR Academy AI Engineer Lab](https://jracademy.ai/learn/ai-engineer/lab) — LLM API、RAG、Agent、评估、微调与部署交互实验。
+* [JR Academy System Design Lab](https://jracademy.ai/system-design-lab/) — 系统架构交互学习与模拟实验。
+* [JR Academy 系统设计手册](https://jracademy.ai/job-interview/system-design-handbook) — 系统设计学习路线、架构案例与面试准备。
+* [JR Academy AI Skill 商城](https://jracademy.ai/ai-skills) — 求职与内容创作技能下载，具体访问权限以各技能为准。
+
 ---
 
 ## 📖 书籍、论文、博客
@@ -525,6 +532,8 @@
 * [Khan Academy Khanmigo](https://www.khanmigo.ai/) ⭐ — AI 家教（英文）。
 * [CodeKidz](https://codekidz.ai) — 儿童 AI 编程学习。
 * [作业帮 AI](https://www.zybang.com/) 🇨🇳 — 国内 K12 AI 辅助。
+* [JR Academy 考证匠 Cert Master](https://jracademy.ai/tools/cert-master) — AI 辅助 IT 认证学习、截图解析与练习复习。
+* [Airbotix](https://airbotix.ai/) — 少儿 AI 编程课程与创作工具，用于制作故事、游戏和软件项目。
 
 ### 简历与求职
 
@@ -534,6 +543,8 @@
 * [Kickresume](https://www.kickresume.com/)
 * [JobPin AI](https://jobpin.ai/) — AI 简历修改、ATS 优化、岗位匹配。
 * [Final Round AI](https://www.finalroundai.com/) — AI 面试副驾。
+* [JR Academy 求职匠 Desktop](https://jracademy.ai/tools/job-hunter) — 桌面工作台，整理经历、分析岗位、定制简历并导出 PDF。
+* [JR Academy CareerOS](https://jracademy.ai/careeros) — 职业规划与作品证据桌面应用，目前试点筹备中。
 
 ### 金融
 

@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Added
 
+- Added Job Hunter Desktop, Cert Master, CareerOS (pilot in preparation), Airbotix, AI Engineer Lab, System Design Lab, System Design Handbook and AI Skill Marketplace to both READMEs.
 - JR Academy AI Circle events and registration link in both English and Chinese READMEs.
 
 ### Changed

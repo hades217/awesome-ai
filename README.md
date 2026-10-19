@@ -361,6 +361,13 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [CS285: Deep RL](http://rail.eecs.berkeley.edu/deeprlcourse/) — *UC Berkeley*.
 * [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) — *Sebastian Thrun*.
 
+### Interactive Labs & Reusable AI Skills
+
+* [JR Academy AI Engineer Lab](https://jracademy.ai/learn/ai-engineer/lab) — interactive tasks for LLM APIs, RAG, agents, evaluation, fine-tuning and deployment.
+* [JR Academy System Design Lab](https://jracademy.ai/system-design-lab/) — interactive system architecture learning and simulations.
+* [JR Academy System Design Handbook](https://jracademy.ai/job-interview/system-design-handbook) — system design learning paths, architecture cases and interview preparation.
+* [JR Academy AI Skill Marketplace](https://jracademy.ai/ai-skills) — downloadable skills for job hunting and content creation; access varies by skill.
+
 ### Free Aggregators
 
 * [Made With ML](https://madewithml.com/) — production ML foundations.
@@ -586,6 +593,8 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 * [Khan Academy Khanmigo](https://www.khanmigo.ai/) ⭐ — AI tutor for students.
 * [CodeKidz](https://codekidz.ai) — AI-powered programming learning for kids.
+* [JR Academy Cert Master](https://jracademy.ai/tools/cert-master) — AI-assisted IT certification study, screenshot explanations and practice review.
+* [Airbotix](https://airbotix.ai/) — AI coding classes and creative tools for children to build stories, games and software.
 
 ### Career & Resume
 
@@ -596,6 +605,8 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Kickresume](https://www.kickresume.com/) — AI resume and cover letter builder.
 * [JobPin AI](https://jobpin.ai/) — AI resume editing, ATS optimization, and job matching.
 * [Final Round AI](https://www.finalroundai.com/) — AI interview copilot.
+* [JR Academy Job Hunter Desktop](https://jracademy.ai/tools/job-hunter) — desktop workspace for experience records, job analysis, tailored resumes and PDF export.
+* [JR Academy CareerOS](https://jracademy.ai/careeros) — career planning and project-evidence desktop app; pilot in preparation.
 
 ---
 
