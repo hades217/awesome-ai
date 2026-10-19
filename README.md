@@ -594,6 +594,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 * [Ada Health](https://ada.com/) — symptom assessment.
 * [Abridge](https://www.abridge.com/) ⭐ — clinical documentation AI; widely deployed in US health systems.
+* [Human Rounds](https://humanrounds.org) — open-source, AI-native platform for the work around care: AI patient intake, appointments, referrals and care coordination ([repo](https://github.com/visualpharm/human-rounds)).
 * [Suki AI](https://www.suki.ai/) — voice-enabled clinical AI.
 
 ### Finance
