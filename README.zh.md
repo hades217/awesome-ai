@@ -147,6 +147,10 @@
 * [**Strands Agents (AWS)**](https://github.com/strands-agents/sdk-python) 🆕 — AWS 开源 Agent SDK。
 * [**Letta（原 MemGPT）**](https://github.com/letta-ai/letta) (22k ⭐) — 持久记忆 Agent。
 
+### 可复用 AI 技能
+
+* [JR Academy AI Skill 商城](https://jracademy.ai/ai-skills) — 求职与内容创作技能下载，具体访问权限以各技能为准。
+
 ### Model Context Protocol (MCP) 🔥
 
 * [**MCP 协议规范**](https://modelcontextprotocol.io/) ⭐ — Anthropic 开放协议，2024 起业界标准。
@@ -302,8 +306,8 @@
 * [Maven AI Engineering 系列](https://maven.com/topics/artificial-intelligence) — 业内专家小班课。
 * [Bloomtech](https://bloomtech.com/) — 美国线上培训营。
 * [Insight Data Science Fellows](https://insightfellows.com/) — 博士转工业界 fellowship。
-* [JR Academy AI Engineer Bootcamp](https://jracademy.ai/curriculum/ai-engineer-bootcamp) — 项目制 6 个月训练营，覆盖 MCP / RAG / Agent / 部署。
-* [JR Academy Vibe Coding](https://jracademy.ai/learn/vibe-coding) — 现代 AI 增强开发（Cursor / Claude Code）。
+* [JR Academy AI Engineer Bootcamp](https://jracademy.ai/program-course/ai-engineer-bootcamp) — 项目制 AI 工程训练，涵盖 RAG、Agent 与部署。
+* [JR Academy AI Engineer 全栈项目班](https://jracademy.ai/program-course/web-code-bootcamp-or-learn-to-code-1) — 全栈 AI 工程项目实践。
 * [Recurse Center](https://www.recurse.com/) — 自驱学习营（NYC）。
 
 ### AI 工程师专项学习路径（免费 hub）
@@ -317,13 +321,22 @@
 * [DeepLearning.AI AI Engineering 专项](https://www.deeplearning.ai/courses/) — 吴恩达系结构化课程。
 * [JR Academy AI Engineer Hub](https://jracademy.ai/learn/ai-engineer) — 免费章节式学习路径，含 MCP / RAG / Agent / 部署 + 实战 lab。
 * [JR Academy Prompt Master Hub](https://jracademy.ai/learn/prompt-master) — 免费 Prompt 工程章节式 hub。
+* [JR Academy Vibe Coding](https://jracademy.ai/learn/vibe-coding) — 现代 AI 增强开发（Cursor / Claude Code）。
 
-### 交互实验与可复用 AI 技能
+### 交互工程实验室
 
 * [JR Academy AI Engineer Lab](https://jracademy.ai/learn/ai-engineer/lab) — LLM API、RAG、Agent、评估、微调与部署交互实验。
 * [JR Academy System Design Lab](https://jracademy.ai/system-design-lab/) — 系统架构交互学习与模拟实验。
-* [JR Academy 系统设计手册](https://jracademy.ai/job-interview/system-design-handbook) — 系统设计学习路线、架构案例与面试准备。
-* [JR Academy AI Skill 商城](https://jracademy.ai/ai-skills) — 求职与内容创作技能下载，具体访问权限以各技能为准。
+
+### Prompt 工程练习
+
+* [JR Academy Prompt Lab](https://jracademy.ai/learn/prompt-lab) — 学习中心内的任务式 Prompt 工程练习，可能需要登录。
+* [JR Academy Prompt 模板库](https://jracademy.ai/tools/prompt-templates) — 产品、技术与增长场景模板，完整模板需注册查看。
+
+
+### 学习路线图
+
+* [JR Academy 技术路线图](https://jracademy.ai/roadmaps) — 前端、后端、数据与 DevOps 的系统学习路径。
 
 ---
 
@@ -372,6 +385,16 @@
 * [**OpenAI Research**](https://openai.com/research/)
 * [**HuggingFace 博客**](https://huggingface.co/blog) — 开源 AI 更新。
 * [**One Useful Thing (Ethan Mollick)**](https://www.oneusefulthing.org/) — 给非工程师的 AI 实用文。
+
+### 在线手册、电子书与速查表
+
+* [JR Academy 系统设计手册](https://jracademy.ai/job-interview/system-design-handbook) — 系统设计学习路线、架构案例与面试准备。
+* [JR Academy 电子书](https://jracademy.ai/ebooks) — AI、工程与求职电子书，支持在线阅读与 PDF 下载。
+* [JR Academy 技术速查表](https://jracademy.ai/study-center?tab=learn&mode=cheatsheet) — 学习中心内的技术知识快速参考。
+
+### 创业与 Pitch 指南
+
+* [JR Academy AI圈 Wiki](https://jracademy.ai/ai-circle/wiki/) — 客户验证、Pitch、Deck、业务指标与融资准备指南。
 
 ### 中文必读博客 🇨🇳
 
@@ -530,12 +553,28 @@
 ### 教育
 
 * [Khan Academy Khanmigo](https://www.khanmigo.ai/) ⭐ — AI 家教（英文）。
-* [CodeKidz](https://codekidz.ai) — 儿童 AI 编程学习。
 * [作业帮 AI](https://www.zybang.com/) 🇨🇳 — 国内 K12 AI 辅助。
+
+#### 大学课程 AI 辅导
+
+* [牛小匠 UniMate AI](https://unimateai.com/) — 大学课程 AI 辅导；[学习工作区](https://unimateai.com/study)、[Chrome 插件安装](https://unimateai.com/install)。2026-10-19 检查以上入口均返回 HTTP 502。
+
+#### IT 认证备考
+
 * [JR Academy 考证匠 Cert Master](https://jracademy.ai/tools/cert-master) — AI 辅助 IT 认证学习、截图解析与练习复习。
+* [JR Academy 认证备考中心](https://jracademy.ai/certifications) — IT 认证指南、题库与模拟考试入口。
+
+#### 少儿与中小学学习
+
+* [CodeKidz](https://codekidz.ai) — 儿童 AI 编程学习。
 * [Airbotix](https://airbotix.ai/) — 少儿 AI 编程课程与创作工具，用于制作故事、游戏和软件项目。
+* [Airbotix Hangar](https://airbotix.ai/products/hangar) — 家长引导的 12 岁以上 AI 编程桌面应用；[Mac 下载](https://airbotix.ai/download)。
+* [Airbotix Study](https://airbotix.ai/products/study) — Year 6–12 学科学习整理与 AI 引导学习，目前为 Early Access。
+* [Airbotix 作品 Demo](https://airbotix.ai/try) — 报名前可体验的浏览器故事与编程示例。
 
 ### 简历与求职
+
+#### 简历与求职工具
 
 * [Teal](https://www.tealhq.com/) — AI 简历 + 求职追踪。
 * [Rezi](https://www.rezi.ai/) — ATS 优化 AI 简历。
@@ -544,7 +583,16 @@
 * [JobPin AI](https://jobpin.ai/) — AI 简历修改、ATS 优化、岗位匹配。
 * [Final Round AI](https://www.finalroundai.com/) — AI 面试副驾。
 * [JR Academy 求职匠 Desktop](https://jracademy.ai/tools/job-hunter) — 桌面工作台，整理经历、分析岗位、定制简历并导出 PDF。
+
+#### 职业规划
+
 * [JR Academy CareerOS](https://jracademy.ai/careeros) — 职业规划与作品证据桌面应用，目前试点筹备中。
+* [JR Academy 导师中心](https://jracademy.ai/study-center?tab=mentor-hub) — 学习中心内的导师发现入口，可能需要登录。
+
+#### 面试准备
+
+* [JR Academy 面试中心](https://jracademy.ai/job-interview) — 面试题库与 AI 模拟面试入口。
+* [JR Academy AI Engineer 准备度自测](https://jracademy.ai/readiness-assessment) — AI 工程师面试准备度自评。
 
 ### 金融
 
@@ -556,6 +604,10 @@
 * [Harvey AI](https://www.harvey.ai/)
 * [Spellbook](https://www.spellbook.legal/) — 合同审核 AI。
 * [幂律智能 Mega AI](https://www.megalaw.cn/) 🇨🇳 — 国内法律 AI。
+
+### 优惠与学生福利
+
+* [JR Academy 薅羊毛 AU Deals](https://deals.jracademy.ai/) — 澳洲优惠、免费资源与学生福利，适用条件以各机会为准。
 
 ---
 

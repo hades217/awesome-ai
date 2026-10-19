@@ -8,11 +8,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Added
 
+- Added UniMate website, study and installation links with a dated HTTP 502 notice; added missing learning, certification, career, community, AU Deals and Airbotix product paths in both languages.
 - Added Job Hunter Desktop, Cert Master, CareerOS (pilot in preparation), Airbotix, AI Engineer Lab, System Design Lab, System Design Handbook and AI Skill Marketplace to both READMEs.
 - JR Academy AI Circle events and registration link in both English and Chinese READMEs.
 
 ### Changed
 
+- Separated labs, reusable skills, prompt resources, reference books, university study, certifications, school learning, careers and student benefits into their relevant categories.
 - Standardized JR Academy website links and contact-domain references to `jracademy.ai` throughout the repository.
 
 ## [v2026.05.06] — 2026-05-06

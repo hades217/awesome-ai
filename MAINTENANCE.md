@@ -323,3 +323,13 @@ push 完上面这个 README 后：
 - ❌ 不要藏 affiliate link（被举报后 stars 大量流失）
 
 ✅ 长期主义：6 个月稳步涨 1k stars 比 1 周涨 500 stars 但 6 个月被举报掉光好。
+
+
+## Product-link audit — 2026-10-19
+
+- Keep product links in their matching categories in both READMEs: skills, learning labs, reference material, university study, certification, school learning, careers, community and student benefits.
+- AI Engineer Bootcamp now links to the current public course page at https://jracademy.ai/program-course/ai-engineer-bootcamp. The old `/curriculum/ai-engineer-bootcamp` URL redirects to a legacy site. Website routes were not changed.
+- UniMate is explicitly included at the owner's request: https://unimateai.com/, https://unimateai.com/study and https://unimateai.com/install. All three returned HTTP 502 during this audit; keep the dated notice until their recovery is verified. `/tools/unimate-ai` redirects to UniMate's installation page, so it is not an independent fallback.
+- Do not list `/learn/llm-lab`, `/learn/javascript-lab` or `/learn/frontend-lab` as working public resources: they return HTTP 200 with a page-not-found title. `/python-lab` returns HTTP 404. The Study Center's legacy frontend/Python modes forward to those unavailable destinations; linking the modes does not fix the missing resources.
+- Study Center cheatsheets and Mentor Hub links were checked against current source destinations and their public page shells. Authenticated content and paid/AI actions were not exercised. Airbotix product pages were read through the web tool; some direct scripted requests received HTTP 403.
+- This is a resource-directory update, not verification of installers, AI execution, account integration, eligibility, or every product feature.

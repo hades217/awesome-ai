@@ -150,6 +150,10 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Letta (formerly MemGPT)**](https://github.com/letta-ai/letta) (22k ⭐) — agents with persistent memory.
 * [**Inspect AI (UK AISI)**](https://inspect.aisi.org.uk/) — agent eval framework from UK AI Safety Institute.
 
+### Reusable AI Skills
+
+* [JR Academy AI Skill Marketplace](https://jracademy.ai/ai-skills) — downloadable skills for job hunting and content creation; access varies by skill.
+
 ### Model Context Protocol (MCP) 🔥
 
 * [**Model Context Protocol Spec**](https://modelcontextprotocol.io/) ⭐ — Anthropic's open protocol for AI tool use. Industry standard since 2024.
@@ -337,9 +341,8 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Maven AI Engineering Cohorts](https://maven.com/topics/artificial-intelligence) — cohort-based courses by industry experts.
 * [Zero to Mastery — AI/ML Career Path](https://zerotomastery.io/career-paths/) — online ML bootcamp.
 * [General Assembly Data Science Immersive](https://generalassemb.ly/) — full-time bootcamp, multiple cities.
-* [JR Academy AI Engineer Bootcamp](https://jracademy.ai/curriculum/ai-engineer-bootcamp) — project-based 6-month bootcamp covering MCP, RAG, agents, deployment.
-* [JR Academy Vibe Coding](https://jracademy.ai/learn/vibe-coding) — modern AI-augmented development with Cursor / Claude Code.
-* [JR Academy Web Full-Stack Bootcamp](https://jracademy.ai/program-course/web-code-bootcamp-or-learn-to-code-1) — Next.js / NestJS / AWS project bootcamp.
+* [JR Academy AI Engineer Bootcamp](https://jracademy.ai/program-course/ai-engineer-bootcamp) — project-based AI engineering training covering RAG, agents and deployment.
+* [JR Academy AI Engineering Full-Stack Project Bootcamp](https://jracademy.ai/program-course/web-code-bootcamp-or-learn-to-code-1) — full-stack AI engineering project training.
 * [Recurse Center](https://www.recurse.com/) — self-directed programmer retreat (NYC).
 
 ### AI Engineer Specialization (Free Learning Hubs)
@@ -353,6 +356,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Deep Learning AI — AI Engineering Specialization](https://www.deeplearning.ai/courses/) — Andrew Ng's structured paths.
 * [JR Academy AI Engineer Hub](https://jracademy.ai/learn/ai-engineer) — free chapter-based learning path: MCP, RAG, agents, deployment, with hands-on labs.
 * [JR Academy Prompt Master Hub](https://jracademy.ai/learn/prompt-master) — free prompt engineering chapter-based hub.
+* [JR Academy Vibe Coding](https://jracademy.ai/learn/vibe-coding) — modern AI-augmented development with Cursor / Claude Code.
 * [Awesome AI Engineer (community list)](https://github.com/dair-ai/Mathematics-for-ML) — math foundations.
 
 ### Specialized Topics
@@ -361,12 +365,20 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [CS285: Deep RL](http://rail.eecs.berkeley.edu/deeprlcourse/) — *UC Berkeley*.
 * [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) — *Sebastian Thrun*.
 
-### Interactive Labs & Reusable AI Skills
+### Interactive Engineering Labs
 
 * [JR Academy AI Engineer Lab](https://jracademy.ai/learn/ai-engineer/lab) — interactive tasks for LLM APIs, RAG, agents, evaluation, fine-tuning and deployment.
 * [JR Academy System Design Lab](https://jracademy.ai/system-design-lab/) — interactive system architecture learning and simulations.
-* [JR Academy System Design Handbook](https://jracademy.ai/job-interview/system-design-handbook) — system design learning paths, architecture cases and interview preparation.
-* [JR Academy AI Skill Marketplace](https://jracademy.ai/ai-skills) — downloadable skills for job hunting and content creation; access varies by skill.
+
+### Prompt Engineering Practice
+
+* [JR Academy Prompt Lab](https://jracademy.ai/learn/prompt-lab) — task-based prompt engineering exercises in the Study Center; sign-in may be required.
+* [JR Academy Prompt Templates](https://jracademy.ai/tools/prompt-templates) — templates for product, engineering and growth tasks; full templates require registration.
+
+
+### Learning Roadmaps
+
+* [JR Academy Roadmaps](https://jracademy.ai/roadmaps) — structured learning paths for frontend, backend, data and DevOps.
 
 ### Free Aggregators
 
@@ -412,6 +424,16 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Direct Preference Optimization (2023)**](https://arxiv.org/abs/2305.18290) — DPO; simpler RLHF replacement.
 * [**Mixtral of Experts (2024)**](https://arxiv.org/abs/2401.04088) — practical MoE that opened the era of efficient large models.
 * [**DeepSeek-R1 (2025)**](https://arxiv.org/abs/2501.12948) 🇨🇳 — pure-RL reasoning training breakthrough.
+
+### Online Handbooks, Ebooks & Cheatsheets
+
+* [JR Academy System Design Handbook](https://jracademy.ai/job-interview/system-design-handbook) — system design learning paths, architecture cases and interview preparation.
+* [JR Academy Ebooks](https://jracademy.ai/ebooks) — AI, engineering and career books for online reading and PDF download.
+* [JR Academy Cheatsheets](https://jracademy.ai/study-center?tab=learn&mode=cheatsheet) — technical quick-reference sheets in the Study Center.
+
+### Startup & Pitch Guides
+
+* [JR Academy AI Circle Wiki](https://jracademy.ai/ai-circle/wiki/) — guides to customer evidence, pitches, decks, metrics and fundraising preparation.
 
 ### Blogs — Top Signal
 
@@ -592,11 +614,27 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 ### Education
 
 * [Khan Academy Khanmigo](https://www.khanmigo.ai/) ⭐ — AI tutor for students.
-* [CodeKidz](https://codekidz.ai) — AI-powered programming learning for kids.
+
+#### University Study Assistants
+
+* [UniMate AI](https://unimateai.com/) — university course tutoring; [study workspace](https://unimateai.com/study), [Chrome extension](https://unimateai.com/install). These endpoints returned HTTP 502 on 2026-10-19.
+
+#### IT Certification Preparation
+
 * [JR Academy Cert Master](https://jracademy.ai/tools/cert-master) — AI-assisted IT certification study, screenshot explanations and practice review.
+* [JR Academy Certification Hub](https://jracademy.ai/certifications) — IT certification guides, question banks and mock-exam entry points.
+
+#### Kids & School Learning
+
+* [CodeKidz](https://codekidz.ai) — AI-powered programming learning for kids.
 * [Airbotix](https://airbotix.ai/) — AI coding classes and creative tools for children to build stories, games and software.
+* [Airbotix Hangar](https://airbotix.ai/products/hangar) — parent-guided AI coding desktop app for ages 12+; [Mac download](https://airbotix.ai/download).
+* [Airbotix Study](https://airbotix.ai/products/study) — Years 6–12 subject organisation and AI-guided study; early access.
+* [Airbotix Project Demos](https://airbotix.ai/try) — browser story and coding demos to try before enrolling.
 
 ### Career & Resume
+
+#### Resumes & Job Search
 
 * [Teal](https://www.tealhq.com/) — AI resume builder + job tracker.
 * [Rezi](https://www.rezi.ai/) — AI resume builder optimized for ATS.
@@ -606,7 +644,20 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [JobPin AI](https://jobpin.ai/) — AI resume editing, ATS optimization, and job matching.
 * [Final Round AI](https://www.finalroundai.com/) — AI interview copilot.
 * [JR Academy Job Hunter Desktop](https://jracademy.ai/tools/job-hunter) — desktop workspace for experience records, job analysis, tailored resumes and PDF export.
+
+#### Career Planning
+
 * [JR Academy CareerOS](https://jracademy.ai/careeros) — career planning and project-evidence desktop app; pilot in preparation.
+* [JR Academy Mentor Hub](https://jracademy.ai/study-center?tab=mentor-hub) — mentor discovery in the Study Center; sign-in may be required.
+
+#### Interview Preparation
+
+* [JR Academy Interview Center](https://jracademy.ai/job-interview) — interview questions and AI mock-interview entry points.
+* [JR Academy AI Engineer Readiness Assessment](https://jracademy.ai/readiness-assessment) — AI engineering interview-readiness self-assessment.
+
+### Deals & Student Benefits
+
+* [JR Academy AU Deals](https://deals.jracademy.ai/) — Australian deals, free resources and student benefits; check each offer's eligibility.
 
 ---
 
