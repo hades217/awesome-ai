@@ -126,6 +126,9 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Lovable**](https://lovable.dev/) — AI app builder.
 * [**Replit Agent**](https://replit.com/) — AI app generation in Replit.
 * [**Deepnote**](https://deepnote.com/) — AI-first Jupyter alternative with native data integrations and a built-in agent.
+* [**DeployReview**](https://poe.com/DeployReview) — chat-based code review bot on Poe: paste a diff or file for a verdict with severity-tagged findings and fixed code. Free to try.
+* [**LLMAuditor**](https://poe.com/LLMAuditor) — audits your llms.txt the way a reviewer audits a contract: what's leaking, what's wasting tokens, what's missing. Free to try on Poe.
+* [**DiffExplainerHQ**](https://poe.com/DiffExplainerHQ) — chat bot on Poe that explains what a diff actually does, then writes the commit message. Free to try.
 
 ---
 
