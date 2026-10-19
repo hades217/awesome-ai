@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Added
 
+- Linked Awesome AI Communities from the English and Chinese community sections, with a matching Chinese table-of-contents entry.
 - Added 13 JR Academy AI Circle city links to the matching country community sections in both languages: eight active cities and five explicitly marked coming soon.
 - Added UniMate website, study and installation links with a dated HTTP 502 notice; added missing learning, certification, career, community, AU Deals and Airbotix product paths in both languages.
 - Added Job Hunter Desktop, Cert Master, CareerOS (pilot in preparation), Airbotix, AI Engineer Lab, System Design Lab, System Design Handbook and AI Skill Marketplace to both READMEs.

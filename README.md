@@ -727,6 +727,8 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 ## 🌐 AI Communities by City
 
+* [Awesome AI Communities](https://github.com/hades217/awesome-ai-communities) — bilingual directory of AI meetups and builder communities by country and city, with sources and coming-soon labels.
+
 * [San Francisco AI Meetup](http://www.meetup.com/superintelligencemeetup/) — SF community.
 * [New York AI](http://newyork.ai/) — NYC community.
 * [Seattle AI](http://seattle.city.ai/) — Seattle community.
