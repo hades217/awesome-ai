@@ -526,6 +526,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Mem](https://get.mem.ai/) — AI-organized note-taking.
 * [Sunsama](https://www.sunsama.com/) — daily planner with AI.
 * [Clay](https://clay.com/) — AI-powered CRM and outreach.
+* [aiFetchly](https://www.aifetchly.com) - Open-source desktop AI agent for business automation: lead gen, RAG library, outreach, workflows.
 
 ### Virtual Office & Remote Collaboration
 
