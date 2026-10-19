@@ -162,6 +162,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**MCP TypeScript SDK**](https://github.com/modelcontextprotocol/typescript-sdk) (12k ⭐) — build MCP servers in TS.
 * [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) ⭐ (86k ⭐) — community MCP server list.
 * [**FastMCP**](https://github.com/jlowin/fastmcp) (25k ⭐) — Pythonic MCP server framework.
+* [Cortex](https://cortexdocs.dev) — generates SDKs, API docs, and MCP servers from API specifications.
 
 ### Browser & Computer Use 🆕
 
