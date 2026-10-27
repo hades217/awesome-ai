@@ -556,9 +556,11 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Recraft V3**](https://www.recraft.ai/) 🆕 — design-grade image generation.
 * [**Ideogram 2.0**](https://ideogram.ai/) — image generation with great text rendering.
 * [**Leonardo.AI**](https://leonardo.ai/) 🇦🇺 — Sydney-based image generation.
+* [**PromptImage**](https://promptimage.cloud) 🆕 — free AI image & video studio with prompt library; signup credits, no card required (freemium).
 * [**Krea**](https://www.krea.ai/) — real-time AI canvas.
 * [**Canva Magic Studio**](https://www.canva.com/magic-studio/) — AI design tools.
 * [**Figma AI / Make**](https://www.figma.com/ai/) — AI in Figma.
+* [**TeslaWraps**](https://teslawraps.design) 🆕 — browser Tesla Paint Shop wrap designer; core editing + PNG export free without account (freemium).
 * [**Photoshop Firefly**](https://www.adobe.com/products/photoshop/ai.html) — Adobe's generative fill.
 
 ### Video & Audio
@@ -567,6 +569,13 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Veo 3 (Google)**](https://deepmind.google/technologies/veo/) ⭐ — video gen with native audio.
 * [**Runway Gen-4**](https://runwayml.com/) — AI video generation and editing.
 * [**Pika 2.0**](https://pika.art/) — text-to-video.
+* [**GrokVideo Studio**](https://grokvideogenerator.dev) 🆕 — independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X); free trial credits.
+- **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok). `Paid`
+- **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99). `Paid`
+- **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99). `Paid`
+- **[KDA Firestarter AI Dance](https://kdafirestarterai.dev)** — Independent unofficial AI: one photo → 13s 480p 21:9 solo dance (Paid from $7.99). Not affiliated with Riot Games or K/DA. `Paid`
+- **[A2O LITE NEON AI Dance](https://a2oliteai.org)** — Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99). `Paid`
+- **[dime dime baby ai](https://dimedimebabyai.dev)** — Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99). `Paid`
 * [**Hailuo 02 (MiniMax)**](https://hailuoai.video/) 🇨🇳 — strong video gen.
 * [**Kling AI**](https://klingai.com/) 🇨🇳 — Kuaishou's video gen.
 * [**HeyGen**](https://www.heygen.com/) — AI avatars and translation.
