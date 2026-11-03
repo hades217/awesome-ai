@@ -100,6 +100,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Hume EVI**](https://www.hume.ai/) — emotion-aware voice AI.
 * [**Whisper Large v3**](https://openai.com/research/whisper) — open-source speech-to-text.
 * [**Suno v4 / Udio**](https://www.suno.ai/) — music generation.
+* [**ModelBenchmark**](https://modelbenchmark.io) — Independent rankings of AI models: composite of 16 public benchmarks, prices, context windows.
 
 ---
 
