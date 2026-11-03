@@ -526,6 +526,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Mem](https://get.mem.ai/) — AI-organized note-taking.
 * [Sunsama](https://www.sunsama.com/) — daily planner with AI.
 * [Clay](https://clay.com/) — AI-powered CRM and outreach.
+* [PlaceCall](https://voygr.tech/placecall/) — AI agent that phones US businesses for bookings and quotes and returns the transcript.
 
 ### Virtual Office & Remote Collaboration
 
