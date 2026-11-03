@@ -9,15 +9,15 @@
     .toolbar{position:sticky;top:0;z-index:9;display:flex;gap:12px;align-items:center;justify-content:center;padding:12px;background:rgba(28,25,62,.94);color:#fff}
     .toolbar button{border:0;border-radius:999px;background:#ff775f;color:white;padding:10px 22px;font-weight:700;cursor:pointer}
     .page{max-width:720px;margin:24px auto;background:#fff;box-shadow:0 15px 60px rgba(43,38,89,.12)}
-    #article{padding:36px 42px 52px;font-size:16px;line-height:1.9;letter-spacing:.03em}
-    h1{font-size:30px;line-height:1.35;margin:0 0 16px;color:#242052}
-    h2{font-size:21px;line-height:1.55;margin:42px 0 16px;color:#5045a8}
-    p{margin:15px 0}
+    #article{padding:36px 42px 52px;font-size:16px;line-height:1.9;letter-spacing:.03em;text-align:left}
+    h1{font-size:30px;line-height:1.35;margin:0 0 16px;color:#242052;text-align:left}
+    h2{font-size:21px;line-height:1.55;margin:42px 0 16px;color:#5045a8;text-align:left}
+    p,li,blockquote{margin-top:15px;margin-bottom:15px;text-align:left}
     .lead{font-size:17px;color:#585b70;border-left:4px solid #ff806b;padding:2px 0 2px 16px}
-    .hero,.info{display:block;width:100%;height:auto;margin:24px 0;border-radius:12px}
+    .hero,.info{display:block;width:100%;max-width:100%;height:auto;max-height:none;margin:24px 0;border-radius:12px;vertical-align:top;object-fit:contain}
     blockquote{margin:22px 0;padding:18px 20px;background:#f4f1ff;border-radius:10px;color:#413b78;font-weight:600}
     ul,ol{padding-left:1.4em;margin:16px 0}.highlight{margin:28px 0;padding:22px;background:#252052;color:#fff;border-radius:12px;text-align:center;font-size:18px;font-weight:700}
-    .cta{margin-top:38px;padding:26px 24px;background:linear-gradient(135deg,#5045a8,#7465d8);color:#fff;border-radius:14px}.cta h3{margin:0 0 10px;font-size:21px}.cta p{margin:8px 0}
+    .cta{margin-top:38px;padding:26px 24px;background:#5045a8;color:#fff;border-radius:14px;text-align:left}.cta h3{margin:0 0 10px;font-size:21px;text-align:left}.cta p{margin:8px 0;text-align:left}
     .note{font-size:12px;line-height:1.7;color:#85869a;margin-top:28px}
     .caption{text-align:center;color:#999;font-size:12px;margin-top:-14px}
     @media(max-width:760px){.page{margin:0}.toolbar{justify-content:space-between;font-size:12px}#article{padding:28px 22px 42px}h1{font-size:26px}}
@@ -28,7 +28,7 @@
   <main class="page"><article id="article">
     <h1>为什么很多留学生成绩不差，却总过不了实习简历关？</h1>
     <p class="lead">课程学得不错、作业也认真完成，为什么投实习还是没有回应？问题往往不在成绩，而在于你的经历还没有被翻译成企业看得懂的语言。</p>
-    <img class="hero" src="https://raw.githubusercontent.com/hades217/awesome-ai/master/wechat-assets/jracademy/2026-11-03/cover.png" alt="留学生从课程学习走向岗位实践">
+    <img class="hero" src="https://raw.githubusercontent.com/hades217/awesome-ai/master/wechat-assets/jracademy/2026-11-03/cover-wechat.jpg" alt="留学生从课程学习走向岗位实践">
     <p>有一类求职困境，很多留学生都很熟悉：</p>
     <p>成绩不差，课程也学了不少；Python、SQL、Java、数据分析、产品设计，简历上都能写几行。</p>
     <p>可一投实习，回应却很少。</p>
@@ -55,7 +55,7 @@
     <ol><li><strong>目标：</strong>当时要解决什么问题？</li><li><strong>角色：</strong>你具体负责哪一部分？</li><li><strong>行动：</strong>你用了什么方法，为什么这样做？</li><li><strong>协作：</strong>你怎样沟通、汇报和处理反馈？</li><li><strong>结果：</strong>最终交付了什么，又学到了什么？</li></ol>
     <p>这五个问题，不只是简历写作技巧。它们背后对应的是完整的项目过程。</p>
     <p>如果项目本身没有清晰目标、个人责任、反馈修改和最终交付，单靠“润色简历”很难把它变得有说服力。</p>
-    <img class="info" src="https://raw.githubusercontent.com/hades217/awesome-ai/master/wechat-assets/jracademy/2026-11-03/coursework-to-project.png" alt="从课程作业到岗位项目的能力转化">
+    <img class="info" src="https://raw.githubusercontent.com/hades217/awesome-ai/master/wechat-assets/jracademy/2026-11-03/coursework-to-project-wechat.jpg" alt="从课程作业到岗位项目的能力转化">
     <p class="caption">从课程作业到岗位项目，差的是一套完整的实践闭环</p>
 
     <h2>03｜真正缺少的，往往是一次完整的岗位实践闭环</h2>
@@ -87,11 +87,25 @@
     <p class="note">说明：本文所述项目为付费导师带教项目，不属于导师任职企业的HR招聘实习，不提供薪酬或津贴，也不承诺录用结果。具体导师与项目安排以当期资源及书面确认为准。</p>
   </article></main>
   <script>
-    document.getElementById('copyBtn').addEventListener('click',function(){
-      const range=document.createRange();range.selectNode(document.getElementById('article'));
-      const selection=window.getSelection();selection.removeAllRanges();selection.addRange(range);
-      try{document.execCommand('copy');this.textContent='已复制，可粘贴到公众号';}catch(e){this.textContent='请按 Ctrl+C 复制';}
-      setTimeout(()=>{selection.removeAllRanges()},300);
+    document.getElementById('copyBtn').addEventListener('click',async function(){
+      const source=document.getElementById('article');
+      const clone=source.cloneNode(true);
+      clone.style.textAlign='left';clone.style.background='#ffffff';clone.style.backgroundImage='none';
+      clone.querySelectorAll('p,h1,h2,h3,li,ul,ol,blockquote,div').forEach(function(el){
+        if(!el.classList.contains('caption')&&!el.classList.contains('highlight')) el.style.textAlign='left';
+        el.style.backgroundImage='none';
+      });
+      clone.querySelectorAll('.caption,.highlight').forEach(function(el){el.style.textAlign='center'});
+      clone.querySelectorAll('img').forEach(function(img){
+        img.style.display='block';img.style.width='100%';img.style.maxWidth='100%';img.style.height='auto';img.style.maxHeight='none';img.style.objectFit='contain';img.style.verticalAlign='top';
+      });
+      const html=clone.outerHTML;
+      try{
+        await navigator.clipboard.write([new ClipboardItem({'text/html':new Blob([html],{type:'text/html'}),'text/plain':new Blob([source.innerText],{type:'text/plain'})})]);
+        this.textContent='已复制，可粘贴到公众号';
+      }catch(e){
+        const range=document.createRange();range.selectNode(source);const selection=window.getSelection();selection.removeAllRanges();selection.addRange(range);document.execCommand('copy');selection.removeAllRanges();this.textContent='已复制，可粘贴到公众号';
+      }
     });
   </script>
 </body>
