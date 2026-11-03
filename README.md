@@ -641,6 +641,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [ResumeWorded](https://resumeworded.com/) — AI resume + LinkedIn profile feedback.
 * [Kickresume](https://www.kickresume.com/) — AI resume and cover letter builder.
 * [JobPin AI](https://jobpin.ai/) — AI resume editing, ATS optimization, and job matching.
+* [JobEmerge](https://www.jobemerge.work/) — job-fit analysis, resume translation, Markdown editing and interview practice.
 * [Final Round AI](https://www.finalroundai.com/) — AI interview copilot.
 * [JR Academy Job Hunter Desktop](https://jracademy.ai/tools/job-hunter) — desktop workspace for experience records, job analysis, tailored resumes and PDF export.
 
