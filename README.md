@@ -579,6 +579,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Hume EVI**](https://www.hume.ai/) — emotion-aware voice AI.
 * [**Suno v4**](https://www.suno.ai/) — music generation.
 * [**Udio**](https://www.udio.com/) — music generation.
+* [**Pixwit**](https://pixwit.ai/) — AI photo-to-video and meme dance effects generator (freemium).
 
 ### Writing & Content
 
