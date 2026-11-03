@@ -588,6 +588,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Grammarly](https://www.grammarly.com/) — AI writing assistant.
 * [Sudowrite](https://www.sudowrite.com/) — AI for fiction writers.
 * [Lex](https://lex.page/) — AI writing app for thinkers.
+* [HumanPen](https://humanpen.net/) — freemium AI text humanizer that rewrites drafts to sound more natural while preserving meaning.
 
 ### Health / Medical
 
