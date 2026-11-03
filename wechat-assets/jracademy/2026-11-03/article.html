@@ -6,7 +6,7 @@
   <title>为什么很多留学生成绩不差，却总过不了实习简历关？</title>
   <style>
     body{margin:0;background:#eef0f7;color:#23243a;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif}
-    .toolbar{position:sticky;top:0;z-index:9;display:flex;gap:12px;align-items:center;justify-content:center;padding:12px;background:rgba(28,25,62,.94);color:#fff}
+    .toolbar{position:sticky;top:0;z-index:9;display:flex;gap:10px;align-items:center;justify-content:center;flex-wrap:wrap;padding:12px;background:#1c193e;color:#fff}
     .toolbar button{border:0;border-radius:999px;background:#ff775f;color:white;padding:10px 22px;font-weight:700;cursor:pointer}
     .page{max-width:720px;margin:24px auto;background:#fff;box-shadow:0 15px 60px rgba(43,38,89,.12)}
     #article{padding:36px 42px 52px;font-size:16px;line-height:1.9;letter-spacing:.03em;text-align:left}
@@ -24,7 +24,7 @@
   </style>
 </head>
 <body>
-  <div class="toolbar"><span>打开后点击按钮，可复制正文到公众号编辑器</span><button id="copyBtn">复制整篇文章</button></div>
+  <div class="toolbar"><span>按顺序复制到公众号</span><button id="copyTitle">① 复制标题</button><button id="copySummary">② 复制摘要</button><button id="copyBtn">③ 复制正文</button></div>
   <main class="page"><article id="article">
     <h1>为什么很多留学生成绩不差，却总过不了实习简历关？</h1>
     <p class="lead">课程学得不错、作业也认真完成，为什么投实习还是没有回应？问题往往不在成绩，而在于你的经历还没有被翻译成企业看得懂的语言。</p>
@@ -87,25 +87,68 @@
     <p class="note">说明：本文所述项目为付费导师带教项目，不属于导师任职企业的HR招聘实习，不提供薪酬或津贴，也不承诺录用结果。具体导师与项目安排以当期资源及书面确认为准。</p>
   </article></main>
   <script>
-    document.getElementById('copyBtn').addEventListener('click',async function(){
-      const source=document.getElementById('article');
-      const clone=source.cloneNode(true);
-      clone.style.textAlign='left';clone.style.background='#ffffff';clone.style.backgroundImage='none';
-      clone.querySelectorAll('p,h1,h2,h3,li,ul,ol,blockquote,div').forEach(function(el){
-        if(!el.classList.contains('caption')&&!el.classList.contains('highlight')) el.style.textAlign='left';
-        el.style.backgroundImage='none';
-      });
-      clone.querySelectorAll('.caption,.highlight').forEach(function(el){el.style.textAlign='center'});
-      clone.querySelectorAll('img').forEach(function(img){
-        img.style.display='block';img.style.width='100%';img.style.maxWidth='100%';img.style.height='auto';img.style.maxHeight='none';img.style.objectFit='contain';img.style.verticalAlign='top';
-      });
-      const html=clone.outerHTML;
-      try{
-        await navigator.clipboard.write([new ClipboardItem({'text/html':new Blob([html],{type:'text/html'}),'text/plain':new Blob([source.innerText],{type:'text/plain'})})]);
-        this.textContent='已复制，可粘贴到公众号';
-      }catch(e){
-        const range=document.createRange();range.selectNode(source);const selection=window.getSelection();selection.removeAllRanges();selection.addRange(range);document.execCommand('copy');selection.removeAllRanges();this.textContent='已复制，可粘贴到公众号';
+    const articleTitle='为什么很多留学生成绩不差，却总过不了实习简历关？';
+    const articleSummary='课程学得不错、作业也认真完成，为什么投实习还是没有回应？问题往往不在成绩，而在于你的经历还没有被翻译成企业看得懂的语言。';
+
+    async function copyPlain(value,button,done){
+      try{await navigator.clipboard.writeText(value)}catch(e){
+        const box=document.createElement('textarea');box.value=value;document.body.appendChild(box);box.select();document.execCommand('copy');box.remove();
       }
+      button.textContent=done;
+    }
+
+    document.getElementById('copyTitle').addEventListener('click',function(){copyPlain(articleTitle,this,'标题已复制')});
+    document.getElementById('copySummary').addEventListener('click',function(){copyPlain(articleSummary,this,'摘要已复制')});
+
+    function buildWeChatBody(){
+      const clone=document.getElementById('article').cloneNode(true);
+      const title=clone.querySelector('h1');if(title)title.remove();
+
+      clone.style.cssText='display:block;margin:0;padding:0;background:#ffffff;color:#24243a;font-size:17px;line-height:1.85;text-align:left;word-break:break-word;';
+
+      clone.querySelectorAll('h2').forEach(function(el){
+        const p=document.createElement('p');p.innerHTML='<strong>'+el.innerHTML+'</strong>';
+        p.style.cssText='display:block;margin:34px 0 16px;padding:7px 0 7px 13px;border-left:4px solid #6657c7;color:#5045a8;font-size:20px;line-height:1.5;text-align:left;background:#ffffff;';
+        el.replaceWith(p);
+      });
+      clone.querySelectorAll('h3').forEach(function(el){
+        const p=document.createElement('p');p.innerHTML='<strong>'+el.innerHTML+'</strong>';
+        p.style.cssText='display:block;margin:0 0 10px;color:#ffffff;font-size:20px;line-height:1.5;text-align:left;';
+        el.replaceWith(p);
+      });
+      clone.querySelectorAll('blockquote').forEach(function(el){
+        const box=document.createElement('section');box.innerHTML=el.innerHTML;
+        const centered=el.getAttribute('style')&&el.getAttribute('style').indexOf('center')>-1;
+        box.style.cssText='display:block;margin:22px 0;padding:16px 18px;border-left:4px solid #8b7bdd;background:#f4f1ff;color:#413b78;font-size:16px;line-height:1.8;text-align:'+(centered?'center':'left')+';';
+        el.replaceWith(box);
+      });
+      clone.querySelectorAll('p').forEach(function(el){
+        if(el.style.borderLeft||el.closest('.cta'))return;
+        if(el.classList.contains('lead'))el.style.cssText='display:block;margin:0 0 22px;padding:14px 16px;border-left:4px solid #ff806b;background:#fff7f5;color:#585b70;font-size:16px;line-height:1.75;text-align:left;';
+        else if(el.classList.contains('caption'))el.style.cssText='display:block;margin:8px 0 24px;color:#8b8b98;font-size:12px;line-height:1.6;text-align:center;';
+        else if(el.classList.contains('note'))el.style.cssText='display:block;margin:26px 0 0;color:#888a98;font-size:12px;line-height:1.7;text-align:left;';
+        else el.style.cssText='display:block;margin:14px 0;color:#24243a;font-size:17px;line-height:1.85;text-align:left;';
+      });
+      clone.querySelectorAll('ul,ol').forEach(function(el){el.style.cssText='display:block;margin:14px 0;padding-left:1.5em;color:#24243a;font-size:17px;line-height:1.85;text-align:left;'});
+      clone.querySelectorAll('li').forEach(function(el){el.style.cssText='margin:7px 0;padding:0;color:#24243a;font-size:17px;line-height:1.75;text-align:left;'});
+      clone.querySelectorAll('img').forEach(function(img){img.style.cssText='display:block;margin:22px auto;width:100%;max-width:100%;height:auto;max-height:none;border-radius:8px;vertical-align:top;object-fit:contain;'});
+
+      const highlight=clone.querySelector('.highlight');if(highlight)highlight.style.cssText='display:block;margin:24px 0;padding:18px 16px;border-radius:8px;background:#252052;color:#ffffff;font-size:16px;line-height:1.8;font-weight:700;text-align:center;';
+      const cta=clone.querySelector('.cta');if(cta){cta.style.cssText='display:block;margin:36px 0 0;padding:22px 20px;border-radius:10px;background:#5045a8;color:#ffffff;text-align:left;';cta.querySelectorAll('p').forEach(function(p){p.style.cssText='display:block;margin:8px 0;color:#ffffff;font-size:16px;line-height:1.75;text-align:left;'})}
+
+      clone.querySelectorAll('*').forEach(function(el){el.style.backgroundImage='none';el.removeAttribute('class');el.removeAttribute('id')});
+      return clone;
+    }
+
+    document.getElementById('copyBtn').addEventListener('click',async function(){
+      const clone=buildWeChatBody();const html=clone.innerHTML;const plain=clone.innerText;
+      try{
+        await navigator.clipboard.write([new ClipboardItem({'text/html':new Blob([html],{type:'text/html'}),'text/plain':new Blob([plain],{type:'text/plain'})})]);
+      }catch(e){
+        clone.style.position='fixed';clone.style.left='-99999px';clone.style.top='0';document.body.appendChild(clone);
+        const range=document.createRange();range.selectNodeContents(clone);const selection=window.getSelection();selection.removeAllRanges();selection.addRange(range);document.execCommand('copy');selection.removeAllRanges();clone.remove();
+      }
+      this.textContent='正文已复制';
     });
   </script>
 </body>
