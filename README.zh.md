@@ -598,6 +598,7 @@
 
 * [Bloomberg GPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)
 * [Hebbia](https://www.hebbia.com/) — 金融分析 AI。
+* [DisconfirmAI](https://disconfirmai.com/zh) — AI 投资研究工具，先找反面证据，结论附带信源。
 
 ### 法律
 
