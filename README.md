@@ -526,6 +526,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Mem](https://get.mem.ai/) — AI-organized note-taking.
 * [Sunsama](https://www.sunsama.com/) — daily planner with AI.
 * [Clay](https://clay.com/) — AI-powered CRM and outreach.
+* [Transcribe Video: To The Text](https://video2text.ttt.so) — iOS video/audio/YouTube/live-voice transcription with speakers and summaries.
 
 ### Virtual Office & Remote Collaboration
 
