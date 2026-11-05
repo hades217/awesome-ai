@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>8周远程实习，到底每天在做什么？</title>
+  <style>
+    body{margin:0;background:#eef0f7;color:#23243a;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif}
+    .toolbar{position:sticky;top:0;z-index:9;display:flex;gap:10px;align-items:center;justify-content:center;flex-wrap:wrap;padding:12px;background:#1c193e;color:#fff}
+    .toolbar button{border:0;border-radius:999px;background:#ff775f;color:white;padding:10px 22px;font-weight:700;cursor:pointer}
+    .page{max-width:720px;margin:24px auto;background:#fff;box-shadow:0 15px 60px rgba(43,38,89,.12)}
+    #article{padding:36px 42px 52px;font-size:16px;line-height:1.9;letter-spacing:.03em;text-align:left}
+    h1{font-size:30px;line-height:1.35;margin:0 0 16px;color:#242052;text-align:left}
+    h2{font-size:21px;line-height:1.55;margin:42px 0 16px;color:#5045a8;text-align:left}
+    p,li,blockquote{margin-top:15px;margin-bottom:15px;text-align:left}
+    .lead{font-size:17px;color:#585b70;border-left:4px solid #ff806b;padding:2px 0 2px 16px}
+    .hero,.info{display:block;width:100%;max-width:100%;height:auto;max-height:none;margin:24px 0;border-radius:12px;vertical-align:top;object-fit:contain}
+    blockquote{margin:22px 0;padding:18px 20px;background:#f4f1ff;border-radius:10px;color:#413b78;font-weight:600}
+    ul,ol{padding-left:1.4em;margin:16px 0}.highlight{margin:28px 0;padding:22px;background:#252052;color:#fff;border-radius:12px;text-align:center;font-size:18px;font-weight:700}
+    .cta{margin-top:38px;padding:26px 24px;background:#5045a8;color:#fff;border-radius:14px;text-align:left}.cta h3{margin:0 0 10px;font-size:21px;text-align:left}.cta p{margin:8px 0;text-align:left}
+    .note{font-size:12px;line-height:1.7;color:#85869a;margin-top:28px}
+    .caption{text-align:center;color:#999;font-size:12px;margin-top:-14px}
+    @media(max-width:760px){.page{margin:0}.toolbar{justify-content:space-between;font-size:12px}#article{padding:28px 22px 42px}h1{font-size:26px}}
+  </style>
+</head>
+<body>
+  <div class="toolbar"><span>按顺序复制到公众号</span><button id="copyTitle">① 复制标题</button><button id="copySummary">② 复制摘要</button><button id="copyBtn">③ 复制正文</button></div>
+  <main class="page"><article id="article">
+    <h1>8周远程实习，到底每天在做什么？</h1>
+    <p class="lead">不是听8周课，也不是拿一个公司名字“挂”在简历上。真正占据这8周的，是任务、交付、汇报、Review、修改，以及最后把成果讲清楚。</p>
+    <img class="hero" src="https://raw.githubusercontent.com/hades217/awesome-ai/master/wechat-assets/apeintern/2026-11-05-wednesday/eight-week-roadmap-wechat.jpg" alt="8周远程实习从背景评估推进到作品和面试表达">
+    <p>很多人第一次看到“远程实习”，最想问的不是价格，而是：</p>
+    <blockquote>不进办公室，也不进入公司内部系统，这8周究竟在做什么？</blockquote>
+    <p>答案可以先浓缩成一句话：</p>
+    <p><strong>选一个公司和岗位，由一位在该公司在职的带教老师1v1带实习；每周至少安排2个实习日，领取任务、汇报进展、提交成果并接受Review。</strong></p>
+    <p>不同岗位的任务会完全不同。数据分析可能做留存和客户分层，软件开发可能完成工单、测试与代码评审，AI工程可能搭建检索问答和Agent，产品方向则可能写PRD、做原型并定义评测指标。</p>
+    <p>但无论选择哪个方向，核心都不是“看了多少内容”，而是<strong>8周以后能拿出什么、能讲清什么</strong>。</p>
+
+    <h2>先说清楚：这是什么，也不是什么</h2>
+    <p>实习猿的项目由实习猿组织，带教老师以个人身份带教。</p>
+    <p>你可以按公司和岗位选择项目，例如数据分析、AI工程、软件开发、产品经理、商业与战略分析、数字营销或UX设计。</p>
+    <p>但它<strong>不是带教老师任职公司的HR招聘实习</strong>，也不会让学员进入该公司的内部系统。</p>
+    <p>简历上应如实写：</p>
+    <ul><li>职位：对应的实习岗位；</li><li>公司：Ape Intern 实习猿；</li><li>经历描述：说明由哪家公司在职的带教老师1v1带教，再写自己完成的任务与成果。</li></ul>
+    <p>这条边界很重要。带教老师的公司背景提供的是岗位标准和反馈视角，不等于企业官方招聘、内推或录用承诺。</p>
+
+    <h2>一个完整案例：8周如何做完数据分析实习</h2>
+    <p>以网站公开展示的 NAB 数据分析实习为例，任务使用 UCI Online Retail II 公开数据集，目标是回答：</p>
+    <blockquote>新客完成第一次购买后会不会回来？哪些客户值得重点维护？</blockquote>
+    <p>这不是一句“做电商数据分析”就结束了，而是被拆成一条有交付物的8周路径。</p>
+
+    <h2>第1周｜先理解岗位与业务问题</h2>
+    <p>第一周不是急着画图，而是先熟悉数据团队的工作方式：</p>
+    <ul><li>需求通常怎样进入团队；</li><li>周会怎样汇报；</li><li>分析结论需要附什么证据；</li><li>数据字典应该怎样阅读。</li></ul>
+    <p>这一周的交付不是“听懂了”，而是<strong>数据理解文档和分析计划</strong>。</p>
+
+    <h2>第2周｜清洗数据，并留下清洗证据</h2>
+    <p>原始数据共有1,067,371行。项目需要处理退货单、缺少客户号的记录、完全重复记录，以及数量或单价异常的数据。</p>
+    <p>最终形成779,425行有效交易，并交付清洗SQL或Notebook及清洗日志。</p>
+    <p>重点不是只得到一个干净表格，而是能解释：删掉了什么、为什么删、处理会不会改变结论。</p>
+
+    <h2>第3—4周｜完成Cohort留存分析</h2>
+    <p>接下来按客户首次购买月份分组，观察之后各月是否继续购买，并制作留存热力图。</p>
+    <p>Review时还要识别数据边界。例如数据从2009年12月才开始，第一组里可能混入过去已经购买过的老客户；如果直接把它当成新客，会把平均留存基线算高。</p>
+    <p>这类问题正是“做出一张图”和“完成一份可靠分析”的区别。</p>
+
+    <h2>第5周｜做客户分层，并提出动作</h2>
+    <p>项目继续用RFM方法对5,878位客户进行分层。</p>
+    <p>分析显示，前20%的客户贡献77.2%的收入；27.6%的客户只下过一单；40.8%的客户已经超过180天没有购买。</p>
+    <p>但带教老师Review不会停在数字上。业务需要知道下一步做什么，所以还要为不同客户层补充可执行建议。</p>
+
+    <h2>第6—7周｜做看板、写报告、改两轮</h2>
+    <p>这一阶段把前面的分析整理成一页交互看板和10页分析报告。</p>
+    <p>初稿不是终点。报告需要根据带教老师的意见修改两轮，形成可用于汇报的版本。</p>
+    <p>你会真实经历一个常见工作过程：</p>
+    <div class="highlight">初稿交付 → Review指出问题 → 补证据与行动建议 → 修改 → 再次确认</div>
+
+    <h2>第8周｜汇报，并转化成求职表达</h2>
+    <p>最后一周进行5分钟项目汇报，由带教老师扮演业务负责人追问。</p>
+    <p>随后把8周成果整理成：</p>
+    <ul><li>可以写入简历的英文要点；</li><li>能够在面试中讲清楚的STAR案例；</li><li>汇报录屏、看板和分析报告等项目成果。</li></ul>
+    <p>到这里，项目才从“做完一个任务”变成“形成一段能够被追问的经历”。</p>
+
+    <img class="info" src="https://raw.githubusercontent.com/hades217/awesome-ai/master/wechat-assets/apeintern/2026-11-05-wednesday/daily-work-loop-wechat.jpg" alt="远程实习日从领任务到Review和修改的工作闭环">
+    <p class="caption">每个实习日都围绕任务、计划、执行、汇报、Review和修改推进</p>
+
+    <h2>远程实习的一天，通常怎么推进？</h2>
+    <p>具体时间会在开始前和带教老师约定，但基本工作节奏很明确：</p>
+    <ol><li><strong>早上领任务：</strong>确认目标、要求和当天交付物。</li><li><strong>提交计划：</strong>说明准备如何拆解任务，以及可能遇到的风险。</li><li><strong>完成工作：</strong>按照岗位要求产出分析、代码、方案、原型或报告。</li><li><strong>汇报进展：</strong>早晚同步计划、完成情况和卡点。</li><li><strong>接受Review：</strong>带教老师指出逻辑、方法、质量或表达上的问题。</li><li><strong>修改交付：</strong>根据反馈形成下一版，而不是把点评听完就结束。</li></ol>
+    <p>所以，“远程”不等于自由发挥，“1v1”也不等于老师替你完成任务。真正需要投入时间的人始终是学员自己。</p>
+
+    <h2>8周结束时，能留下什么？</h2>
+    <p>每个项目都会有与岗位匹配的成果，例如数据表、Notebook、看板、报告、代码、Pull Request、测试结果、PRD、原型或研究报告。</p>
+    <p>完成约定任务并达到要求后，带教老师按约提供：</p>
+    <ul><li>实习证明和介绍信，不带其任职公司Logo；</li><li>通过私人邮箱进行参与情况核实的背调联系人。</li></ul>
+    <p>招聘方是否接受材料或背调形式，由招聘方自行决定。</p>
+
+    <h2>最后，还有几件付款前必须知道的事</h2>
+    <ul><li>这是学员付费参加的远程实习项目，没有工资或津贴；</li><li>所有项目均为8周，每周至少2个实习日；</li><li>价格按带教老师所在公司的规模分档，均不含GST；</li><li>需要付费AI模型时，模型会员费用由学员自行承担；</li><li>付款后会启动带教老师和项目资源安排，因个人原因取消不退款。</li></ul>
+    <p>因此，流程不是先付款再看安排，而是先做不收费的背景评估，确认实习项目、带教老师和开始时间，双方书面确认后再付款。</p>
+
+    <div class="cta"><h3>想看看哪些公司和岗位目前可以选择？</h3><p>访问 <strong>apeintern.si</strong> 浏览实习项目，并申请免费的背景评估。也可以发送简历到 <strong>hello@apeintern.si</strong>。</p></div>
+    <p class="note">内容依据实习猿 Ape Intern 官网截至2026年11月5日公开信息整理。项目由实习猿组织，不属于带教老师任职公司的HR招聘实习，不承诺录用结果；具体项目、带教老师、开始时间和材料安排以双方书面确认为准。</p>
+  </article></main>
+  <script>
+    const articleTitle='8周远程实习，到底每天在做什么？';
+    const articleSummary='不是听8周课，也不是拿一个公司名字“挂”在简历上。真正占据这8周的，是任务、交付、汇报、Review、修改，以及最后把成果讲清楚。';
+
+    async function copyPlain(value,button,done){
+      try{await navigator.clipboard.writeText(value)}catch(e){
+        const box=document.createElement('textarea');box.value=value;document.body.appendChild(box);box.select();document.execCommand('copy');box.remove();
+      }
+      button.textContent=done;
+    }
+
+    document.getElementById('copyTitle').addEventListener('click',function(){copyPlain(articleTitle,this,'标题已复制')});
+    document.getElementById('copySummary').addEventListener('click',function(){copyPlain(articleSummary,this,'摘要已复制')});
+
+    function buildWeChatBody(){
+      const clone=document.getElementById('article').cloneNode(true);
+      const title=clone.querySelector('h1');if(title)title.remove();
+
+      clone.style.cssText='display:block;margin:0;padding:0;background:#ffffff;color:#24243a;font-size:17px;line-height:1.85;text-align:left;word-break:break-word;';
+
+      clone.querySelectorAll('h2').forEach(function(el){
+        const p=document.createElement('p');p.innerHTML='<strong>'+el.innerHTML+'</strong>';
+        p.style.cssText='display:block;margin:34px 0 16px;padding:7px 0 7px 13px;border-left:4px solid #6657c7;color:#5045a8;font-size:20px;line-height:1.5;text-align:left;background:#ffffff;';
+        el.replaceWith(p);
+      });
+      clone.querySelectorAll('h3').forEach(function(el){
+        const p=document.createElement('p');p.innerHTML='<strong>'+el.innerHTML+'</strong>';
+        p.style.cssText='display:block;margin:0 0 10px;color:#ffffff;font-size:20px;line-height:1.5;text-align:left;';
+        el.replaceWith(p);
+      });
+      clone.querySelectorAll('blockquote').forEach(function(el){
+        const box=document.createElement('section');box.innerHTML=el.innerHTML;
+        const centered=el.getAttribute('style')&&el.getAttribute('style').indexOf('center')>-1;
+        box.style.cssText='display:block;margin:22px 0;padding:16px 18px;border-left:4px solid #8b7bdd;background:#f4f1ff;color:#413b78;font-size:16px;line-height:1.8;text-align:'+(centered?'center':'left')+';';
+        el.replaceWith(box);
+      });
+      clone.querySelectorAll('p').forEach(function(el){
+        if(el.style.borderLeft||el.closest('.cta'))return;
+        if(el.classList.contains('lead'))el.style.cssText='display:block;margin:0 0 22px;padding:14px 16px;border-left:4px solid #ff806b;background:#fff7f5;color:#585b70;font-size:16px;line-height:1.75;text-align:left;';
+        else if(el.classList.contains('caption'))el.style.cssText='display:block;margin:8px 0 24px;color:#8b8b98;font-size:12px;line-height:1.6;text-align:center;';
+        else if(el.classList.contains('note'))el.style.cssText='display:block;margin:26px 0 0;color:#888a98;font-size:12px;line-height:1.7;text-align:left;';
+        else el.style.cssText='display:block;margin:14px 0;color:#24243a;font-size:17px;line-height:1.85;text-align:left;';
+      });
+      clone.querySelectorAll('ul,ol').forEach(function(el){el.style.cssText='display:block;margin:14px 0;padding-left:1.5em;color:#24243a;font-size:17px;line-height:1.85;text-align:left;'});
+      clone.querySelectorAll('li').forEach(function(el){el.style.cssText='margin:7px 0;padding:0;color:#24243a;font-size:17px;line-height:1.75;text-align:left;'});
+      clone.querySelectorAll('img').forEach(function(img){img.style.cssText='display:block;margin:22px auto;width:100%;max-width:100%;height:auto;max-height:none;border-radius:8px;vertical-align:top;object-fit:contain;'});
+
+      const highlight=clone.querySelector('.highlight');if(highlight)highlight.style.cssText='display:block;margin:24px 0;padding:18px 16px;border-radius:8px;background:#252052;color:#ffffff;font-size:16px;line-height:1.8;font-weight:700;text-align:center;';
+      const cta=clone.querySelector('.cta');if(cta){cta.style.cssText='display:block;margin:36px 0 0;padding:22px 20px;border-radius:10px;background:#5045a8;color:#ffffff;text-align:left;';cta.querySelectorAll('p').forEach(function(p){p.style.cssText='display:block;margin:8px 0;color:#ffffff;font-size:16px;line-height:1.75;text-align:left;'})}
+
+      clone.querySelectorAll('*').forEach(function(el){el.style.backgroundImage='none';el.removeAttribute('class');el.removeAttribute('id')});
+      return clone;
+    }
+
+    document.getElementById('copyBtn').addEventListener('click',async function(){
+      const clone=buildWeChatBody();const html=clone.innerHTML;const plain=clone.innerText;
+      try{
+        await navigator.clipboard.write([new ClipboardItem({'text/html':new Blob([html],{type:'text/html'}),'text/plain':new Blob([plain],{type:'text/plain'})})]);
+      }catch(e){
+        clone.style.position='fixed';clone.style.left='-99999px';clone.style.top='0';document.body.appendChild(clone);
+        const range=document.createRange();range.selectNodeContents(clone);const selection=window.getSelection();selection.removeAllRanges();selection.addRange(range);document.execCommand('copy');selection.removeAllRanges();clone.remove();
+      }
+      this.textContent='正文已复制';
+    });
+  </script>
+</body>
+</html>
+
