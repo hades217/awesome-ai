@@ -554,6 +554,7 @@
 
 * [Khan Academy Khanmigo](https://www.khanmigo.ai/) ⭐ — AI 家教（英文）。
 * [作业帮 AI](https://www.zybang.com/) 🇨🇳 — 国内 K12 AI 辅助。
+* [soclever](https://soclever.io) — AI 家教，把任何主题变成带五分钟课程和练习题的短课程（英文、希伯来文）。
 
 #### 大学课程 AI 辅导
 
