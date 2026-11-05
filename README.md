@@ -226,6 +226,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Fireworks AI**](https://fireworks.ai/) — production inference platform.
 * [**Replicate**](https://replicate.com/) — run open-source models in the cloud.
 * [**UnoRouter**](https://unorouter.com/) — OpenAI-compatible gateway: one API key for 200+ models across OpenAI, Anthropic, Google and more, with usage-based pricing.
+* [**Clarity**](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) — Base x402 AI research gateway (pay-per-use USDC): report $2 + chat $0.001.
 * [**Modal**](https://modal.com/) — serverless GPU for AI workloads.
 * [**RunPod**](https://www.runpod.io/) — GPU cloud for AI.
 * [**Lambda Cloud**](https://lambdalabs.com/) — GPU cloud focused on AI.
