@@ -720,6 +720,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [WhoIsHiring (HN)](https://hnhiring.com/) — Hacker News hiring threads.
 * [Cracked Engineers](https://www.crackedengineers.com/) — hand-picked tech jobs.
 * [Built In](https://builtin.com/jobs) — US tech jobs by city.
+* [Present of AI](https://presentofai.com/jobs) - open AI job board sourced from 4,900+ profiled AI companies, free API and MCP server.
 * [levels.fyi](https://www.levels.fyi/) — comp benchmarking.
 * For region-specific jobs, see [🌍 AI Scene by Country](#-ai-scene-by-country).
 
