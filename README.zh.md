@@ -541,6 +541,7 @@
 * [**Synthesia**](https://www.synthesia.io/) — 企业级 AI 视频。
 * [**ElevenLabs**](https://elevenlabs.io/) ⭐ — 语音克隆。
 * [**Suno**](https://www.suno.ai/) — AI 音乐。
+* [Seedance Now](https://seedancenow.com/) — 多模型文生视频/图生视频（Seedance 2.5、Kling 4.0、Wan 3.0），最长 30 秒 1080p；独立产品，与字节跳动无关。
 
 ### 写作
 

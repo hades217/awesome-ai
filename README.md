@@ -579,6 +579,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Hume EVI**](https://www.hume.ai/) — emotion-aware voice AI.
 * [**Suno v4**](https://www.suno.ai/) — music generation.
 * [**Udio**](https://www.udio.com/) — music generation.
+* [Seedance Now](https://seedancenow.com/) — multi-model text/image-to-video (Seedance 2.5, Kling 4.0, Wan 3.0), up to 30s 1080p; independent, not affiliated with ByteDance.
 
 ### Writing & Content
 
