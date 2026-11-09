@@ -526,6 +526,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Mem](https://get.mem.ai/) — AI-organized note-taking.
 * [Sunsama](https://www.sunsama.com/) — daily planner with AI.
 * [Clay](https://clay.com/) — AI-powered CRM and outreach.
+* [ORANO](https://oranoai.com) — Turns saved videos and articles into searchable summaries and step-by-step plans.
 
 ### Virtual Office & Remote Collaboration
 
