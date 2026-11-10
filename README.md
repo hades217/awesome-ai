@@ -570,6 +570,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Hailuo 02 (MiniMax)**](https://hailuoai.video/) 🇨🇳 — strong video gen.
 * [**Kling AI**](https://klingai.com/) 🇨🇳 — Kuaishou's video gen.
 * [**HeyGen**](https://www.heygen.com/) — AI avatars and translation.
+* [**Imagera**](https://imagera.ai/) — studio that runs many AI video and image models side by side, plus voice and music; keeps a face or product consistent across clips.
 * [**Synthesia**](https://www.synthesia.io/) — AI video for enterprise.
 * [**Descript**](https://www.descript.com/) — edit audio/video like a doc.
 * [**SummaryTube**](https://summarytube.com) — AI summaries, key moments, and transcripts for YouTube videos.
