@@ -630,6 +630,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Airbotix Hangar](https://airbotix.ai/products/hangar) — parent-guided AI coding desktop app for ages 12+; [Mac download](https://airbotix.ai/download).
 * [Airbotix Study](https://airbotix.ai/products/study) — Years 6–12 subject organisation and AI-guided study; early access.
 * [Airbotix Project Demos](https://airbotix.ai/try) — browser story and coding demos to try before enrolling.
+* [MathGPT](https://mathssolvergpt.com/en) — Free step-by-step AI math solver for algebra, calculus, and word problems.
 
 ### Career & Resume
 
