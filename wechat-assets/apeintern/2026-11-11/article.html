@@ -1,0 +1,73 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>想做AI实习，先别急着投：这5类岗位完全不是一回事</title><style>body{margin:0;background:#e9edf2;color:#1f2937;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}.toolbar{position:sticky;top:0;z-index:9;display:flex;gap:10px;align-items:center;justify-content:center;flex-wrap:wrap;padding:12px;background:#081725;color:#fff}.toolbar button{border:0;border-radius:999px;background:#2de1c2;color:#081725;padding:10px 22px;font-weight:800;cursor:pointer}.page{max-width:720px;margin:24px auto;background:#fff}#article{padding:36px 42px 52px;font-size:17px;line-height:1.9;text-align:left}h1{font-size:30px;line-height:1.35;margin:0 0 16px;color:#081725}h2{font-size:21px;margin:42px 0 16px;color:#081725}.lead{color:#4b5563;border-left:4px solid #ff7a45;padding-left:16px}.hero,.info{display:block;width:100%;height:auto;margin:24px 0;border-radius:12px}.box{margin:18px 0;padding:18px 20px;background:#f5f7f8;border-radius:10px}.box p{margin:6px 0}.quote{margin:24px 0;padding:20px;background:#eafffa;border-left:4px solid #2de1c2;color:#143d3a;font-weight:700}.highlight{margin:28px 0;padding:22px;background:#081725;color:#fff;border-radius:12px;text-align:center;font-weight:700}.cta{margin-top:38px;padding:26px 24px;background:#ff7a45;color:#081725;border-radius:14px}.cta h3{margin:0 0 10px}.note{font-size:12px;color:#85869a;margin-top:28px}ul,ol{padding-left:1.4em}@media(max-width:760px){.page{margin:0}#article{padding:28px 22px 42px}h1{font-size:26px}}</style></head><body><div class="toolbar"><span>按顺序复制到公众号</span><button id="copyTitle">① 复制标题</button><button id="copySummary">② 复制摘要</button><button id="copyBtn">③ 复制正文</button></div><main class="page"><article id="article">
+<h1>想做AI实习，先别急着投：这5类岗位完全不是一回事</h1>
+<p class="lead">AI Engineer、LLM Engineer、AI产品经理、AI战略分析、模型评测，看起来都与AI有关，但它们解决的问题、工作方式和招聘标准差别很大。</p>
+<img class="hero" src="https://raw.githubusercontent.com/hades217/awesome-ai/master/wechat-assets/apeintern/2026-11-11/ai-role-cover.jpg" alt="五类AI实习岗位选岗指南">
+<p>很多同学找AI实习时，第一反应是搜索“AI岗位”，然后把标题里带有AI的职位全部投一遍。</p>
+<p>这通常不是最有效的策略。</p>
+<p>企业招聘的从来不是一个抽象的“懂AI的人”，而是能够在某个环节解决具体问题的人：有人负责把模型接入产品，有人负责改善模型效果，有人判断什么场景应该用AI，有人研究AI如何改变行业，也有人负责上线后的评测和迭代。</p>
+<div class="quote">选择AI岗位的关键，不是问“哪个最热门”，而是问：我愿意长期解决哪一类问题？</div>
+<p>下面把目前常见的五类AI实习方向拆开来看。</p>
+
+<h2>01｜AI工程师：把模型变成可以使用的系统</h2>
+<p>AI工程师最核心的任务，不是训练一个全新的基础模型，而是把已有模型、数据和业务流程组合成可以运行的产品能力。</p>
+<p>一个模型在演示页面上回答正确，并不代表它能够进入真实场景。工程师还需要处理：</p>
+<ul><li>如何把企业文档做成可检索的数据；</li><li>如何设计RAG流程，降低幻觉和错误引用；</li><li>如何让Agent可靠地调用搜索、数据库或其他工具；</li><li>如何控制响应时间、调用成本和失败率；</li><li>如何记录日志、监控质量，并在出错时快速定位。</li></ul>
+<p>因此，AI工程师经常处在“模型能力”和“软件系统”之间。Python只是起点，真正拉开差距的是系统设计、接口能力、数据处理、评测意识和工程可靠性。</p>
+<div class="box"><p><strong>适合的人：</strong>喜欢写代码、搭系统、解决接口与部署问题，看到功能真正跑起来会有成就感。</p><p><strong>8周应该留下：</strong>可运行Demo、系统架构图、评测集、性能与成本数据、工程复盘。</p><p><strong>当前相关资源：</strong>V2 AI、阿里巴巴AI Agent应用开发、New Aim FDE/AI Engineer、北京瑞莱智慧FDE等。</p></div>
+<p><strong>常见误区：</strong>只展示“调用了某个大模型API”。面试官更关心的是：为什么这样设计？失败场景是什么？准确率、延迟与成本如何权衡？</p>
+
+<h2>02｜LLM／算法工程师：让模型效果真正变好</h2>
+<p>模型与算法岗位关注的是另一层问题：在明确的任务和数据上，怎样让模型表现得更准确、更高效、更稳定？</p>
+<p>典型工作可能包括数据清洗与标注、训练与微调、实验设计、超参数调整、消融实验、模型量化压缩、多模态算法、边缘部署以及指标分析。</p>
+<p>这类岗位最看重的不是“跑过一次训练”，而是能否形成严谨的实验闭环：</p>
+<ol><li>先定义任务和评价指标；</li><li>建立能够复现的基线；</li><li>每次只改变少量变量；</li><li>记录实验结果和失败原因；</li><li>判断提升是否真实、稳定且值得成本。</li></ol>
+<div class="box"><p><strong>适合的人：</strong>喜欢数学、实验和指标，愿意对同一个问题进行多轮验证。</p><p><strong>8周应该留下：</strong>训练代码、实验记录、对比与消融表、模型卡、研究报告。</p><p><strong>当前相关资源：</strong>Canva AI模型训练、WiseTech Global的LLM/Generative AI/Applied AI方向、UQ AI研究、时识科技SynSense、星凡智能、数字天空科技等。</p></div>
+<p><strong>常见误区：</strong>只报告最终准确率。真正有价值的表达是：基线是什么、改了什么、为什么提升、在哪些样本上仍然失败，以及如何复现。</p>
+
+<img class="info" src="https://raw.githubusercontent.com/hades217/awesome-ai/master/wechat-assets/apeintern/2026-11-11/ai-role-matrix.jpg" alt="五类AI岗位核心问题任务与交付物差异矩阵">
+
+<h2>03｜AI产品经理：判断什么时候应该用AI</h2>
+<p>AI产品经理并不是“懂一点模型的普通产品经理”，也不是不写代码的AI工程师。</p>
+<p>这个岗位最重要的能力，是把模糊的业务期待变成清楚、可验证的产品问题。</p>
+<p>例如，业务方说“我们想做一个智能客服”，产品经理不能直接开始画页面，而要继续追问：</p>
+<ul><li>用户真正想解决的问题是什么？</li><li>规则系统已经能解决多少，为什么还需要AI？</li><li>哪些回答错误可以接受，哪些绝对不能出现？</li><li>遇到不确定问题时，是拒答、转人工还是继续追问？</li><li>上线后用什么指标判断它真的创造了价值？</li></ul>
+<p>AI产品的难点在于结果具有概率性。传统功能往往是“能用或不能用”，AI功能则可能“多数时候有用，少数时候犯严重错误”。产品经理必须把这种不确定性写进需求、流程、风险边界和评测体系。</p>
+<div class="box"><p><strong>适合的人：</strong>擅长理解用户、结构化表达和跨团队沟通，能够在体验、风险、成本与技术限制之间做取舍。</p><p><strong>8周应该留下：</strong>用户问题定义、PRD、交互原型、指标体系、失败场景库、上线与迭代方案。</p><p><strong>当前相关资源：</strong>阿里巴巴、蚂蚁集团、腾讯云、字节跳动、华为、亚马逊中国、联想天禧、高途教学、NAB等AI产品方向。</p></div>
+<p><strong>常见误区：</strong>把PRD写成功能列表。AI产品更需要解释：为何用AI、如何评测、什么时候转人工，以及模型能力不足时怎样降级。</p>
+
+<h2>04｜AI战略分析：判断技术变化会把行业带向哪里</h2>
+<p>AI战略分析不负责把模型训练出来，也不直接写产品需求。它关注的是更上层的问题：</p>
+<ul><li>技术进步会改变行业价值链的哪个环节？</li><li>竞争优势来自模型、数据、渠道、场景还是生态？</li><li>用户为什么会从现有产品迁移？</li><li>商业化靠订阅、调用量、广告、交易还是服务？</li><li>公司应该自研、合作、采购，还是暂时观望？</li></ul>
+<p>一份好的战略报告不能只是把新闻和市场规模整理在一起。它需要建立判断框架，用一手与二手证据验证假设，并最终给出明确的选择。</p>
+<p>例如研究生成式AI赛道时，不能只写“市场增长很快”，而要回答：增长发生在哪里？谁在付钱？毛利是否可持续？模型能力是否会快速同质化？公司现有业务如何形成协同？</p>
+<div class="box"><p><strong>适合的人：</strong>喜欢行业研究、商业模式、竞品分析和结构化汇报，能够从大量信息中提炼判断。</p><p><strong>8周应该留下：</strong>行业地图、竞品矩阵、证据库、商业模型测算、战略建议和管理层汇报材料。</p><p><strong>当前相关资源：</strong>百度AI战略分析、京东即时零售战略分析、德勤咨询分析、NAB商业分析等。</p></div>
+<p><strong>常见误区：</strong>信息很多，但没有结论。战略工作的价值不在“搜集了多少资料”，而在“这些证据支持什么选择”。</p>
+
+<h2>05｜AI运营与模型评测：建立上线后的质量闭环</h2>
+<p>AI产品上线不是项目结束，而是问题真正开始暴露的时候。</p>
+<p>模型评测和AI运营负责把模糊的用户反馈变成可分析、可追踪、可改进的问题。例如：</p>
+<ul><li>设计覆盖真实场景的评测样本；</li><li>定义正确性、相关性、安全性和风格标准；</li><li>对错误进行分类，寻找高频失败模式；</li><li>结合用户反馈和行为数据判断优先级；</li><li>调整提示词、知识库、内容策略或产品流程；</li><li>跟踪迭代前后的质量与业务指标。</li></ul>
+<p>这类岗位看似离模型训练较远，却直接决定AI产品能不能持续变好。没有评测集和错误分类，团队只能凭感觉迭代。</p>
+<div class="box"><p><strong>适合的人：</strong>细致、对内容和用户反馈敏感，喜欢从大量案例中发现规律。</p><p><strong>8周应该留下：</strong>评测集、评分标准、错误标签体系、质量看板、用户反馈分析和迭代优先级。</p><p><strong>当前相关资源：</strong>腾讯云、字节跳动、亚马逊中国的AI产品运营与模型评测，以及9news等运营方向。</p></div>
+<p><strong>常见误区：</strong>把评测理解成“人工点好或不好”。专业评测需要清晰的标签、稳定的评分标准、样本覆盖与一致性检查。</p>
+
+<img class="info" src="https://raw.githubusercontent.com/hades217/awesome-ai/master/wechat-assets/apeintern/2026-11-11/ai-role-decision.jpg" alt="五类AI岗位选岗决策图">
+
+<h2>选岗时，别只看自己“会什么工具”</h2>
+<p>Python、SQL、Figma、Excel、提示词都只是工具。工具决定你能否开始，问题类型决定你是否适合长期做下去。</p>
+<p>可以用下面五个问题做一次自测：</p>
+<ol><li>遇到新模型时，你更想把它接入系统，还是研究它为什么有效？</li><li>你更享受写代码调试，还是梳理用户需求和产品边界？</li><li>看到行业变化时，你会关注技术细节，还是竞争格局和商业化？</li><li>你是否愿意对大量失败样本进行分类，找出规律？</li><li>8周以后，你最想拿出Demo、实验报告、PRD、战略报告还是评测看板？</li></ol>
+<p>最后一个问题尤其重要。因为实习结束时留下的作品，往往就是下一次求职时最有说服力的证据。</p>
+<div class="highlight">选公司之前先选问题；选岗位之前先想清楚，8周后你要拿出什么。</div>
+
+<h2>如果基础还不够，应该怎么选？</h2>
+<p>不需要为了追赶热门岗位，强行选择与当前基础差距过大的项目。</p>
+<ul><li>有软件基础，但缺AI项目：优先考虑RAG、Agent或AI应用工程；</li><li>数学与机器学习基础较好：可以选择模型训练、算法或研究方向；</li><li>产品、商科或设计背景：可以从AI产品、战略分析或运营评测切入；</li><li>已有行业经验：可以把行业知识与AI产品、商业分析或解决方案结合。</li></ul>
+<p>好的项目应该比你当前能力高一点，需要学习和修改，但仍能在8周内形成完整交付。</p>
+
+<div class="cta"><h3>不知道自己适合哪类AI岗位？</h3><p>可提交简历进行背景评估，根据专业基础、已有技能和求职目标匹配公司背景与项目方向。</p><p><strong>在线申请：</strong>apeintern.si/apply/</p><p><strong>简历投递：</strong>hello@apeintern.si</p></div>
+<p class="note">本文根据2026年11月11日最新公司与岗位资源整理。具体可选项目、岗位方向、带教安排与开始时间，以申请后的书面确认结果为准。</p>
+</article></main><script>
+const articleTitle='想做AI实习，先别急着投：这5类岗位完全不是一回事';const articleSummary='AI工程、模型算法、AI产品、AI战略和运营评测，解决的问题完全不同。本文从任务、能力门槛、8周交付物和面试证据出发，帮你选对AI实习方向。';async function cp(v,b,d){try{await navigator.clipboard.writeText(v)}catch(e){const x=document.createElement('textarea');x.value=v;document.body.appendChild(x);x.select();document.execCommand('copy');x.remove()}b.textContent=d}copyTitle.onclick=function(){cp(articleTitle,this,'标题已复制')};copySummary.onclick=function(){cp(articleSummary,this,'摘要已复制')};function body(){const c=article.cloneNode(true);c.querySelector('h1').remove();c.style.cssText='display:block;margin:0;padding:0;background:#fff;color:#1f2937;font-size:17px;line-height:1.85;text-align:left;word-break:break-word;';c.querySelectorAll('h2').forEach(e=>{const p=document.createElement('p');p.innerHTML='<strong>'+e.innerHTML+'</strong>';p.style.cssText='display:block;margin:34px 0 16px;padding:7px 0 7px 13px;border-left:4px solid #ff7a45;color:#081725;font-size:20px;line-height:1.5;text-align:left;background:#fff;';e.replaceWith(p)});c.querySelectorAll('h3').forEach(e=>{const p=document.createElement('p');p.innerHTML='<strong>'+e.innerHTML+'</strong>';p.style.cssText='display:block;margin:0 0 10px;color:#081725;font-size:20px;text-align:left;';e.replaceWith(p)});c.querySelectorAll('p').forEach(e=>{if(e.style.borderLeft||e.closest('.cta'))return;if(e.classList.contains('lead'))e.style.cssText='display:block;margin:0 0 22px;padding:14px 16px;border-left:4px solid #ff7a45;background:#fff5ef;color:#4b5563;font-size:16px;line-height:1.75;text-align:left;';else if(e.classList.contains('note'))e.style.cssText='display:block;margin:26px 0 0;color:#888a98;font-size:12px;line-height:1.7;text-align:left;';else e.style.cssText='display:block;margin:11px 0;color:#1f2937;font-size:17px;line-height:1.85;text-align:left;'});c.querySelectorAll('.box').forEach(e=>e.style.cssText='display:block;margin:16px 0;padding:15px 17px;border-radius:8px;background:#f5f7f8;color:#1f2937;text-align:left;');const q=c.querySelector('.quote');if(q)q.style.cssText='display:block;margin:22px 0;padding:16px 18px;border-left:4px solid #2de1c2;background:#eafffa;color:#143d3a;font-weight:700;text-align:left;';c.querySelectorAll('ul,ol').forEach(e=>e.style.cssText='display:block;margin:14px 0;padding-left:1.5em;color:#1f2937;font-size:17px;line-height:1.85;text-align:left;');c.querySelectorAll('li').forEach(e=>e.style.cssText='margin:7px 0;text-align:left;');c.querySelectorAll('img').forEach(e=>e.style.cssText='display:block;margin:22px auto;width:100%;max-width:100%;height:auto;border-radius:8px;');const h=c.querySelector('.highlight');if(h)h.style.cssText='display:block;margin:24px 0;padding:18px 16px;border-radius:8px;background:#081725;color:#fff;font-size:16px;font-weight:700;text-align:center;';const a=c.querySelector('.cta');if(a){a.style.cssText='display:block;margin:36px 0 0;padding:22px 20px;border-radius:10px;background:#ff7a45;color:#081725;text-align:left;';a.querySelectorAll('p').forEach(p=>p.style.cssText='display:block;margin:8px 0;color:#081725;font-size:16px;text-align:left;')}c.querySelectorAll('*').forEach(e=>{e.style.backgroundImage='none';e.removeAttribute('class');e.removeAttribute('id')});return c}copyBtn.onclick=async function(){const c=body(),h=c.innerHTML,p=c.innerText;try{await navigator.clipboard.write([new ClipboardItem({'text/html':new Blob([h],{type:'text/html'}),'text/plain':new Blob([p],{type:'text/plain'})})])}catch(e){c.style.position='fixed';c.style.left='-99999px';document.body.appendChild(c);const r=document.createRange();r.selectNodeContents(c);const s=getSelection();s.removeAllRanges();s.addRange(r);document.execCommand('copy');s.removeAllRanges();c.remove()}this.textContent='正文已复制'};
+</script></body></html>
+
