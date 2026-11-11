@@ -691,6 +691,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Papers with Code**](https://paperswithcode.com/) — papers + implementations.
 * [**The Information AI**](https://www.theinformation.com/topics/artificial-intelligence) — paid; insider news.
 * [**Semianalysis**](https://semianalysis.com/) — AI hardware and infrastructure analysis.
+* [ArtificialWatch](https://artificialwatch.com/) — Alerts when a new AI model goes live on a public API, by email, push, SMS or phone call.
 
 ---
 
