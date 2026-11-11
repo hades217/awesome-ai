@@ -800,6 +800,7 @@ For JR Academy AI Circle city pages in Australia, Singapore, Malaysia, China, th
 * [机器之心 (Synced)](https://www.jiqizhixin.com/) — AI 研究资讯.
 * [PaperWeekly](https://www.paperweekly.site/) — 论文阅读社区.
 * [Datawhale](https://www.datawhale.cn/) — 开源 AI 学习社区.
+* [听说了吗？AI 解读站](https://anymesgs.com/) — 每日 AI 新闻中文解读，配交互图解，有 RSS 和播客.
 
 **Communities**
 
