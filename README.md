@@ -126,6 +126,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Lovable**](https://lovable.dev/) — AI app builder.
 * [**Replit Agent**](https://replit.com/) — AI app generation in Replit.
 * [**Deepnote**](https://deepnote.com/) — AI-first Jupyter alternative with native data integrations and a built-in agent.
+* [**OrcaReplay**](https://github.com/Continuum-AI-Corp/OrcaReplay) 🆕 — records a coding-agent run and replays it without calling the model provider.
 
 ---
 
