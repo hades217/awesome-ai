@@ -230,6 +230,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**RunPod**](https://www.runpod.io/) — GPU cloud for AI.
 * [**Lambda Cloud**](https://lambdalabs.com/) — GPU cloud focused on AI.
 * [**Cerebras Inference**](https://inference.cerebras.ai/) 🆕 — wafer-scale fastest inference.
+* [CloudGPU](https://cloudgpu.app/) — RTX 4090/5090 GPU rental plus an OpenAI-compatible API for open models.
 
 ---
 
