@@ -126,6 +126,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Lovable**](https://lovable.dev/) — AI app builder.
 * [**Replit Agent**](https://replit.com/) — AI app generation in Replit.
 * [**Deepnote**](https://deepnote.com/) — AI-first Jupyter alternative with native data integrations and a built-in agent.
+* [Golder](https://github.com/getan/golder) — Open-source Go coding agent with desktop, terminal, and browser tools.
 
 ---
 
