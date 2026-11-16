@@ -245,6 +245,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**OpenLIT**](https://openlit.io/) — OpenTelemetry-native LLM observability.
 * [**Opik (Comet)**](https://github.com/comet-ml/opik) 🆕 — open-source LLM eval + tracing.
 * [**Inspect AI**](https://inspect.aisi.org.uk/) 🆕 — UK AISI's agent eval framework.
+* [**ModelBenchmark**](https://modelbenchmark.io) — Independent rankings of 208 AI models from 16 public benchmarks, with prices and specs.
 
 ---
 
