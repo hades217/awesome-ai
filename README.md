@@ -526,6 +526,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Mem](https://get.mem.ai/) — AI-organized note-taking.
 * [Sunsama](https://www.sunsama.com/) — daily planner with AI.
 * [Clay](https://clay.com/) — AI-powered CRM and outreach.
+* [Wishbar](https://wishbar.app) — live Mac menu bar widgets built by your own ChatGPT (through Codex) or Claude from plain English.
 
 ### Virtual Office & Remote Collaboration
 
