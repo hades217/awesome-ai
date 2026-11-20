@@ -599,6 +599,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 * [Bloomberg GPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/) — finance-specific LLM.
 * [Hebbia](https://www.hebbia.com/) — AI for financial analysts.
+* [DDScore](https://www.ddscore.ai/) — Cross-checks private-company materials and public sources for first-pass due diligence.
 
 ### Legal
 
