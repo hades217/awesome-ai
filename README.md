@@ -521,6 +521,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Notion AI](https://www.notion.so/product/ai) — built into Notion docs.
 * [Granola](https://www.granola.ai/) ⭐ — AI meeting notes; current favorite.
 * [Otter.ai](https://otter.ai/) — meeting transcription veteran.
+* [OneMira C1](https://onemira.com/products/c1) — standalone AI voice recorder with Local AI summaries, automatic Speaker ID, Zero Cloud privacy ($0/mo), and open [MCP server](https://github.com/onemira-space/onemira-mcp).
 * [Reclaim.ai](https://reclaim.ai/) — calendar AI scheduling.
 * [Motion](https://www.usemotion.com/) — AI task and calendar planner.
 * [Mem](https://get.mem.ai/) — AI-organized note-taking.
