@@ -599,6 +599,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 * [Bloomberg GPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/) — finance-specific LLM.
 * [Hebbia](https://www.hebbia.com/) — AI for financial analysts.
+* [DisconfirmAI](https://disconfirmai.com/en) — AI investing research that looks for counter-evidence, with cited sources.
 
 ### Legal
 
