@@ -560,6 +560,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Canva Magic Studio**](https://www.canva.com/magic-studio/) — AI design tools.
 * [**Figma AI / Make**](https://www.figma.com/ai/) — AI in Figma.
 * [**Photoshop Firefly**](https://www.adobe.com/products/photoshop/ai.html) — Adobe's generative fill.
+* [**EmptyRoom AI**](https://emptyroomai.com/) — AI virtual staging for real estate listing photos.
 
 ### Video & Audio
 
