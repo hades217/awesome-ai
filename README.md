@@ -560,6 +560,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Canva Magic Studio**](https://www.canva.com/magic-studio/) — AI design tools.
 * [**Figma AI / Make**](https://www.figma.com/ai/) — AI in Figma.
 * [**Photoshop Firefly**](https://www.adobe.com/products/photoshop/ai.html) — Adobe's generative fill.
+* [EasySociable](https://easysociable.com/) — Agent skill that turns a prompt into a branded carousel for TikTok, Instagram and LinkedIn.
 
 ### Video & Audio
 
