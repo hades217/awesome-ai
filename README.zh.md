@@ -528,6 +528,7 @@
 * [**可灵 (Kling)**](https://klingai.com/) 🇨🇳 — 快手图像 + 视频。
 * [**Canva Magic Studio**](https://www.canva.com/magic-studio/)
 * [**Figma AI / Make**](https://www.figma.com/ai/)
+* [MakeImg](https://makeimg.ai/) — AI 图片生成：文字提示或参考照片生成新图，支持 11 个模型，每日免费额度。
 
 ### 视频与音频
 
