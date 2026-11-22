@@ -162,6 +162,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**MCP TypeScript SDK**](https://github.com/modelcontextprotocol/typescript-sdk) (12k ⭐) — build MCP servers in TS.
 * [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) ⭐ (86k ⭐) — community MCP server list.
 * [**FastMCP**](https://github.com/jlowin/fastmcp) (25k ⭐) — Pythonic MCP server framework.
+* [**Recordist gateway**](https://github.com/recordist-app/gateway) - open-source MCP server that lets Claude, Cursor and any MCP client search the calls Recordist keeps on your own devices.
 
 ### Browser & Computer Use 🆕
 
