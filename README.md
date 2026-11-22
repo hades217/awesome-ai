@@ -162,6 +162,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**MCP TypeScript SDK**](https://github.com/modelcontextprotocol/typescript-sdk) (12k ⭐) — build MCP servers in TS.
 * [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) ⭐ (86k ⭐) — community MCP server list.
 * [**FastMCP**](https://github.com/jlowin/fastmcp) (25k ⭐) — Pythonic MCP server framework.
+* [looot](https://looot.ai) — MCP server and API for 4,200+ business-data operations from 300+ providers.
 
 ### Browser & Computer Use 🆕
 
