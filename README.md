@@ -501,6 +501,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Thoughtworks AI](https://www.thoughtworks.com/en-us/what-we-do/ai) — engineering-led AI delivery.
 * [Modulai](https://modulai.io/) — boutique AI consultancy (EU).
 * [MetaTree Lab](https://metatreelab.ai/) — AI consulting; LLM strategy, RAG and agent implementation, custom training.
+* [The NineHertz](https://theninehertz.com/artificial-intelligence) — Agentic AI Engineering, AI consulting, LLM strategy, RAG, Enterprise AI Modernization, and agent implementation.
 
 ---
 
