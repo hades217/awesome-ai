@@ -227,6 +227,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Replicate**](https://replicate.com/) — run open-source models in the cloud.
 * [**UnoRouter**](https://unorouter.com/) — OpenAI-compatible gateway: one API key for 200+ models across OpenAI, Anthropic, Google and more, with usage-based pricing.
 * [**Modal**](https://modal.com/) — serverless GPU for AI workloads.
+* [**QIT**](https://qit.energy/) — GPU containers. Built for AI; AI Model API plus serverless/reserved GPUs.
 * [**RunPod**](https://www.runpod.io/) — GPU cloud for AI.
 * [**Lambda Cloud**](https://lambdalabs.com/) — GPU cloud focused on AI.
 * [**Cerebras Inference**](https://inference.cerebras.ai/) 🆕 — wafer-scale fastest inference.
