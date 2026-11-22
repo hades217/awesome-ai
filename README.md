@@ -613,6 +613,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 ### Education
 
 * [Khan Academy Khanmigo](https://www.khanmigo.ai/) ⭐ — AI tutor for students.
+* [soclever](https://soclever.io) — AI tutor that turns any topic into a short course with five-minute lessons and practice questions.
 
 #### University Study Assistants
 
