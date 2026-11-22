@@ -721,6 +721,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Cracked Engineers](https://www.crackedengineers.com/) — hand-picked tech jobs.
 * [Built In](https://builtin.com/jobs) — US tech jobs by city.
 * [levels.fyi](https://www.levels.fyi/) — comp benchmarking.
+* [Present of AI](https://presentofai.com/jobs) — free AI jobs board, 9,600+ open roles sourced from AI company career pages.
 * For region-specific jobs, see [🌍 AI Scene by Country](#-ai-scene-by-country).
 
 ---
