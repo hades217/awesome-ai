@@ -541,6 +541,7 @@
 * [**Synthesia**](https://www.synthesia.io/) — 企业级 AI 视频。
 * [**ElevenLabs**](https://elevenlabs.io/) ⭐ — 语音克隆。
 * [**Suno**](https://www.suno.ai/) — AI 音乐。
+* [VoxSail](https://voxsail.com/zh/) — 浏览器内音视频翻译、配音与字幕审校（付费；一次性体验积分）。
 
 ### 写作
 

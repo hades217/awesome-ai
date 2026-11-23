@@ -579,6 +579,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Hume EVI**](https://www.hume.ai/) — emotion-aware voice AI.
 * [**Suno v4**](https://www.suno.ai/) — music generation.
 * [**Udio**](https://www.udio.com/) — music generation.
+* [VoxSail](https://voxsail.com/en/) — Browser video/audio translation, dubbing and subtitle review (paid; one-time trial credits).
 
 ### Writing & Content
 
