@@ -643,7 +643,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [JobPin AI](https://jobpin.ai/) — AI resume editing, ATS optimization, and job matching.
 * [Final Round AI](https://www.finalroundai.com/) — AI interview copilot.
 * [JR Academy Job Hunter Desktop](https://jracademy.ai/tools/job-hunter) — desktop workspace for experience records, job analysis, tailored resumes and PDF export.
-* * [CareerBldr](https://careerbldr.com/) — AI resume builder that tailors resumes to job posts, with ATS check and cover letters.
+* [CareerBldr](https://careerbldr.com/) — AI resume builder that tailors resumes to job posts, with ATS check and cover letters.
 
 #### Career Planning
 
