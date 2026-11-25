@@ -540,7 +540,8 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Perplexity](https://www.perplexity.ai/) ⭐ — research-grade AI search.
 * [Phind](https://phind.com/) — AI search for developers.
 * [Exa](https://exa.ai/) — search engine designed for AI/LLMs.
-* [Tavily](https://tavily.com/) — search API for agents.
+* [Tavily](https://tavily.com/) - search API for agents.
+* [SpecStream](https://specstream.ai) - live web data engine for agents.
 * [Linkup](https://www.linkup.so/) 🆕 — AI-grade search API.
 
 ---
