@@ -153,6 +153,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 ### Reusable AI Skills
 
 * [JR Academy AI Skill Marketplace](https://jracademy.ai/ai-skills) — downloadable skills for job hunting and content creation; access varies by skill.
+* [OmniForge Agent Skills](https://github.com/zColdWater/omniforge-skills) — 50 open-source MIT Agent Skills (`npx skills add zColdWater/omniforge-skills`) for pre-launch web security headers, JS secret scanning, SPF/DKIM/DMARC email DNS, and `/llms.txt` AI search readiness.
 
 ### Model Context Protocol (MCP) 🔥
 
