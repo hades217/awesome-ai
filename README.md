@@ -492,6 +492,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Cognition](https://www.cognition.ai/) — Devin SWE agent.
 * [Scale AI](https://scale.com/) — data labeling and infrastructure.
 * [DataRobot](https://www.datarobot.com/) — enterprise ML platform.
+* [Enhanciar](https://enhanciar.in) — answers from Slack, Gmail, Notion and Drive with sources.
 
 ### AI Consulting & Implementation
 
