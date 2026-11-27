@@ -542,6 +542,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [Exa](https://exa.ai/) — search engine designed for AI/LLMs.
 * [Tavily](https://tavily.com/) — search API for agents.
 * [Linkup](https://www.linkup.so/) 🆕 — AI-grade search API.
+* [Keenable](https://keenable.ai/) — web search API for AI agents, with its own crawler and index.
 
 ---
 
