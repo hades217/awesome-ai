@@ -581,6 +581,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 * [**Udio**](https://www.udio.com/) — music generation.
 
 ### Writing & Content
+- [StyleFuse](https://stylefuse.top/) — 6-agent closed-loop academic writing & style-fusion workbench with deterministic AI-cliché/language auditing, interactive red/green Canvas diff, and format-preserving `.docx` export.
 
 * [Jasper AI](https://www.jasper.ai/) — AI writer for marketing teams.
 * [Writesonic](https://writesonic.com/) — SEO content generator.
