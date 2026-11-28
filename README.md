@@ -599,6 +599,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 * [Bloomberg GPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/) — finance-specific LLM.
 * [Hebbia](https://www.hebbia.com/) — AI for financial analysts.
+* [**AlphaSift**](https://github.com/ZhuLinsen/alphasift) — open-source multi-market quantitative stock research engine, Walk-Forward T+N evaluator, Agent Skill, and 14-tool read-only MCP server.
 
 ### Legal
 
