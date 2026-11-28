@@ -506,6 +506,7 @@ Contributions welcome — open a PR or [start a discussion](https://github.com/h
 
 ## 🧠 Personal AI Tools
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 ### General Assistants
 
 * [**Claude**](https://claude.ai/) ⭐ — Anthropic's assistant; long context, careful reasoning.
